@@ -1,0 +1,1047 @@
+ID,Make,Vehicle_Class,Engine_Size,Cylinders,Transmission,Fuel_Type,Fuel_Consumption_City,Fuel_Consumption_Hwy,Fuel_Consumption_Comb,CO2_Emissions
+1,Acura,Compact,2.4,4,AM8,Z,9.9,7,8.6,199
+2,Acura,SUV: Small,3.5,6,AS9,Z,12.2,9,10.8,252
+3,Acura,SUV: Small,3.5,6,AS9,Z,12.2,9.5,11,258
+4,Acura,SUV: Small,3,6,AM7,Z,9.1,9,9,210
+5,Acura,Two-seater,3.5,6,AM9,Z,11.1,10.8,11,261
+6,Acura,SUV: Small,2,4,AS10,Z,11,8.6,9.9,232
+7,Acura,SUV: Small,2,4,AS10,Z,11.3,9.1,10.3,242
+8,Acura,Mid-size,3.5,6,AM7,Z,8.4,8.2,8.4,196
+9,Acura,Compact,2.4,4,AM8,Z,10,7.1,8.7,205
+10,Acura,Compact,2.4,4,AM8,Z,10.2,7.4,8.9,209
+11,Acura,Compact,3.5,6,AS9,Z,11.4,7.7,9.8,228
+12,Acura,Compact,3.5,6,AS9,Z,12,8.2,10.3,240
+13,Alfa Romeo,Two-seater,1.8,4,AM6,Z,9.7,6.9,8.4,197
+14,Alfa Romeo,Two-seater,1.8,4,AM6,Z,9.7,6.9,8.4,197
+15,Alfa Romeo,Mid-size,2,4,A8,Z,10,7.2,8.7,205
+16,Alfa Romeo,Mid-size,2,4,A8,Z,10.5,7.7,9.2,217
+17,Alfa Romeo,Mid-size,2.9,6,A8,Z,13.8,9.6,11.9,280
+18,Alfa Romeo,SUV: Small,2,4,A8,Z,10.3,8.1,9.3,218
+19,Alfa Romeo,SUV: Small,2,4,A8,Z,10.8,8.3,9.6,226
+20,Alfa Romeo,SUV: Small,2.9,6,A8,Z,14.1,10.4,12.4,292
+21,Aston Martin,Minicompact,4,8,A8,Z,13,9.8,11.5,271
+22,Aston Martin,Minicompact,5.2,12,A8,Z,15.5,10.6,13.3,312
+23,Aston Martin,Minicompact,5.2,12,A8,Z,16.4,10.7,13.8,324
+24,Aston Martin,Subcompact,6,12,A8,Z,16.7,10.9,14.1,332
+25,Aston Martin,Minicompact,6,12,A8,Z,17.5,11.4,14.7,346
+26,Aston Martin,Two-seater,4,8,A8,Z,12.7,9.4,11.2,264
+27,Audi,Subcompact,2,4,AM7,X,9.1,6.8,8.1,188
+28,Audi,Subcompact,2,4,AM7,X,10.9,7.9,9.6,225
+29,Audi,Subcompact,2,4,AM7,X,10.7,7.9,9.5,221
+30,Audi,Compact,2,4,AM7,Z,8.6,6.9,7.8,182
+31,Audi,Compact,2,4,AM7,Z,10,7,8.7,204
+32,Audi,Station wagon: Small,2,4,AM7,Z,10.7,8,9.5,221
+33,Audi,Subcompact,2,4,AM7,Z,10,7,8.7,204
+34,Audi,Subcompact,2,4,AM7,Z,10,7,8.7,204
+35,Audi,Mid-size,2,4,AM7,Z,10,7,8.7,204
+36,Audi,Mid-size,3,6,AM7,Z,10.7,8.2,9.6,224
+37,Audi,Mid-size,3,6,AM7,Z,10.7,8.2,9.6,224
+38,Audi,Full-size,3,6,AS8,Z,12.5,8.6,10.8,202
+39,Audi,SUV: Small,2,4,AS8,X,12.3,8.6,10.6,248
+40,Audi,SUV: Small,2,4,AM7,Z,10.9,8.7,9.9,230
+41,Audi,SUV: Standard,2,4,AS8,Z,12.2,9.5,11,258
+42,Audi,SUV: Standard,3,6,AS8,Z,12.6,9.4,11.1,260
+43,Audi,SUV: Standard,3,6,AS8,Z,14,10.7,12.5,294
+44,Audi,Subcompact,2.5,5,AM7,Z,12.4,8.4,10.6,247
+45,Audi,Subcompact,2.9,6,AS8,Z,13.3,8.7,11.3,262
+46,Audi,Subcompact,2.9,6,AS8,Z,13.5,9,11.5,268
+47,Audi,Subcompact,2,4,AM7,Z,10.7,8,9.5,222
+48,Audi,Compact,3,6,AS8,Z,11.3,8,9.8,230
+49,Audi,Subcompact,3,6,AS8,Z,11.3,8,9.8,230
+50,Audi,Subcompact,3,6,AS8,Z,11.4,8.2,9.9,234
+51,Audi,Mid-size,3,6,AS8,Z,11.3,8,9.8,230
+52,Audi,SUV: Small,3,6,AS8,Z,12.7,10,11.5,270
+53,Audi,Subcompact,2,4,AM7,X,10.3,7.7,9.2,213
+54,Audi,Two-seater,2,4,AM7,X,10.3,7.7,9.2,213
+55,Audi,Subcompact,2.5,5,AM7,Z,12,8.3,10.3,241
+56,Audi,Subcompact,2,4,AM7,Z,10.4,8.2,9.4,220
+57,Bentley,SUV: Standard,4,8,AS8,Z,16.4,10.1,13.6,315
+58,Bentley,Mid-size,6.8,8,AS8,Z,24.5,14.4,20,465
+59,BMW,Subcompact,2,4,AS8,Z,10.2,7.2,8.8,207
+60,BMW,Subcompact,2,4,AS8,Z,9.9,7.1,8.6,202
+61,BMW,Compact,2,4,AS8,Z,9.5,6.9,8.3,194
+62,BMW,Full-size,2,4,AS8,Z,10.2,7.2,8.8,207
+63,BMW,Station wagon: Small,2,4,AS8,Z,10.2,7.2,8.8,207
+64,BMW,Subcompact,2,4,AS8,Z,10.6,7.3,9.1,213
+65,BMW,Compact,2,4,AS8,Z,10.2,7.2,8.8,207
+66,BMW,Compact,2,4,AS8,Z,10.2,7.2,8.8,207
+67,BMW,Compact,3,6,AS8,Z,11.2,7.3,9.4,227
+68,BMW,Compact,3,6,M6,Z,12.8,8.8,11,256
+69,BMW,Subcompact,3,6,AS8,Z,11.8,7.9,10,235
+70,BMW,Compact,3,6,AS8,Z,11.4,7.6,9.7,228
+71,BMW,Compact,3,6,M6,Z,13,8.5,11,256
+72,BMW,Compact,3,6,AS8,Z,11.4,7.6,9.7,228
+73,BMW,Mid-size,2,4,AS8,Z,10.2,7.2,8.8,207
+74,BMW,Mid-size,3,6,AS8,Z,11.2,8.1,9.8,231
+75,BMW,Compact,3,6,AS8,Z,12.3,8.4,10.5,248
+76,BMW,Full-size,3,6,AS8,Z,11.9,8.4,10.3,241
+77,BMW,Compact,4.4,8,AS8,Z,14,9.6,12,282
+78,BMW,Full-size,4.4,8,AS8,Z,13.3,9.2,11.5,269
+79,BMW,Full-size,4.4,8,AS8,Z,14,9.6,12,282
+80,BMW,Compact,4.4,8,AS8,Z,14,9.6,12,282
+81,BMW,Full-size,4.4,8,AS8,Z,14,9.6,12,282
+82,BMW,Subcompact,3,6,AM7,Z,14.3,10.4,12.6,294
+83,BMW,Subcompact,3,6,M6,Z,13.4,9.6,11.7,273
+84,BMW,Subcompact,3,6,AS8,Z,11.2,7.8,9.7,227
+85,BMW,Subcompact,3,6,M6,Z,12.8,8.8,11,256
+86,BMW,Subcompact,3,6,AS8,Z,11.2,7.8,9.7,227
+87,BMW,Subcompact,3,6,M6,Z,12.8,8.8,11,256
+88,BMW,Subcompact,3,6,AS8,Z,11.2,7.8,9.7,227
+89,BMW,Subcompact,3,6,M6,Z,12.8,8.8,11,256
+90,BMW,Subcompact,3,6,AS8,Z,11.3,8,9.8,229
+91,BMW,Subcompact,3,6,AS8,Z,11.3,8,9.8,229
+92,BMW,Subcompact,3,6,AS8,Z,11.3,8,9.8,229
+93,BMW,Subcompact,3,6,AM7,Z,14.5,10.5,12.7,299
+94,BMW,Subcompact,3,6,M6,Z,13.8,9.4,11.9,280
+95,BMW,Subcompact,3,6,AM7,Z,14.5,10.5,12.7,299
+96,BMW,Subcompact,3,6,M6,Z,13.8,9.4,11.9,280
+97,BMW,Compact,3,6,AM7,Z,14.3,10.4,12.6,294
+98,BMW,Compact,3,6,M6,Z,13.4,9.6,11.7,273
+99,BMW,Compact,3,6,AM7,Z,14.3,10.4,12.6,294
+100,BMW,Compact,3,6,M6,Z,13.4,9.6,11.7,273
+101,BMW,Compact,3,6,AM7,Z,14.3,10.4,12.6,294
+102,BMW,Mid-size,4.4,8,AS8,Z,16,11.2,13.9,324
+103,BMW,Mid-size,4.4,8,AS8,Z,16,11.2,13.9,324
+104,BMW,Mid-size,4.4,8,AS8,Z,13.3,9.2,11.5,269
+105,BMW,Compact,4.4,8,AM7,Z,17.3,11.6,14.7,344
+106,BMW,Full-size,6.6,12,AS8,Z,17.7,11.9,15.1,355
+107,BMW,Subcompact,4.4,8,AS8,Z,13.5,9.2,11.6,270
+108,BMW,Subcompact,4.4,8,AS8,Z,13.3,9.2,11.5,269
+109,BMW,SUV: Small,2,4,AS8,Z,10.7,7.5,9.3,217
+110,BMW,SUV: Small,2,4,AS8,Z,11,7.7,9.5,222
+111,BMW,SUV: Small,2,4,AS8,Z,10.8,8,9.6,223
+112,BMW,SUV: Small,3,6,AS8,Z,11.9,8.7,10.4,245
+113,BMW,SUV: Small,2,4,AS8,Z,10.8,8,9.6,223
+114,BMW,SUV: Small,3,6,AS8,Z,11.9,8.7,10.4,245
+115,BMW,SUV: Standard,3,6,AS8,Z,11.7,9.1,10.5,245
+116,BMW,SUV: Standard,4.4,8,AS8,Z,15.3,11.1,13.4,314
+117,BMW,SUV: Standard,3,6,AS8,Z,13,9.9,11.6,272
+118,BMW,SUV: Standard,4.4,8,AS8,Z,14.3,10.6,12.6,294
+119,BMW,SUV: Standard,4.4,8,AS8,Z,16.6,12.1,14.6,341
+120,BMW,SUV: Standard,3,6,AS8,Z,12,9.4,10.8,254
+121,BMW,SUV: Standard,4.4,8,AS8,Z,14.3,10.6,12.6,294
+122,Bugatti,Two-seater,8,16,AM7,Z,26.8,16.6,22.2,522
+123,Buick,SUV: Standard,3.6,6,A9,X,13,9.1,11.2,263
+124,Buick,SUV: Standard,3.6,6,A9,X,13.8,9.5,11.9,278
+125,Buick,SUV: Small,1.4,4,AS6,X,9.4,7.8,8.7,204
+126,Buick,SUV: Small,1.4,4,AS6,X,8.9,7.5,8.3,194
+127,Buick,SUV: Small,1.4,4,AS6,X,9.9,8.1,9.1,214
+128,Buick,SUV: Small,1.4,4,AS6,X,9.4,7.9,8.8,205
+129,Buick,SUV: Small,2,4,A9,Z,11.7,9.4,10.7,249
+130,Buick,SUV: Small,2.5,4,A6,X,11.1,8.6,10,234
+131,Buick,Mid-size,3.6,6,AS9,X,11.7,7.8,9.9,233
+132,Buick,Mid-size,2.5,4,AS6,X,9.4,6.8,8.2,192
+133,Buick,Mid-size,3.6,6,AS9,X,11.7,8.2,10.1,238
+134,Buick,Mid-size,2,4,AS9,Z,10.6,7.4,9.1,214
+135,Buick,Mid-size,2,4,AS8,Z,11,8,9.6,227
+136,Buick,Mid-size,3.6,6,AS9,X,12.4,8.7,10.7,251
+137,Cadillac,Full-size,3,6,AS10,Z,13.1,9.1,11.3,267
+138,Cadillac,Full-size,3.6,6,AS10,X,13,8.8,11.1,261
+139,Cadillac,Full-size,4.2,8,AS10,Z,17.3,9.5,13.8,324
+140,Cadillac,Mid-size,2,4,AS8,Z,11,7.8,9.5,222
+141,Cadillac,Mid-size,3.6,6,AS8,X,12.3,8.2,10.5,246
+142,Cadillac,Mid-size,2,4,AS8,Z,11.4,8.1,9.9,232
+143,Cadillac,Mid-size,3.6,6,AS8,X,13.3,9.2,11.5,269
+144,Cadillac,Mid-size,3.6,6,AS8,Z,15,9.9,12.7,298
+145,Cadillac,Mid-size,6.2,8,AS8,Z,17.1,11,14.3,337
+146,Cadillac,SUV: Standard,6.2,8,A10,Z,16.6,10.9,14,328
+147,Cadillac,SUV: Small,2,4,AS9,Z,9.8,7.8,8.9,209
+148,Cadillac,SUV: Small,2,4,AS9,Z,10.9,8.2,9.7,227
+149,Cadillac,SUV: Small,3.6,6,AS8,X,12.1,8.9,10.6,250
+150,Cadillac,SUV: Small,3.6,6,AS8,X,12.8,9.3,11.2,263
+151,Cadillac,Full-size,3.6,6,AS6,X,12.9,8.7,11,259
+152,Cadillac,Full-size,3.6,6,AS6,X,13.7,9,11.6,272
+153,Cadillac,Full-size,3.6,6,AS6,Z,15,10.1,12.8,302
+154,Chevrolet,SUV: Small,2.5,4,A9,X,10.8,8.8,9.9,232
+155,Chevrolet,SUV: Small,3.6,6,A9,X,12,9,10.6,250
+156,Chevrolet,SUV: Small,3.6,6,A9,X,12.7,9.5,11.3,265
+157,Chevrolet,Subcompact,2,4,AS8,Z,10.8,7.7,9.4,220
+158,Chevrolet,Subcompact,2,4,M6,Z,11.9,7.9,10.1,235
+159,Chevrolet,Subcompact,3.6,6,AS8,X,12.3,8.2,10.4,246
+160,Chevrolet,Subcompact,3.6,6,M6,X,14.3,8.8,11.8,277
+161,Chevrolet,Subcompact,6.2,8,AS10,Z,14.5,8.8,12,279
+162,Chevrolet,Subcompact,6.2,8,M6,Z,14.9,9.9,12.6,297
+163,Chevrolet,Subcompact,6.2,8,AS10,Z,18.3,11.2,15.1,355
+164,Chevrolet,Subcompact,6.2,8,M6,Z,17.2,12,14.9,349
+165,Chevrolet,Pickup truck: Small,2.5,4,A6,X,12.1,9.2,10.8,253
+166,Chevrolet,Pickup truck: Small,2.5,4,M6,X,11.9,9.2,10.7,251
+167,Chevrolet,Pickup truck: Small,2.8,4,A6,D,11.8,7.9,10.1,270
+168,Chevrolet,Pickup truck: Small,3.6,6,A8,X,13.4,9.6,11.7,274
+169,Chevrolet,Pickup truck: Small,2.5,4,A6,X,12.7,9.8,11.4,267
+170,Chevrolet,Pickup truck: Small,2.8,4,A6,D,12.2,8.4,10.5,283
+171,Chevrolet,Pickup truck: Small,3.6,6,A8,X,14,9.9,12.2,286
+172,Chevrolet,Pickup truck: Small,2.8,4,A6,D,13.3,10.6,12.1,326
+173,Chevrolet,Pickup truck: Small,3.6,6,A8,X,15,13,14.1,331
+174,Chevrolet,Two-seater,6.2,8,AS8,Z,15.6,9.2,12.7,299
+175,Chevrolet,Two-seater,6.2,8,M7,Z,14.6,9.3,12.2,286
+176,Chevrolet,Two-seater,6.2,8,AS8,Z,17.2,10.1,14,331
+177,Chevrolet,Two-seater,6.2,8,M7,Z,15.9,10.6,13.5,318
+178,Chevrolet,Two-seater,6.2,8,AS8,Z,19.5,12,16.1,381
+179,Chevrolet,Two-seater,6.2,8,M7,Z,18.2,12.5,15.6,368
+180,Chevrolet,Compact,1.4,4,AS6,X,8.3,6.2,7.3,172
+181,Chevrolet,Compact,1.4,4,AS6,X,8.3,6.2,7.3,172
+182,Chevrolet,Compact,1.6,4,A9,D,7.6,4.9,6.4,172
+183,Chevrolet,Mid-size,1.4,4,AS6,X,8.3,6.2,7.3,172
+184,Chevrolet,Mid-size,1.4,4,AS6,X,8.5,6.4,7.5,175
+185,Chevrolet,Mid-size,1.6,4,A9,D,7.8,5.2,6.6,178
+186,Chevrolet,SUV: Small,1.5,4,A6,X,9.2,7.3,8.3,196
+187,Chevrolet,SUV: Small,1.6,4,A6,D,8.5,6,7.4,199
+188,Chevrolet,SUV: Small,1.5,4,A6,X,9.3,7.8,8.6,207
+189,Chevrolet,SUV: Small,1.6,4,A6,D,8.5,6.1,7.4,199
+190,Chevrolet,SUV: Small,2,4,A9,Z,10.9,8.3,9.7,228
+191,Chevrolet,Full-size,2.5,4,AS6,X,10.8,8,9.6,225
+192,Chevrolet,Full-size,3.6,6,AS6,X,12.7,8.5,10.8,254
+193,Chevrolet,Full-size,3.6,6,AS6,E,17.2,11.6,14.6,245
+194,Chevrolet,Mid-size,1.5,4,AV,X,8.2,6.6,7.5,174
+195,Chevrolet,Mid-size,2,4,A9,Z,10.5,7.4,9.1,214
+196,Chevrolet,Mid-size,1.8,4,AV,X,4.8,5.5,5.1,121
+197,Chevrolet,Pickup truck: Standard,2.7,4,A8,X,11.9,10.3,11.1,261
+198,Chevrolet,Pickup truck: Standard,4.3,6,A6,X,15.1,11.5,13.5,316
+199,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,15.9,11.4,13.9,326
+200,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,15.7,11.9,14,329
+201,Chevrolet,Pickup truck: Standard,5.3,8,A6,E,21.1,15,18.4,306
+202,Chevrolet,Pickup truck: Standard,5.3,8,A8,X,14.1,10.2,12.4,290
+203,Chevrolet,Pickup truck: Standard,2.7,4,A8,X,12.5,10.8,11.7,275
+204,Chevrolet,Pickup truck: Standard,4.3,6,A6,X,15.8,11.9,14,329
+205,Chevrolet,Pickup truck: Standard,4.3,6,A6,X,16.3,12.9,14.8,347
+206,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,15.9,11.7,14,329
+207,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,16.1,12.5,14.4,339
+208,Chevrolet,Pickup truck: Standard,5.3,8,A6,E,22,16.1,19.3,322
+209,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,16.5,13,14.9,350
+210,Chevrolet,Pickup truck: Standard,5.3,8,A8,X,14.9,10.8,13.1,306
+211,Chevrolet,Pickup truck: Standard,5.3,8,A8,X,15.3,11.8,13.7,320
+212,Chevrolet,Pickup truck: Standard,6.2,8,A10,Z,15,12,13.7,321
+213,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,15.6,10.9,13.5,317
+214,Chevrolet,Pickup truck: Standard,5.3,8,A6,X,15.8,11.4,13.8,325
+215,Chevrolet,Subcompact,1.4,4,AV,X,7.9,6.2,7.1,167
+216,Chevrolet,Subcompact,1.4,4,M5,X,8,6.2,7.2,170
+217,Chevrolet,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+218,Chevrolet,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+219,Chevrolet,SUV: Standard,5.3,8,A6,E,21.2,13.9,17.9,298
+220,Chevrolet,SUV: Standard,5.3,8,A6,X,16.8,11.3,14.3,336
+221,Chevrolet,SUV: Standard,5.3,8,A6,X,16.8,11.3,14.3,336
+222,Chevrolet,SUV: Standard,5.3,8,A6,E,22.2,15.2,19,317
+223,Chevrolet,SUV: Standard,6.2,8,A10,Z,17.1,11.3,14.5,340
+224,Chevrolet,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+225,Chevrolet,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+226,Chevrolet,SUV: Standard,5.3,8,A6,E,21.2,13.9,17.9,298
+227,Chevrolet,SUV: Standard,5.3,8,A6,X,15.8,11.1,13.7,321
+228,Chevrolet,SUV: Standard,5.3,8,A6,X,15.8,11.1,13.7,321
+229,Chevrolet,SUV: Standard,5.3,8,A6,E,21.7,14.3,18.4,305
+230,Chevrolet,SUV: Standard,6.2,8,A10,Z,16.4,10.7,13.8,325
+231,Chevrolet,SUV: Standard,3.6,6,A9,X,13,8.8,11.1,261
+232,Chevrolet,SUV: Standard,3.6,6,A9,X,13.7,9.5,11.8,277
+233,Chevrolet,SUV: Small,1.4,4,AS6,X,9.1,7.6,8.4,196
+234,Chevrolet,SUV: Small,1.4,4,M6,X,9.4,6.9,8.3,194
+235,Chevrolet,SUV: Small,1.4,4,AS6,X,9.9,8.1,9.1,214
+236,Chrysler,Full-size,3.6,6,A8,X,12.4,7.8,10.3,242
+237,Chrysler,Full-size,3.6,6,A8,X,12.4,7.8,10.3,242
+238,Chrysler,Full-size,3.6,6,A8,E,17.1,10.6,14.2,234
+239,Chrysler,Full-size,5.7,8,A8,X,14.7,9.4,12.3,289
+240,Chrysler,Full-size,3.6,6,A8,X,12.8,8.7,11,258
+241,Chrysler,Full-size,3.6,6,A8,X,12.8,8.7,11,258
+242,Chrysler,Full-size,3.6,6,A8,E,17.6,12,15,248
+243,Chrysler,Minivan,3.6,6,A9,X,12.9,8.4,10.9,259
+244,Chrysler,Minivan,3.6,6,A9,X,12.4,8.4,10.6,249
+245,Dodge,Mid-size,3.6,6,A8,X,12.4,7.8,10.3,242
+246,Dodge,Mid-size,5.7,8,M6,Z,15.6,10.1,13.1,307
+247,Dodge,Mid-size,6.4,8,M6,Z,16.7,10.4,13.9,325
+248,Dodge,Mid-size,5.7,8,A8,X,14.7,9.4,12.3,289
+249,Dodge,Mid-size,6.4,8,A8,Z,15.8,9.6,13,304
+250,Dodge,Mid-size,3.6,6,A8,X,12.8,8.7,11,258
+251,Dodge,Mid-size,6.2,8,A8,Z,17.6,10.7,14.5,339
+252,Dodge,Mid-size,6.2,8,M6,Z,18.1,11.4,15.1,352
+253,Dodge,Mid-size,6.2,8,A8,Z,17.6,10.7,14.5,339
+254,Dodge,Full-size,3.6,6,A5,X,13.7,9,11.6,271
+255,Dodge,Full-size,3.6,6,A5,X,13.7,9,11.6,271
+256,Dodge,Full-size,3.6,6,A5,E,18.9,12.7,16.1,268
+257,Dodge,Full-size,3.6,6,A8,X,12.4,7.8,10.3,242
+258,Dodge,Full-size,3.6,6,A8,X,12.4,7.8,10.3,242
+259,Dodge,Full-size,3.6,6,A8,E,17.1,10.6,14.2,234
+260,Dodge,Full-size,5.7,8,A5,X,15.6,9.7,12.9,302
+261,Dodge,Full-size,5.7,8,A8,X,14.7,9.4,12.3,289
+262,Dodge,Full-size,6.4,8,A8,Z,15.8,9.6,13,304
+263,Dodge,Full-size,3.6,6,A8,X,12.8,8.7,11,258
+264,Dodge,Full-size,3.6,6,A8,X,12.8,8.7,11,258
+265,Dodge,Full-size,3.6,6,A8,E,17.6,12,15,248
+266,Dodge,Full-size,5.7,8,A5,X,16,10.1,13.3,312
+267,Dodge,Full-size,6.2,8,A8,Z,17.6,10.7,14.5,339
+268,Dodge,SUV: Standard,3.6,6,A8,X,12.7,9.6,11.3,265
+269,Dodge,SUV: Standard,5.7,8,A8,X,16.7,10.9,14.1,331
+270,Dodge,SUV: Standard,6.4,8,A8,Z,18.3,12.2,15.6,363
+271,Dodge,Minivan,3.6,6,A6,X,13.7,9.4,11.8,276
+272,Dodge,Minivan,3.6,6,A6,E,19.4,13.3,16.7,274
+273,Dodge,SUV: Small,2.4,4,A4,X,12.7,9.2,11.1,261
+274,Dodge,SUV: Small,3.6,6,A6,X,14.2,9.5,12.1,284
+275,Dodge,SUV: Small,3.6,6,A6,E,19.1,13.2,16.4,274
+276,Dodge,SUV: Small,3.6,6,A6,X,14.5,10,12.4,292
+277,FIAT,Two-seater,1.4,4,A6,X,9.3,6.5,8,187
+278,FIAT,Two-seater,1.4,4,M6,X,9,6.7,7.9,185
+279,FIAT,Minicompact,1.4,4,A6,X,9.7,7.4,8.7,203
+280,FIAT,Minicompact,1.4,4,M5,X,8.5,7.1,7.9,186
+281,FIAT,Station wagon: Small,1.4,4,A6,X,10.7,7.9,9.4,221
+282,FIAT,SUV: Small,1.3,4,A9,X,10,7.9,9.1,213
+283,Ford,SUV: Small,1,3,AS6,X,8.6,8.1,8.4,196
+284,Ford,SUV: Small,2,4,AS6,X,10.2,8,9.3,218
+285,Ford,SUV: Small,2,4,AS8,X,10.9,8,9.6,224
+286,Ford,SUV: Small,2,4,AS8,X,11.4,8.3,10,233
+287,Ford,SUV: Small,2.7,6,AS8,X,12.6,9.2,11,259
+288,Ford,SUV: Small,1.5,4,AS6,X,10.2,7.8,9.1,214
+289,Ford,SUV: Small,2.5,4,AS6,X,11,8,9.6,226
+290,Ford,SUV: Small,2.5,4,AS6,E,15,10.8,13.1,218
+291,Ford,SUV: Small,1.5,4,AS6,X,11.2,8.4,9.9,232
+292,Ford,SUV: Small,2,4,AS6,X,11.5,8.7,10.2,239
+293,Ford,SUV: Standard,3.5,6,AS10,X,14.1,10.6,12.5,293
+294,Ford,SUV: Standard,3.5,6,AS10,X,14.7,11.2,13.1,307
+295,Ford,SUV: Standard,2.3,4,AS6,X,13.1,9.2,11.4,267
+296,Ford,SUV: Standard,3.5,6,AS6,X,15.2,10.9,13.2,311
+297,Ford,SUV: Standard,3.5,6,AS6,X,14.5,10.6,12.7,299
+298,Ford,SUV: Standard,3.5,6,AS6,E,19.8,14.3,17.3,288
+299,Ford,Pickup truck: Standard,2.7,6,AS10,X,12,9,10.6,249
+300,Ford,Pickup truck: Standard,2.7,6,AS10,X,12.4,9.4,11.1,260
+301,Ford,Pickup truck: Standard,2.7,6,AS10,X,12.4,9.4,11.1,260
+302,Ford,Pickup truck: Standard,3,6,AS10,D,10.8,8,9.5,256
+303,Ford,Pickup truck: Standard,3,6,AS10,D,10.8,8.4,9.7,260
+304,Ford,Pickup truck: Standard,3.3,6,AS6,X,12.2,9.3,10.9,256
+305,Ford,Pickup truck: Standard,3.3,6,AS6,E,16.7,12.6,14.9,247
+306,Ford,Pickup truck: Standard,3.3,6,AS6,X,12.4,9.8,11.2,263
+307,Ford,Pickup truck: Standard,3.3,6,AS6,E,16.7,12.6,14.9,247
+308,Ford,Pickup truck: Standard,3.5,6,AS10,X,13.5,10.1,12,281
+309,Ford,Pickup truck: Standard,3.5,6,AS10,X,13.8,10.7,12.4,291
+310,Ford,Pickup truck: Standard,3.5,6,AS10,X,13.9,11.2,12.7,298
+311,Ford,Pickup truck: Standard,5,8,AS10,X,13.9,10.2,12.2,287
+312,Ford,Pickup truck: Standard,5,8,AS10,E,20.3,14,17.4,290
+313,Ford,Pickup truck: Standard,5,8,AS10,X,14.7,11.2,13.1,308
+314,Ford,Pickup truck: Standard,5,8,AS10,E,20.3,14,17.5,290
+315,Ford,Pickup truck: Standard,5,8,AS10,X,15.6,11.8,13.9,326
+316,Ford,Pickup truck: Standard,5,8,AS10,E,20.4,14,17.5,291
+317,Ford,Pickup truck: Standard,2.7,6,AS10,X,12.7,9.8,11.4,268
+318,Ford,Pickup truck: Standard,2.7,6,AS10,X,13.1,10.2,11.8,277
+319,Ford,Pickup truck: Standard,2.7,6,AS10,X,13.1,10.2,11.8,277
+320,Ford,Pickup truck: Standard,3,6,AS10,D,11.8,9.3,10.7,287
+321,Ford,Pickup truck: Standard,3,6,AS10,D,11.8,9.3,10.7,287
+322,Ford,Pickup truck: Standard,3,6,AS10,D,11.2,8.3,9.9,266
+323,Ford,Pickup truck: Standard,3.3,6,AS6,X,12.8,10.2,11.6,273
+324,Ford,Pickup truck: Standard,3.3,6,AS6,E,17.5,13.8,15.8,263
+325,Ford,Pickup truck: Standard,3.3,6,AS6,X,13.8,10.7,12.4,291
+326,Ford,Pickup truck: Standard,3.3,6,AS6,E,17.5,13.7,15.8,263
+327,Ford,Pickup truck: Standard,3.5,6,AS10,X,14.3,10.5,12.5,295
+328,Ford,Pickup truck: Standard,3.5,6,AS10,X,14.7,10.7,12.9,303
+329,Ford,Pickup truck: Standard,3.5,6,AS10,X,14.7,11.2,13.1,308
+330,Ford,Pickup truck: Standard,3.5,6,AS10,X,13.8,11.2,12.6,296
+331,Ford,Pickup truck: Standard,5,8,AS10,X,15.1,11,13.3,312
+332,Ford,Pickup truck: Standard,5,8,AS10,E,20,15.6,18,300
+333,Ford,Pickup truck: Standard,5,8,AS10,X,15.7,11.8,13.9,326
+334,Ford,Pickup truck: Standard,5,8,AS10,E,20,15.6,18,300
+335,Ford,Pickup truck: Standard,5,8,AS10,X,16.8,12.4,14.8,347
+336,Ford,Pickup truck: Standard,5,8,AS10,E,21.3,17.2,19.5,323
+337,Ford,Pickup truck: Standard,3.5,6,AS10,X,15.3,13.1,14.3,336
+338,Ford,SUV: Standard,3.5,6,AS6,X,14.7,10.2,12.7,298
+339,Ford,SUV: Standard,3.5,6,AS6,X,14.7,10.7,12.9,303
+340,Ford,SUV: Standard,3.5,6,AS6,X,15.7,11.2,13.7,322
+341,Ford,Subcompact,1.6,4,AM6,X,8.6,6.4,7.6,178
+342,Ford,Subcompact,1.6,4,M5,X,8.8,6.8,7.9,184
+343,Ford,Subcompact,1.6,4,M6,X,9.2,7.4,8.4,196
+344,Ford,Mid-size,1.5,4,AS6,X,10,7,8.7,204
+345,Ford,Mid-size,2,4,AV,X,5.5,5.6,5.6,131
+346,Ford,Two-seater,3.5,6,AM7,Z,20.4,13.1,17.1,402
+347,Ford,Subcompact,2.3,4,AS10,X,11.2,7.3,9.4,221
+348,Ford,Subcompact,2.3,4,AS10,X,11.8,8.4,10.3,242
+349,Ford,Subcompact,2.3,4,M6,X,11.2,7.9,9.7,227
+350,Ford,Subcompact,2.3,4,M6,X,11.8,8.7,10.4,244
+351,Ford,Subcompact,5,8,AS10,X,15,9.1,12.3,289
+352,Ford,Subcompact,5,8,M6,X,16.1,9.9,13.3,311
+353,Ford,Subcompact,5,8,M6,X,16.1,9.9,13.3,311
+354,Ford,Subcompact,2.3,4,AS10,X,11.9,8.4,10.4,243
+355,Ford,Subcompact,2.3,4,M6,X,11.8,8.4,10.3,241
+356,Ford,Subcompact,5,8,AS10,X,15.4,9.7,12.9,302
+357,Ford,Pickup truck: Standard,2.3,4,AS10,X,11.8,9.8,10.9,256
+358,Ford,Subcompact,5.2,8,M6,Z,17.2,11.3,14.6,341
+359,Ford,Van: Passenger,3.5,6,AS6,X,16.2,12.8,14.7,346
+360,Ford,Van: Passenger,3.7,6,AS6,X,16.9,13.1,15.2,355
+361,Ford,Full-size,3.5,6,AS6,X,13.5,9,11.5,270
+362,Ford,Full-size,3.5,6,AS6,E,17.8,12.1,15.2,254
+363,Ford,Full-size,3.5,6,AS6,X,14.6,10,12.5,294
+364,Ford,Full-size,3.5,6,AS6,X,14,9.9,12.4,291
+365,Ford,Full-size,3.5,6,AS6,E,18.5,13,16,267
+366,Ford,Special purpose vehicle,2,4,AS8,X,9.8,8.8,9.3,219
+367,Ford,Special purpose vehicle,2,4,AS8,X,9.8,8.8,9.3,219
+368,Ford,Special purpose vehicle,2,4,AS8,E,13.3,11.8,12.6,209
+369,Ford,Special purpose vehicle,2.5,4,AS6,X,12,8.8,10.6,247
+370,Ford,Special purpose vehicle,2,4,AS8,X,9.9,8.2,9.2,214
+371,Ford,Special purpose vehicle,2,4,AS8,X,9.9,8.2,9.2,214
+372,Ford,Special purpose vehicle,2,4,AS8,E,13.7,11.1,12.5,208
+373,Ford,Special purpose vehicle,2.5,4,AS6,X,12.1,9,10.7,251
+374,Genesis,Compact,2,4,M6,Z,12.8,8.5,10.9,255
+375,Genesis,Compact,2,4,AS8,Z,11.5,8.7,10.3,241
+376,Genesis,Compact,3.3,6,AS8,Z,13.3,9.5,11.6,274
+377,Genesis,Full-size,3.3,6,AS8,Z,13.8,9.7,11.9,282
+378,Genesis,Full-size,3.8,6,AS8,X,13.4,9.6,11.7,276
+379,Genesis,Full-size,5,8,AS8,Z,15.6,10.4,13.2,312
+380,Genesis,Full-size,3.3,6,AS8,Z,13.7,9.7,11.9,279
+381,Genesis,Full-size,5,8,AS8,Z,15.2,10.2,13,306
+382,GMC,SUV: Standard,2.5,4,A6,X,11.1,9.2,10.2,237
+383,GMC,SUV: Standard,3.6,6,A6,X,13.1,9.4,11.4,268
+384,GMC,SUV: Standard,2.5,4,A6,X,11.3,9.4,10.5,248
+385,GMC,SUV: Standard,3.6,6,A6,X,13.5,9.5,11.7,275
+386,GMC,Pickup truck: Small,2.5,4,A6,X,12.1,9.2,10.8,253
+387,GMC,Pickup truck: Small,2.5,4,M6,X,11.9,9.2,10.7,251
+388,GMC,Pickup truck: Small,2.8,4,A6,D,11.8,7.9,10.1,270
+389,GMC,Pickup truck: Small,3.6,6,A8,X,13.4,9.6,11.7,274
+390,GMC,Pickup truck: Small,2.5,4,A6,X,12.7,9.8,11.4,267
+391,GMC,Pickup truck: Small,2.8,4,A6,D,12.2,8.4,10.5,283
+392,GMC,Pickup truck: Small,3.6,6,A8,X,14,9.9,12.2,286
+393,GMC,Pickup truck: Standard,2.7,4,A8,X,11.9,10.3,11.1,261
+394,GMC,Pickup truck: Standard,4.3,6,A6,X,15.1,11.5,13.5,317
+395,GMC,Pickup truck: Standard,5.3,8,A6,X,15.9,11.4,13.9,326
+396,GMC,Pickup truck: Standard,5.3,8,A6,X,15.7,11.9,14,329
+397,GMC,Pickup truck: Standard,5.3,8,A6,E,21.1,15,18.4,306
+398,GMC,Pickup truck: Standard,5.3,8,A8,X,14.3,10.4,12.5,294
+399,GMC,Pickup truck: Standard,2.7,4,A8,X,12.6,10.9,11.8,277
+400,GMC,Pickup truck: Standard,4.3,6,A6,X,15.8,11.9,14,329
+401,GMC,Pickup truck: Standard,5.3,8,A6,X,15.9,11.7,14,330
+402,GMC,Pickup truck: Standard,5.3,8,A6,X,16,12.5,14.4,339
+403,GMC,Pickup truck: Standard,5.3,8,A6,E,22,16.1,19.4,323
+404,GMC,Pickup truck: Standard,5.3,8,A8,X,15.3,11.2,13.5,316
+405,GMC,Pickup truck: Standard,5.3,8,A8,X,15.3,11.8,13.7,320
+406,GMC,Pickup truck: Standard,6.2,8,A10,Z,15.5,11.9,13.9,326
+407,GMC,Pickup truck: Standard,6.2,8,A10,Z,15.7,12.4,14.2,332
+408,GMC,Pickup truck: Standard,5.3,8,A6,X,15.6,10.9,13.5,317
+409,GMC,Pickup truck: Standard,5.3,8,A6,X,15.8,11.4,13.8,325
+410,GMC,SUV: Small,1.5,4,A9,X,9.2,7.9,8.6,201
+411,GMC,SUV: Small,1.6,4,A6,D,8.5,6,7.4,199
+412,GMC,SUV: Small,1.5,4,A9,X,9.6,8.3,9,210
+413,GMC,SUV: Small,1.6,4,A6,D,8.5,6.1,7.4,199
+414,GMC,SUV: Small,2,4,A9,Z,11.2,9,10.2,239
+415,GMC,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+416,GMC,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+417,GMC,SUV: Standard,5.3,8,A6,E,21.2,13.9,17.9,298
+418,GMC,SUV: Standard,5.3,8,A6,X,15.8,11.1,13.7,321
+419,GMC,SUV: Standard,5.3,8,A6,X,15.8,11.1,13.7,321
+420,GMC,SUV: Standard,5.3,8,A6,E,21.7,14.3,18.4,305
+421,GMC,SUV: Standard,6.2,8,A10,Z,16.4,10.7,13.8,325
+422,GMC,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+423,GMC,SUV: Standard,5.3,8,A6,X,15.7,10.5,13.4,314
+424,GMC,SUV: Standard,5.3,8,A6,E,21.2,13.9,17.9,298
+425,GMC,SUV: Standard,5.3,8,A6,X,16.8,11.3,14.3,336
+426,GMC,SUV: Standard,5.3,8,A6,X,16.8,11.3,14.3,336
+427,GMC,SUV: Standard,5.3,8,A6,E,22.2,15.2,19,317
+428,GMC,SUV: Standard,6.2,8,A10,Z,17.1,11.3,14.5,340
+429,Honda,Full-size,1.5,4,AV,X,7.9,6.3,7.2,168
+430,Honda,Full-size,1.5,4,AV7,X,8.2,6.8,7.6,177
+431,Honda,Full-size,1.5,4,M6,X,8.9,6.7,7.9,185
+432,Honda,Full-size,2,4,M6,X,10.7,7.3,9.2,214
+433,Honda,Mid-size,2,4,AS10,X,10.4,7.4,9.1,211
+434,Honda,Full-size,2,4,AV,X,5,5,5,117
+435,Honda,Compact,1.5,4,AV7,X,7.8,6.4,7.2,167
+436,Honda,Compact,2,4,AV,X,7.8,6.1,7.1,164
+437,Honda,Compact,2,4,AV7,X,8.3,6.6,7.5,176
+438,Honda,Compact,2,4,M6,X,9.3,6.7,8.1,189
+439,Honda,Compact,1.5,4,M6,Z,8.4,6.2,7.4,173
+440,Honda,Full-size,1.5,4,AV,X,7.7,6,6.9,162
+441,Honda,Full-size,1.5,4,AV7,X,7.9,6.6,7.3,170
+442,Honda,Full-size,1.5,4,M6,X,8,6.2,7.2,167
+443,Honda,Full-size,1.5,4,AV7,Z,7.9,6.6,7.3,170
+444,Honda,Full-size,1.5,4,M6,Z,8,6.2,7.2,167
+445,Honda,Mid-size,1.5,4,AV7,X,7.8,6.2,7.1,165
+446,Honda,Mid-size,2,4,AV,X,7.9,6.1,7.1,167
+447,Honda,Mid-size,2,4,M6,X,9.3,6.5,8,186
+448,Honda,Mid-size,1.5,4,M6,Z,8.4,6.2,7.4,173
+449,Honda,Full-size,2,4,M6,Z,10.6,8.3,9.6,224
+450,Honda,SUV: Small,1.5,4,AV,X,8.4,7,7.8,181
+451,Honda,SUV: Small,1.5,4,AV,X,8.7,7.2,8,188
+452,Honda,Station wagon: Small,1.5,4,AV,X,7,5.9,6.5,151
+453,Honda,Station wagon: Small,1.5,4,AV7,X,7.6,6.5,7,166
+454,Honda,Station wagon: Small,1.5,4,M6,X,8.1,6.6,7.4,174
+455,Honda,Station wagon: Small,1.8,4,AV,X,8.4,7,7.8,181
+456,Honda,Station wagon: Small,1.8,4,AV,X,8.8,7.5,8.2,193
+457,Honda,Station wagon: Small,1.8,4,AV7,X,9.1,7.7,8.5,199
+458,Honda,Mid-size,1.5,4,AV,X,4.6,5.3,4.9,114
+459,Honda,Mid-size,1.5,4,AV,X,4.6,5.3,4.9,114
+460,Honda,Minivan,3.5,6,AS9,X,12.6,8.4,10.7,252
+461,Honda,Minivan,3.5,6,AS10,X,12.2,8.5,10.6,247
+462,Honda,SUV: Small,3.5,6,A9,X,12.5,9.8,11.3,265
+463,Honda,SUV: Small,3.5,6,A6,X,12.4,8.7,10.7,250
+464,Honda,SUV: Small,3.5,6,A6,X,13,9.3,11.3,266
+465,Honda,SUV: Small,3.5,6,AS9,X,12.4,9.3,11,257
+466,Honda,Pickup truck: Standard,3.5,6,A6,X,12.8,9.5,11.3,263
+467,Hyundai,Compact,1.6,4,AS6,X,8.2,6.2,7.3,172
+468,Hyundai,Compact,1.6,4,M6,X,8.2,6.3,7.3,173
+469,Hyundai,Mid-size,1.6,4,AM7,X,8.9,7,8.1,189
+470,Hyundai,Mid-size,1.6,4,M6,X,10.7,7.8,9.4,221
+471,Hyundai,Mid-size,2,4,AS6,X,8.3,6.4,7.4,174
+472,Hyundai,Mid-size,2,4,M6,X,9.2,6.5,8,188
+473,Hyundai,Full-size,1.6,4,AM7,X,9.7,7.4,8.6,205
+474,Hyundai,Full-size,1.6,4,M6,X,10.3,7.9,9.2,218
+475,Hyundai,Full-size,2,4,AS6,X,9.4,7.1,8.4,200
+476,Hyundai,Full-size,2,4,M6,X,9.8,7.4,8.7,207
+477,Hyundai,Full-size,1.6,4,AM6,X,4.3,4.4,4.3,104
+478,Hyundai,Full-size,1.6,4,AM6,X,4.2,4,4.1,96
+479,Hyundai,SUV: Small,2,4,AS6,X,8.6,7,7.9,186
+480,Hyundai,SUV: Small,1.6,4,AM7,X,9,8,8.6,201
+481,Hyundai,SUV: Small,2,4,AS6,X,9.2,7.8,8.6,202
+482,Hyundai,SUV: Small,2.4,4,AS8,X,10.8,8,9.6,225
+483,Hyundai,SUV: Small,2,4,AS8,X,12.3,9.8,11.2,262
+484,Hyundai,SUV: Small,2.4,4,AS8,X,11.2,8.7,10.1,237
+485,Hyundai,SUV: Small,3.3,6,AS6,X,13.2,9.4,11.5,268
+486,Hyundai,SUV: Small,3.3,6,AS6,X,13.4,9.7,11.7,276
+487,Hyundai,SUV: Small,3.3,6,AS6,X,14.1,10.8,12.6,297
+488,Hyundai,Full-size,2,4,AS8,X,10.4,7.4,9.1,212
+489,Hyundai,Full-size,2.4,4,AS6,X,9.3,7.1,8.3,198
+490,Hyundai,Full-size,2.4,4,AS6,X,9.2,6.8,8.1,190
+491,Hyundai,Mid-size,2,4,AM6,X,6,5.3,5.7,135
+492,Hyundai,Mid-size,2,4,AM6,X,5.9,5.1,5.6,132
+493,Hyundai,SUV: Small,2,4,AS6,X,10,7.9,9.1,216
+494,Hyundai,SUV: Small,2,4,AS6,X,10.8,9.2,10.1,239
+495,Hyundai,SUV: Small,2.4,4,AS6,X,11,9.1,10.1,240
+496,Hyundai,Compact,2,4,AS6,X,9.1,7.1,8.2,193
+497,Hyundai,Compact,2,4,M6,X,9.4,7.1,8.4,198
+498,Hyundai,Compact,2,4,M6,X,10.6,8.3,9.5,226
+499,Hyundai,Compact,1.6,4,AM7,X,8.5,6.9,7.8,184
+500,Hyundai,Compact,1.6,4,M6,X,9.4,7,8.3,197
+501,Infiniti,Mid-size,2,4,AS7,Z,10.7,8.6,9.7,229
+502,Infiniti,Mid-size,3,6,AS7,Z,12.4,8.7,10.8,253
+503,Infiniti,Mid-size,3,6,AS7,Z,12.5,9.3,11.1,261
+504,Infiniti,Subcompact,2,4,AS7,Z,11.2,8.5,10,233
+505,Infiniti,Subcompact,3,6,AS7,Z,12.3,8.7,10.7,251
+506,Infiniti,Subcompact,3,6,AS7,Z,12.5,9.2,11,259
+507,Infiniti,Mid-size,3.7,6,AS7,Z,13.2,9.8,11.7,275
+508,Infiniti,Mid-size,5.6,8,AS7,Z,14.9,10.2,12.8,301
+509,Infiniti,SUV: Small,2,4,AV8,Z,10,7.8,9,211
+510,Infiniti,SUV: Small,3.5,6,AV7,Z,12.5,9,10.9,257
+511,Infiniti,SUV: Standard,5.6,8,AS7,Z,17.4,12.2,15.1,354
+512,Jaguar,SUV: Small,2,4,AS9,Z,11,8.4,9.8,231
+513,Jaguar,SUV: Small,2,4,AS8,D,8.9,7.2,8.1,218
+514,Jaguar,SUV: Small,2,4,AS8,Z,10.7,8.8,9.9,227
+515,Jaguar,SUV: Small,3,6,AS8,Z,13.3,10,11.8,277
+516,Jaguar,Two-seater,2,4,AS8,Z,10.2,7.8,9.2,215
+517,Jaguar,Two-seater,3,6,AS8,Z,11.9,8.5,10.4,242
+518,Jaguar,Two-seater,3,6,M6,Z,14.9,9.8,12.6,296
+519,Jaguar,Two-seater,3,6,AS8,Z,12.4,8.8,10.8,253
+520,Jaguar,Two-seater,3,6,M6,Z,15.3,10,12.9,302
+521,Jaguar,Two-seater,3,6,AS8,Z,13,9.2,11.3,265
+522,Jaguar,Two-seater,2,4,AS8,Z,10.2,7.8,9.2,215
+523,Jaguar,Two-seater,3,6,AS8,Z,11.9,8.5,10.4,242
+524,Jaguar,Two-seater,3,6,M6,Z,14.9,9.8,12.6,296
+525,Jaguar,Two-seater,3,6,AS8,Z,12.4,8.8,10.8,253
+526,Jaguar,Two-seater,3,6,M6,Z,15.3,10,12.9,302
+527,Jaguar,Two-seater,3,6,AS8,Z,13,9.2,11.3,265
+528,Jaguar,Two-seater,5,8,AS8,Z,15.6,10.4,13.3,311
+529,Jaguar,Two-seater,5,8,AS8,Z,15.6,10.4,13.3,311
+530,Jaguar,Compact,2,4,AS8,D,7.8,5.8,6.9,186
+531,Jaguar,Compact,2,4,AS8,Z,9.8,6.9,8.5,200
+532,Jaguar,Compact,3,6,AS8,Z,11.8,8.2,10.2,238
+533,Jaguar,Mid-size,2,4,AS8,D,7.8,5.8,6.9,186
+534,Jaguar,Mid-size,2,4,AS8,Z,10.1,7.2,8.8,207
+535,Jaguar,Mid-size,3,6,AS8,Z,12,8.4,10.4,243
+536,Jaguar,Full-size,3,6,AS8,Z,14,9,11.8,276
+537,Jaguar,Full-size,3,6,AS8,Z,14,9.4,11.9,280
+538,Jaguar,Full-size,5,8,AS8,Z,15.8,10.3,13.3,313
+539,Jeep,SUV: Small,2,4,A9,X,10.4,7.6,9.1,214
+540,Jeep,SUV: Small,2.4,4,A9,X,10.8,7.6,9.3,219
+541,Jeep,SUV: Small,3.2,6,A9,X,11.9,8.2,10.2,240
+542,Jeep,SUV: Small,2,4,A9,X,11.2,8,9.8,229
+543,Jeep,SUV: Small,2.4,4,A9,X,11.2,8,9.8,230
+544,Jeep,SUV: Small,3.2,6,A9,X,12.2,8.6,10.6,249
+545,Jeep,SUV: Small,2,4,A9,X,11.5,8.6,10.2,240
+546,Jeep,SUV: Small,3.2,6,A9,X,12.8,9,11.1,259
+547,Jeep,SUV: Small,2,4,A9,X,11.8,9.2,10.6,249
+548,Jeep,SUV: Small,3.2,6,A9,X,12.9,9.9,11.6,269
+549,Jeep,SUV: Small,2.4,4,A6,X,10.6,7.6,9.3,218
+550,Jeep,SUV: Small,2.4,4,M6,X,10.4,7.3,9,211
+551,Jeep,SUV: Small,2.4,4,A9,X,10.8,7.8,9.5,222
+552,Jeep,SUV: Small,2.4,4,M6,X,10.8,7.6,9.4,221
+553,Jeep,SUV: Standard,3.6,6,A8,X,12.7,9.6,11.3,265
+554,Jeep,SUV: Standard,5.7,8,A8,X,16.7,10.9,14.1,331
+555,Jeep,SUV: Standard,3,6,A8,D,11.2,8.5,10,268
+556,Jeep,SUV: Standard,6.4,8,A8,Z,18.3,12.6,15.7,368
+557,Jeep,SUV: Standard,6.2,8,A8,Z,20.9,13.8,17.7,413
+558,Jeep,SUV: Small,1.3,4,A9,X,9.8,7.4,8.7,204
+559,Jeep,SUV: Small,2.4,4,A9,X,10.8,7.8,9.5,222
+560,Jeep,SUV: Small,1.3,4,A9,X,10.1,8.1,9.2,216
+561,Jeep,SUV: Small,2.4,4,A9,X,11.2,8.2,9.8,230
+562,Jeep,SUV: Small,1.3,4,A9,X,10.8,8.7,9.9,230
+563,Jeep,SUV: Small,2,4,A8,X,10.5,9.4,10,233
+564,Jeep,SUV: Small,3.6,6,A8,X,12.8,10.4,11.8,274
+565,Jeep,SUV: Small,3.6,6,M6,X,13.7,9.6,11.8,277
+566,Jeep,SUV: Small,2,4,A8,X,10.9,10,10.5,245
+567,Jeep,SUV: Small,3.6,6,A8,X,12.9,10.2,11.7,275
+568,Jeep,SUV: Small,3.6,6,M6,X,13.8,10.1,12.2,285
+569,Kia,Full-size,3.3,6,AS8,X,11.6,8.5,10.2,238
+570,Kia,Mid-size,2,4,AV,X,7.7,5.9,6.9,164
+571,Kia,Mid-size,2,4,M6,X,8.6,6.4,7.6,180
+572,Kia,Station wagon: Small,1.6,4,AM6,X,4.6,5.1,4.8,114
+573,Kia,Station wagon: Small,1.6,4,AM6,X,4.5,4.8,4.7,110
+574,Kia,Station wagon: Small,1.6,4,AM6,X,5.1,5.8,5.4,129
+575,Kia,Full-size,2,4,AS6,X,11.2,7.9,9.7,230
+576,Kia,Full-size,2.4,4,AS6,X,9.5,7.1,8.4,199
+577,Kia,Mid-size,2,4,AM6,X,6.1,5.2,5.7,133
+578,Kia,Compact,1.6,4,AS6,X,8.5,6.4,7.5,177
+579,Kia,Compact,1.6,4,M6,X,8.3,6.4,7.5,175
+580,Kia,Minivan,3.3,6,AS8,X,12.7,10,11.5,272
+581,Kia,SUV: Small,2.4,4,AS6,X,10.7,8.2,9.6,225
+582,Kia,SUV: Small,2.4,4,AS6,X,11.2,9,10.2,242
+583,Kia,SUV: Small,3.3,6,AS8,X,12.5,9.7,11.2,265
+584,Kia,Station wagon: Small,1.6,4,AM7,X,9.1,7.7,8.5,199
+585,Kia,Station wagon: Small,1.6,4,AS6,X,9,7.6,8.4,198
+586,Kia,Station wagon: Small,2,4,AS6,X,9.5,7.8,8.7,206
+587,Kia,SUV: Small,2.4,4,AS6,X,10.3,7.8,9.2,218
+588,Kia,SUV: Small,2,4,AS6,X,11.9,10.2,11.1,263
+589,Kia,SUV: Small,2.4,4,AS6,X,11.3,9.5,10.5,247
+590,Kia,Mid-size,2,4,AS8,Z,11.1,8.1,9.7,229
+591,Kia,Mid-size,3.3,6,AS8,Z,13.6,9.6,11.8,279
+592,Lamborghini,Two-seater,6.5,12,AM7,Z,26.3,15.6,21.5,487
+593,Lamborghini,Two-seater,6.5,12,AM7,Z,26.6,15.8,21.7,493
+594,Lamborghini,Two-seater,5.2,10,AM7,Z,18.1,13.2,15.9,366
+595,Lamborghini,Two-seater,5.2,10,AM7,Z,17.9,13,15.7,370
+596,Lamborghini,Two-seater,5.2,10,AM7,Z,18.1,13.2,15.9,366
+597,Lamborghini,Two-seater,5.2,10,AM7,Z,17.9,13,15.7,370
+598,Lamborghini,Two-seater,5.2,10,AM7,Z,17.9,13,15.7,370
+599,Lamborghini,Two-seater,5.2,10,AM7,Z,17.9,13,15.7,370
+600,Lamborghini,SUV: Standard,4,8,AS8,Z,19.2,14.1,16.9,384
+601,Land Rover,SUV: Standard,3,6,AS8,Z,14.8,11.4,13.3,311
+602,Land Rover,SUV: Standard,3,6,AS8,D,11.3,9.2,10.4,279
+603,Land Rover,SUV: Small,2,4,AS9,Z,11.4,9.3,10.5,246
+604,Land Rover,SUV: Standard,3,6,AS8,Z,14.1,10.3,12.4,291
+605,Land Rover,SUV: Standard,3,6,AS8,D,10.7,8.3,9.6,256
+606,Land Rover,SUV: Standard,5,8,AS8,Z,14.4,11.3,13,305
+607,Land Rover,SUV: Standard,5,8,AS8,Z,17.9,12.7,15.5,365
+608,Land Rover,SUV: Standard,3,6,AS8,Z,14.1,10.3,12.4,291
+609,Land Rover,SUV: Standard,3,6,AS8,D,10.7,8.3,9.6,256
+610,Land Rover,SUV: Standard,5,8,AS8,Z,14.1,10.7,12.6,294
+611,Land Rover,SUV: Small,2,4,AS9,Z,10.9,8,9.6,225
+612,Land Rover,SUV: Small,2,4,AS9,Z,11.2,8.2,9.8,231
+613,Land Rover,SUV: Small,2,4,AS8,D,9.2,7.8,8.5,229
+614,Land Rover,SUV: Small,2,4,AS8,Z,11.7,9.2,10.6,248
+615,Land Rover,SUV: Small,3,6,AS8,Z,13,10,11.6,273
+616,Lexus,Mid-size,2.5,4,AV6,X,5.5,5.2,5.3,124
+617,Lexus,Mid-size,3.5,6,AS8,X,10.6,7.2,9.1,211
+618,Lexus,Mid-size,3.5,6,AS8,X,10.9,7.5,9.4,219
+619,Lexus,Mid-size,3.5,6,AS6,Z,12.3,9.1,10.9,254
+620,Lexus,Compact,5,8,AS8,Z,14.9,9.7,12.5,293
+621,Lexus,SUV: Standard,4.6,8,AS6,Z,16,12.9,14.6,341
+622,Lexus,Compact,2,4,AS8,Z,11,7.6,9.5,220
+623,Lexus,Compact,3.5,6,AS6,Z,12.3,9.1,10.9,254
+624,Lexus,Compact,3.5,6,AS6,Z,12.3,9.1,10.9,254
+625,Lexus,Subcompact,5,8,AS10,Z,15.1,9.5,12.6,294
+626,Lexus,Subcompact,3.5,6,AV10,Z,9,7.1,8.1,189
+627,Lexus,Mid-size,3.4,6,AS10,Z,13.1,8.7,11.1,261
+628,Lexus,Mid-size,3.5,6,AV10,Z,10.3,7.7,9.1,214
+629,Lexus,SUV: Standard,5.7,8,AS8,Z,18.2,12.8,15.8,371
+630,Lexus,SUV: Small,2,4,AS6,Z,10.7,8.5,9.7,226
+631,Lexus,SUV: Small,2,4,AS6,Z,10.8,8.9,9.9,232
+632,Lexus,SUV: Small,2.5,4,AV6,X,7.2,7.9,7.5,176
+633,Lexus,Subcompact,3.5,6,AS6,Z,13.1,9.8,11.2,262
+634,Lexus,Subcompact,3.5,6,AS6,Z,13.1,9.8,11.2,262
+635,Lexus,Subcompact,5,8,AS8,Z,15.2,9.5,12.6,289
+636,Lexus,SUV: Small,3.5,6,AS8,X,12.2,9,10.8,252
+637,Lexus,SUV: Small,3.5,6,AS8,X,13.1,9.4,11.1,268
+638,Lexus,SUV: Standard,3.5,6,AV6,Z,7.5,8.4,7.9,185
+639,Lexus,SUV: Standard,3.5,6,AV6,Z,8.1,8.4,8.1,190
+640,Lexus,Mid-size,2,4,AS10,X,8,6.3,7.2,168
+641,Lexus,Compact,2,4,AV6,X,5.5,5.7,5.6,130
+642,Lexus,Compact,2,4,AV6,X,5.7,6.2,6,140
+643,Lincoln,Full-size,2.7,6,AS6,X,14,9.4,12,281
+644,Lincoln,Full-size,3,6,AS6,X,14.5,9.8,12.3,289
+645,Lincoln,Full-size,3.7,6,AS6,X,14.3,9.7,12.2,287
+646,Lincoln,SUV: Small,2,4,AS6,X,12.3,9.3,11,257
+647,Lincoln,SUV: Small,2,4,AS6,X,12.2,9.3,10.9,256
+648,Lincoln,SUV: Small,2.3,4,AS6,X,13.1,9.5,11.5,270
+649,Lincoln,SUV: Standard,3.5,6,AS6,X,15.7,11.2,13.7,322
+650,Lincoln,Special purpose vehicle,3.7,6,A6,X,14.7,10.3,12.7,297
+651,Lincoln,Mid-size,2,4,AS6,X,12.1,8.4,10.4,245
+652,Lincoln,Mid-size,3,6,AS6,X,14,9.2,11.8,278
+653,Lincoln,Mid-size,2,4,AV,X,5.7,6.2,5.9,139
+654,Lincoln,SUV: Small,2.7,6,AS8,X,12.6,9.2,11,259
+655,Lincoln,SUV: Standard,3.5,6,AS10,X,15,11.4,13.4,314
+656,Maserati,Mid-size,3,6,AS8,Z,14.1,9.8,12.2,286
+657,Maserati,Mid-size,3,6,AS8,Z,14.7,9.9,12.6,295
+658,Maserati,Mid-size,3,6,AS8,Z,14.7,9.9,12.6,295
+659,Maserati,Subcompact,4.7,8,AS6,Z,17.8,11.6,15,354
+660,Maserati,SUV: Standard,3,6,AS8,Z,15.9,11.1,13.7,324
+661,Maserati,SUV: Standard,3,6,AS8,Z,16.1,11.4,14,330
+662,Maserati,SUV: Standard,3.8,8,AS8,Z,17.9,12.9,15.3,360
+663,Maserati,SUV: Standard,3.8,8,AS8,Z,17.9,12.9,15.3,360
+664,Maserati,Full-size,3,6,AS8,Z,15.1,10.3,12.8,299
+665,Maserati,Full-size,3,6,AS8,Z,15,10.3,12.8,301
+666,Maserati,Full-size,3.8,8,AS8,Z,16,10.8,13.7,321
+667,Mazda,Compact,2,4,AS6,X,8.3,6.9,7.7,179
+668,Mazda,Compact,2,4,M6,X,8.8,7,8,186
+669,Mazda,Compact,2,4,AS6,X,8.6,7.4,8.1,189
+670,Mazda,SUV: Small,2,4,M6,X,9.7,7.7,8.8,206
+671,Mazda,SUV: Small,2.5,4,AS6,X,9.7,7.8,8.8,206
+672,Mazda,SUV: Small,2.5,4,AS6,X,9.3,7.6,8.5,201
+673,Mazda,SUV: Small,2.5,4,AS6,X,10.2,8.2,9.3,217
+674,Mazda,SUV: Small,2.5,4,AS6,X,9.8,7.9,9,208
+675,Mazda,SUV: Small,2.5,4,AS6,X,10.8,8.7,9.8,230
+676,Mazda,SUV: Small,2.2,4,AS6,D,8.9,7.9,8.4,227
+677,Mazda,SUV: Small,2.5,4,AS6,X,10.6,8.4,9.6,225
+678,Mazda,SUV: Small,2.5,4,AS6,X,11.6,9.1,10.5,244
+679,Mazda,Compact,2,4,AS6,X,8.4,6.6,7.6,178
+680,Mazda,Compact,2,4,M6,X,8.7,6.4,7.7,180
+681,Mazda,Compact,2.5,4,AS6,X,8.8,6.4,7.7,181
+682,Mazda,Compact,2.5,4,AS6,X,8.8,6.6,7.8,183
+683,Mazda,Compact,2.5,4,AS6,X,9.2,7,8.2,192
+684,Mazda,Mid-size,2,4,AS6,X,8.6,6.7,7.7,181
+685,Mazda,Mid-size,2,4,M6,X,8.7,6.6,7.8,181
+686,Mazda,Mid-size,2.5,4,AS6,X,9,6.8,8,187
+687,Mazda,Mid-size,2.5,4,M6,X,9.2,6.6,8.1,189
+688,Mazda,Mid-size,2.5,4,AS6,X,9.8,7.4,8.7,204
+689,Mazda,Mid-size,2.5,4,AS6,X,9.1,6.7,8,187
+690,Mazda,Mid-size,2.5,4,AS6,X,10,7.5,8.9,208
+691,Mazda,Two-seater,2,4,AS6,Z,9,6.6,7.9,186
+692,Mazda,Two-seater,2,4,M6,Z,9,7,8.1,189
+693,Mercedes-Benz,Subcompact,2,4,AM7,Z,9.7,6.8,8.4,195
+694,Mercedes-Benz,Subcompact,2,4,AM7,Z,9.6,7.1,8.5,199
+695,Mercedes-Benz,Station wagon: Small,2,4,AM7,Z,9.4,6.8,8.3,192
+696,Mercedes-Benz,Station wagon: Small,2,4,AM7,Z,9.9,7,8.6,201
+697,Mercedes-Benz,Compact,3,6,A9,Z,12.4,8.7,10.7,253
+698,Mercedes-Benz,Subcompact,3,6,A9,Z,12.7,9.2,11.2,263
+699,Mercedes-Benz,Subcompact,3,6,A9,Z,12.9,8.8,11.1,255
+700,Mercedes-Benz,Station wagon: Small,3,6,A9,Z,12.4,8.9,10.8,255
+701,Mercedes-Benz,Compact,4,8,A9,Z,13.2,8.7,11.2,263
+702,Mercedes-Benz,Compact,4,8,A9,Z,13.2,8.7,11.2,263
+703,Mercedes-Benz,Subcompact,4,8,A9,Z,13.9,9.7,12,282
+704,Mercedes-Benz,Subcompact,4,8,A9,Z,13.9,9.2,11.8,277
+705,Mercedes-Benz,Minicompact,2,4,AM7,Z,10.3,7.9,9.2,217
+706,Mercedes-Benz,Compact,3,6,A9,Z,12.4,8.7,10.7,235
+707,Mercedes-Benz,Mid-size,3,6,A9,Z,11.2,8.3,9.9,232
+708,Mercedes-Benz,Subcompact,3,6,A9,Z,12.5,9,10.9,245
+709,Mercedes-Benz,Subcompact,3,6,A9,Z,12.3,8.5,10.6,237
+710,Mercedes-Benz,Station wagon: Mid-size,3,6,A9,Z,11.5,8.6,10.2,239
+711,Mercedes-Benz,Mid-size,4,8,A9,Z,16,10.5,13.5,318
+712,Mercedes-Benz,Station wagon: Mid-size,4,8,A9,Z,14.6,10.4,12.7,299
+713,Mercedes-Benz,SUV: Standard,4,8,A9,Z,18.1,15.6,17,396
+714,Mercedes-Benz,Station wagon: Mid-size,2,4,AM7,Z,10.7,8.3,9.6,225
+715,Mercedes-Benz,SUV: Small,3,6,A9,Z,12.5,9.6,11.2,262
+716,Mercedes-Benz,SUV: Small,3,6,A9,Z,12.6,9.7,11.3,265
+717,Mercedes-Benz,SUV: Small,4,8,A9,Z,15,10.9,13.2,309
+718,Mercedes-Benz,SUV: Small,4,8,A9,Z,15,10.9,13.2,309
+719,Mercedes-Benz,SUV: Standard,3,6,A9,Z,14,10.6,12.4,292
+720,Mercedes-Benz,SUV: Standard,3,6,A9,Z,14.1,10.9,12.6,297
+721,Mercedes-Benz,SUV: Standard,4.7,8,A7,Z,17.7,13.4,15.8,370
+722,Mercedes-Benz,SUV: Standard,4.7,8,A7,Z,17.2,12.8,15.2,357
+723,Mercedes-Benz,SUV: Standard,4.7,8,A7,Z,17.8,13.2,15.7,370
+724,Mercedes-Benz,Compact,3,6,A9,Z,12.4,9.8,11.2,264
+725,Mercedes-Benz,Compact,4,8,A9,Z,15.5,11.5,13.7,323
+726,Mercedes-Benz,Compact,4,8,A9,Z,15.6,11.5,13.7,324
+727,Mercedes-Benz,Two-seater,4,8,AM7,Z,15.3,11.4,13.5,315
+728,Mercedes-Benz,Two-seater,4,8,AM7,Z,15.2,11.4,13.5,315
+729,Mercedes-Benz,Two-seater,4,8,AM7,Z,15.9,11.8,14,327
+730,Mercedes-Benz,Full-size,4,8,A9,Z,14.1,8.9,11.8,275
+731,Mercedes-Benz,Subcompact,4,8,A9,Z,15.8,9.8,13.1,306
+732,Mercedes-Benz,Compact,4,8,A9,Z,14,8.7,11.6,271
+733,Mercedes-Benz,Full-size,6,12,A7,Z,18.6,10.9,15.1,356
+734,Mercedes-Benz,Subcompact,6,12,A9,Z,17.1,11,14.3,337
+735,Mercedes-Benz,Compact,6,12,A9,Z,17.6,11,14.6,343
+736,Mercedes-Benz,Two-seater,5.5,8,A7,Z,15.3,10.2,13,303
+737,Mercedes-Benz,Two-seater,3,6,A9,Z,11.8,8.2,10.2,238
+738,Mercedes-Benz,Station wagon: Small,2,4,AM7,Z,9.8,6.8,8.4,196
+739,Mercedes-Benz,Station wagon: Small,2,4,AM7,Z,10.3,7.8,9.1,215
+740,Mercedes-Benz,Compact,2,4,A9,Z,11,7.3,9.4,219
+741,Mercedes-Benz,Subcompact,2,4,A9,Z,11.3,8.1,9.9,231
+742,Mercedes-Benz,Subcompact,2,4,A9,Z,10.9,7.7,9.5,221
+743,Mercedes-Benz,Station wagon: Small,2,4,A9,Z,10.9,7.7,9.5,221
+744,Mercedes-Benz,Minicompact,2,4,AM7,Z,9.6,6.6,8.2,193
+745,Mercedes-Benz,Minicompact,2,4,AM7,Z,9.9,7.3,8.7,204
+746,Mercedes-Benz,Compact,3,6,A9,Z,11.3,7.9,9.8,213
+747,Mercedes-Benz,Mid-size,2,4,A9,Z,11,8.1,9.7,228
+748,Mercedes-Benz,Mid-size,3,6,A9,Z,11.8,8.5,10.3,244
+749,Mercedes-Benz,Subcompact,3,6,A9,Z,12.7,10.1,11.6,271
+750,Mercedes-Benz,Subcompact,3,6,A9,Z,12.5,9.1,11,257
+751,Mercedes-Benz,Station wagon: Mid-size,3,6,A9,Z,12.3,8.9,10.8,254
+752,Mercedes-Benz,SUV: Standard,4,8,A9,Z,18,14.1,16.3,378
+753,Mercedes-Benz,SUV: Small,2,4,AM7,Z,10.1,7.6,9,209
+754,Mercedes-Benz,SUV: Small,2,4,A9,Z,11,8.7,10,234
+755,Mercedes-Benz,SUV: Small,2,4,A9,Z,10.8,9,10,234
+756,Mercedes-Benz,SUV: Standard,3,6,A9,Z,13.5,10.3,12.1,282
+757,Mercedes-Benz,SUV: Standard,3,6,A9,Z,14.9,11.2,13.2,312
+758,Mercedes-Benz,SUV: Standard,4.7,8,A9,Z,17.2,12.6,15.1,355
+759,Mercedes-Benz,Full-size,4,8,A9,Z,14.4,9.5,12.2,286
+760,Mercedes-Benz,Full-size,6,12,A7,Z,18.4,11.1,15.1,355
+761,Mercedes-Benz,Special purpose vehicle,2,4,A7,Z,11.5,9.8,10.7,251
+762,Mercedes-Benz,Special purpose vehicle,2,4,A7,Z,11.3,9.6,10.5,248
+763,Mercedes-Benz,Special purpose vehicle,2,4,A7,Z,12.3,10.3,11.4,268
+764,Mercedes-Benz,Mid-size,3,6,A9,Z,12.8,8.5,10.8,253
+765,Mercedes-Benz,Subcompact,4,8,A9,Z,13.8,9.2,11.7,275
+766,Mercedes-Benz,Full-size,4,8,A9,Z,13.5,8.6,11.3,265
+767,Mercedes-Benz,Mid-size,4,8,A9,Z,13.5,8.6,11.3,265
+768,Mercedes-Benz,Two-seater,3,6,A9,Z,11.8,8.5,10.3,241
+769,Mercedes-Benz,Two-seater,4.7,8,A9,Z,13.5,9.3,11.6,270
+770,Mercedes-Benz,Two-seater,2,4,A9,Z,10,7.3,8.8,205
+771,MINI,Subcompact,1.5,3,AS6,Z,8.8,6.8,7.9,184
+772,MINI,Subcompact,1.5,3,M6,Z,8.5,6.2,7.5,175
+773,MINI,Subcompact,1.5,3,AS6,Z,8.8,6.8,7.9,184
+774,MINI,Subcompact,1.5,3,M6,Z,8.4,6.3,7.5,175
+775,MINI,Mid-size,1.5,3,AS8,Z,10.2,7.6,9,212
+776,MINI,Mid-size,1.5,3,M6,Z,10.5,7.4,9.1,214
+777,MINI,Minicompact,1.5,3,AS6,Z,8.8,6.8,7.9,184
+778,MINI,Minicompact,1.5,3,M6,Z,8.4,6.3,7.5,175
+779,MINI,Station wagon: Small,1.5,3,AS8,Z,10.3,7.9,9.2,215
+780,MINI,Station wagon: Small,1.5,3,M6,Z,10.5,7.4,9.1,214
+781,MINI,Subcompact,2,4,AS6,Z,9.3,7.3,8.4,197
+782,MINI,Subcompact,2,4,M6,Z,10.2,7.4,9,210
+783,MINI,Subcompact,2,4,AS6,Z,9.3,7.3,8.4,197
+784,MINI,Subcompact,2,4,M6,Z,10.2,7.4,9,210
+785,MINI,Mid-size,2,4,AS8,Z,10.4,7.6,9.2,214
+786,MINI,Mid-size,2,4,M6,Z,11.4,7.7,9.7,227
+787,MINI,Minicompact,2,4,AS6,Z,9.4,7.2,8.4,197
+788,MINI,Minicompact,2,4,M6,Z,10.2,7.4,9,210
+789,MINI,Mid-size,2,4,AS8,Z,10.5,7.6,9.2,215
+790,MINI,Mid-size,2,4,M6,Z,11.3,7.8,9.7,228
+791,MINI,Subcompact,2,4,AS6,Z,9.3,7.3,8.4,197
+792,MINI,Subcompact,2,4,M6,Z,10.2,7.4,9,210
+793,MINI,Mid-size,2,4,AS8,Z,10.4,7.6,9.2,214
+794,MINI,Mid-size,2,4,M6,Z,11.4,7.7,9.7,227
+795,MINI,Minicompact,2,4,AS6,Z,9.4,7.2,8.4,197
+796,MINI,Minicompact,2,4,M6,Z,10.8,7.7,9.4,220
+797,MINI,Mid-size,2,4,AS8,Z,10.6,7.8,9.3,220
+798,MINI,Mid-size,2,4,M6,Z,11.3,7.8,9.7,228
+799,Mitsubishi,SUV: Small,1.5,4,AV8,X,9.6,8.9,9.3,216
+800,Mitsubishi,Compact,1.2,3,AV,X,6.6,5.6,6.2,143
+801,Mitsubishi,Compact,1.2,3,M5,X,7.1,5.8,6.5,151
+802,Mitsubishi,Compact,1.2,3,AV,X,6.9,5.7,6.4,148
+803,Mitsubishi,Compact,1.2,3,M5,X,7.2,5.9,6.6,153
+804,Mitsubishi,SUV: Small,2.4,4,AV6,X,9.9,8.1,9.1,212
+805,Mitsubishi,SUV: Small,3,6,AS6,Z,12,8.8,10.6,246
+806,Mitsubishi,SUV: Small,2,4,AV6,X,9.7,7.8,8.8,206
+807,Mitsubishi,SUV: Small,2,4,AV6,X,10.1,8.2,9.2,213
+808,Mitsubishi,SUV: Small,2.4,4,AV6,X,10.3,8.3,9.4,218
+809,Nissan,Two-seater,3.7,6,AS7,Z,12.6,9.3,11.1,261
+810,Nissan,Two-seater,3.7,6,M6,Z,13.3,9.3,11.5,270
+811,Nissan,Two-seater,3.7,6,AS7,Z,13,9.7,11.5,271
+812,Nissan,Two-seater,3.7,6,M6,Z,13.6,9.7,11.8,279
+813,Nissan,Mid-size,2.5,4,AV,X,8.6,6.1,7.4,174
+814,Nissan,Mid-size,2,4,AV,X,9.1,6.9,8.1,190
+815,Nissan,Mid-size,2.5,4,AV,X,8.5,6.3,7.5,177
+816,Nissan,Mid-size,2.5,4,AV,X,9.1,6.5,7.9,186
+817,Nissan,Mid-size,2.5,4,AV,X,9.3,6.7,8.1,190
+818,Nissan,SUV: Standard,5.6,8,AS7,X,17.7,12.9,15.5,364
+819,Nissan,Pickup truck: Small,2.5,4,A5,X,13.7,10.7,12.3,290
+820,Nissan,Pickup truck: Small,4,6,A5,X,14.7,10.3,12.7,299
+821,Nissan,Pickup truck: Small,4,6,A5,X,15.8,11.5,13.9,326
+822,Nissan,Pickup truck: Small,4,6,M6,X,15.1,11.5,13.5,317
+823,Nissan,Subcompact,3.8,6,AM6,Z,14.2,10.7,12.6,295
+824,Nissan,Mid-size,1.6,4,AV,X,7.7,6.6,7.2,169
+825,Nissan,Mid-size,3.5,6,AV7,Z,11.6,7.9,9.9,233
+826,Nissan,Compact,1.6,4,A4,X,9,6.8,8,188
+827,Nissan,Compact,1.6,4,M5,X,8.7,6.8,7.9,186
+828,Nissan,Station wagon: Mid-size,3.5,6,AV7,X,11.7,8.3,10.2,240
+829,Nissan,Station wagon: Mid-size,3.5,6,AV7,X,11.7,8.5,10.3,242
+830,Nissan,Special purpose vehicle,2,4,AV,X,9.8,8.8,9.3,218
+831,Nissan,SUV: Small,3.5,6,AV,X,11.6,8.5,10.2,240
+832,Nissan,SUV: Small,3.5,6,AV,X,12.1,8.9,10.7,250
+833,Nissan,SUV: Small,3.5,6,AV,X,12.4,9.2,11,259
+834,Nissan,Station wagon: Small,2,4,AV7,X,8.6,7.2,8,188
+835,Nissan,Station wagon: Small,2,4,M6,X,10.1,8.1,9.2,217
+836,Nissan,Station wagon: Small,2,4,AV7,X,9.1,7.6,8.4,198
+837,Nissan,SUV: Small,2.5,4,AV,X,9.1,7.1,8.2,192
+838,Nissan,SUV: Small,2.5,4,AV,X,9.6,7.5,8.7,204
+839,Nissan,Mid-size,1.8,4,AV,X,8.1,6.3,7.3,172
+840,Nissan,Mid-size,1.8,4,M6,X,8.8,6.6,7.8,183
+841,Nissan,Mid-size,1.6,4,AV7,Z,8.9,7.3,8.2,193
+842,Nissan,Mid-size,1.6,4,M6,Z,9.1,7.3,8.3,195
+843,Nissan,Mid-size,1.6,4,AV7,Z,9.4,7.8,8.7,205
+844,Nissan,Mid-size,1.6,4,M6,Z,9.5,7.6,8.7,204
+845,Nissan,Pickup truck: Standard,5.6,8,AS7,X,15,11.2,13.3,312
+846,Nissan,Pickup truck: Standard,5.6,8,AS7,X,15.2,11.1,13.4,315
+847,Nissan,Pickup truck: Standard,5.6,8,AS7,X,15.9,11.9,14.1,331
+848,Nissan,Mid-size,1.6,4,AV,X,7.6,6.2,7,164
+849,Nissan,Mid-size,1.6,4,M5,X,8.6,6.6,7.7,180
+850,Porsche,Minicompact,3,6,AM7,Z,10.6,8,9.4,221
+851,Porsche,Minicompact,3,6,M7,Z,11.8,8.1,10.1,237
+852,Porsche,Minicompact,3,6,AM7,Z,10.8,8.3,9.7,227
+853,Porsche,Minicompact,3,6,M7,Z,12,8.2,10.3,241
+854,Porsche,Minicompact,3,6,AM7,Z,11.5,9.1,10.4,243
+855,Porsche,Minicompact,3,6,M7,Z,13,8.9,11.2,260
+856,Porsche,Minicompact,3,6,AM7,Z,11.8,9.2,10.7,249
+857,Porsche,Minicompact,3,6,M7,Z,12.7,9,11,258
+858,Porsche,Minicompact,3,6,AM7,Z,10.8,8.3,9.7,226
+859,Porsche,Minicompact,3,6,M7,Z,12.1,8.3,10.3,242
+860,Porsche,Minicompact,3,6,AM7,Z,10.8,8.4,9.7,228
+861,Porsche,Minicompact,3,6,M7,Z,12.1,8.3,10.4,243
+862,Porsche,Minicompact,3,6,AM7,Z,11.9,9.1,10.6,248
+863,Porsche,Minicompact,3,6,M7,Z,14.6,9.4,12.3,286
+864,Porsche,Minicompact,3,6,AM7,Z,10.7,8.3,9.6,225
+865,Porsche,Minicompact,3,6,M7,Z,12.1,8.3,10.4,242
+866,Porsche,Minicompact,3,6,AM7,Z,11,8.4,9.8,230
+867,Porsche,Minicompact,3,6,M7,Z,12.2,8.5,10.5,246
+868,Porsche,Minicompact,3,6,AM7,Z,11.8,9.2,10.6,248
+869,Porsche,Minicompact,3,6,M7,Z,12.8,8.9,11,257
+870,Porsche,Minicompact,3,6,AM7,Z,11.9,9.3,10.7,250
+871,Porsche,Minicompact,3,6,M7,Z,12.9,9.1,11.2,260
+872,Porsche,Minicompact,3,6,AM7,Z,11.1,8.5,9.9,232
+873,Porsche,Minicompact,3,6,M7,Z,12.1,8.4,10.4,243
+874,Porsche,Minicompact,3,6,AM7,Z,11,8.5,9.9,231
+875,Porsche,Minicompact,3,6,M7,Z,12.2,8.5,10.5,246
+876,Porsche,Two-seater,3.8,6,AM7,Z,15.3,11.2,13.5,315
+877,Porsche,Two-seater,4,6,AM7,Z,15.8,11.7,13.9,324
+878,Porsche,Two-seater,4,6,M6,Z,18,11.5,15.1,352
+879,Porsche,Two-seater,4,6,AM7,Z,16.1,12.2,14.4,335
+880,Porsche,Two-seater,4,6,M6,Z,16.4,11.2,14.1,334
+881,Porsche,Two-seater,4,6,M6,Z,17.4,12.4,15.1,350
+882,Porsche,Minicompact,3,6,AM7,Z,10.9,8.4,9.8,228
+883,Porsche,Minicompact,3,6,M7,Z,12.2,8.5,10.5,246
+884,Porsche,Minicompact,3,6,AM7,Z,12.1,9.2,10.8,251
+885,Porsche,Minicompact,3,6,M7,Z,13.2,9.2,11.4,266
+886,Porsche,Minicompact,3,6,AM7,Z,11.1,8.6,10,233
+887,Porsche,Minicompact,3,6,M7,Z,12.2,8.5,10.5,246
+888,Porsche,Minicompact,3.8,6,AM7,Z,12.6,9.9,11.4,266
+889,Porsche,Minicompact,3.8,6,AM7,Z,12.7,9.9,11.4,267
+890,Porsche,Minicompact,3.8,6,AM7,Z,12.6,9.9,11.4,266
+891,Porsche,Minicompact,3.8,6,AM7,Z,12.7,9.9,11.4,267
+892,Porsche,Minicompact,3.8,6,AM7,Z,14.3,10.9,12.7,297
+893,Porsche,Two-seater,2,4,AM7,Z,10.5,8,9.4,219
+894,Porsche,Two-seater,2,4,M6,Z,11,8.3,9.8,229
+895,Porsche,Two-seater,2.5,4,AM7,Z,11.8,9.2,10.6,249
+896,Porsche,Two-seater,2.5,4,M6,Z,12.3,9.4,11,257
+897,Porsche,Two-seater,2.5,4,AM7,Z,11.1,8.4,9.9,231
+898,Porsche,Two-seater,2.5,4,M6,Z,12.1,9,10.7,249
+899,Porsche,SUV: Standard,3,6,AS8,Z,12.5,10,11.4,265
+900,Porsche,SUV: Standard,2.9,6,AS8,Z,12.9,10.4,11.8,275
+901,Porsche,SUV: Standard,4,8,AS8,Z,15.6,12.4,14.1,329
+902,Porsche,Two-seater,2,4,AM7,Z,10.5,8,9.4,219
+903,Porsche,Two-seater,2,4,M6,Z,11,8.3,9.8,229
+904,Porsche,Two-seater,2.5,4,AM7,Z,11.8,9.2,10.6,249
+905,Porsche,Two-seater,2.5,4,M6,Z,12.3,9.4,11,257
+906,Porsche,Two-seater,2.5,4,AM7,Z,11.1,8.4,9.9,231
+907,Porsche,Two-seater,2.5,4,M6,Z,12.1,9,10.7,249
+908,Porsche,SUV: Small,2,4,AM7,Z,12.2,10.2,11.3,264
+909,Porsche,SUV: Small,3,6,AM7,Z,12.9,10.2,11.7,272
+910,Porsche,Full-size,3,6,AM8,Z,12.4,8.7,10.7,250
+911,Porsche,Full-size,3,6,AM8,Z,12.4,9,10.9,253
+912,Porsche,Full-size,3,6,AM8,Z,12.4,9,10.9,253
+913,Porsche,Full-size,3,6,AM8,Z,12.2,8.9,10.7,250
+914,Porsche,Full-size,2.9,6,AM8,Z,13.1,8.9,11.2,261
+915,Porsche,Full-size,2.9,6,AM8,Z,13.1,8.9,11.2,261
+916,Porsche,Full-size,2.9,6,AM8,Z,13.1,9.8,11.6,273
+917,Porsche,Full-size,4,8,AM8,Z,14.5,10.2,12.6,295
+918,Porsche,Full-size,4,8,AM8,Z,15.7,10.5,13.4,313
+919,Porsche,Full-size,4,8,AM8,Z,12.8,9.2,11.2,261
+920,Porsche,Full-size,4,8,AM8,Z,12.8,9.2,11.2,261
+921,Porsche,Full-size,4,8,AM8,Z,13.4,10.1,11.9,279
+922,Ram,Pickup truck: Standard,3.6,6,A8,X,11.9,9.4,10.8,253
+923,Ram,Pickup truck: Standard,3.6,6,A8,X,11.6,9,10.4,246
+924,Ram,Pickup truck: Standard,5.7,8,A8,X,16.2,10.5,13.6,320
+925,Ram,Pickup truck: Standard,5.7,8,A8,X,14.1,10.3,12.4,290
+926,Ram,Pickup truck: Standard,3.6,6,A8,X,12.2,9.7,11.1,260
+927,Ram,Pickup truck: Standard,5.7,8,A8,X,16.1,11,13.8,325
+928,Ram,Pickup truck: Standard,5.7,8,A8,X,14.3,11.1,12.9,302
+929,Ram,Pickup truck: Standard,3,6,A8,D,11.8,8.6,10.4,278
+930,Ram,Pickup truck: Standard,3.6,6,A8,X,13.9,9.6,11.9,280
+931,Ram,Pickup truck: Standard,3.6,6,A8,E,19.7,13.8,17,283
+932,Ram,Pickup truck: Standard,5.7,8,A6,X,17,12,14.8,346
+933,Ram,Pickup truck: Standard,5.7,8,A8,X,15.7,11,13.6,319
+934,Ram,Pickup truck: Standard,3,6,A8,D,12.3,8.8,10.8,289
+935,Ram,Pickup truck: Standard,3.6,6,A8,X,14.5,10.2,12.6,294
+936,Ram,Pickup truck: Standard,3.6,6,A8,E,20.7,14.7,18,300
+937,Ram,Pickup truck: Standard,5.7,8,A6,X,18.7,13.3,16.3,382
+938,Ram,Pickup truck: Standard,5.7,8,A8,X,16.1,11.5,14,328
+939,Ram,Special purpose vehicle,2.4,4,A9,X,11.2,8.3,9.9,232
+940,Rolls-Royce,Station wagon: Mid-size,6.7,12,AS8,Z,20,11.8,16.3,382
+941,Rolls-Royce,Compact,6.6,12,AS8,Z,20.3,13,17,397
+942,Rolls-Royce,Full-size,6.6,12,AS8,Z,20.3,13,17,397
+943,Rolls-Royce,Full-size,6.6,12,AS8,Z,20.3,13,17,397
+944,Rolls-Royce,Full-size,6.7,12,AS8,Z,20,11.8,16.3,382
+945,Rolls-Royce,Full-size,6.7,12,AS8,Z,20,11.8,16.3,382
+946,Rolls-Royce,Mid-size,6.6,12,AS8,Z,19.6,12.9,16.6,388
+947,Subaru,SUV: Standard,2.4,4,AV8,X,11.6,9,10.4,244
+948,Subaru,Minicompact,2,4,AS6,Z,9.7,7.2,8.6,200
+949,Subaru,Minicompact,2,4,M6,Z,11.2,8.3,9.9,231
+950,Subaru,SUV: Small,2,4,AV7,X,8.8,7.2,8.1,188
+951,Subaru,SUV: Small,2,4,M6,X,10.5,8.1,9.4,220
+952,Subaru,SUV: Small,2.5,4,AV7,X,9,7.2,8.2,192
+953,Subaru,Mid-size,2,4,AV7,X,8.3,6.4,7.5,174
+954,Subaru,Mid-size,2,4,M5,X,10.1,7.5,8.9,209
+955,Subaru,Station wagon: Small,2,4,AV7,X,8.4,6.6,7.6,177
+956,Subaru,Station wagon: Small,2,4,M5,X,10.1,7.7,9,211
+957,Subaru,Mid-size,2.5,4,AV7,X,9.3,7,8.2,193
+958,Subaru,Mid-size,3.6,6,AV6,X,11.9,8.3,10.3,241
+959,Subaru,SUV: Small,2.5,4,AV7,X,9.4,7.3,8.5,198
+960,Subaru,SUV: Small,3.6,6,AV6,X,12,8.7,10.5,247
+961,Subaru,Compact,2,4,AV8,Z,12.6,9.6,11.2,256
+962,Subaru,Compact,2,4,M6,Z,11.3,8.5,10,235
+963,Subaru,Compact,2.5,4,M6,Z,14.3,10.7,12.7,296
+964,Toyota,SUV: Standard,4,6,AS5,X,14.3,11.9,13.2,308
+965,Toyota,SUV: Standard,4,6,AS5,X,14.3,11.9,13.2,308
+966,Toyota,Minicompact,2,4,AS6,Z,9.9,7.3,8.7,204
+967,Toyota,Minicompact,2,4,M6,Z,11.3,8.3,9.9,232
+968,Toyota,Mid-size,3.5,6,AS8,X,10.9,7.6,9.4,220
+969,Toyota,Mid-size,2.5,4,AS8,X,8.1,5.7,6.9,164
+970,Toyota,Mid-size,2.5,4,AS8,X,8.4,6.1,7.4,173
+971,Toyota,Mid-size,2.5,4,AS8,X,8.5,6.2,7.5,175
+972,Toyota,Mid-size,3.5,6,AS8,X,10.5,7.1,9,210
+973,Toyota,Mid-size,3.5,6,AS8,X,10.7,7.4,9.2,215
+974,Toyota,Mid-size,2.5,4,AV6,X,4.9,4.8,4.9,113
+975,Toyota,Mid-size,2.5,4,AV6,X,5.3,5,5.1,121
+976,Toyota,Compact,2,4,AS7,X,8.7,7.5,8.2,189
+977,Toyota,Mid-size,1.8,4,AV,X,8.3,6.5,7.5,174
+978,Toyota,Mid-size,1.8,4,AV7,X,8.3,6.7,7.6,178
+979,Toyota,Mid-size,1.8,4,M6,X,8.5,6.6,7.6,178
+980,Toyota,Mid-size,1.8,4,AV,X,7.8,5.9,6.9,163
+981,Toyota,Compact,2,4,AV10,X,7.5,5.8,6.7,157
+982,Toyota,Compact,2,4,M6,X,8.4,6.3,7.5,174
+983,Toyota,SUV: Small,3.5,6,AS8,X,11.8,8.7,10.3,243
+984,Toyota,SUV: Standard,3.5,6,AS8,X,12.1,9,10.6,250
+985,Toyota,SUV: Standard,3.5,6,AS8,X,12,8.9,10.6,248
+986,Toyota,SUV: Standard,3.5,6,AS8,X,11.7,8.8,10.4,242
+987,Toyota,SUV: Standard,3.5,6,AV6,X,8.1,8.5,8.3,193
+988,Toyota,Mid-size,1.8,4,AV,X,4.4,4.6,4.4,105
+989,Toyota,Mid-size,1.8,4,AV,X,4.5,4.9,4.7,109
+990,Toyota,Compact,1.5,4,AV,X,4.9,5.5,5.1,120
+991,Toyota,SUV: Small,2.5,4,AS8,X,8.8,6.7,7.8,183
+992,Toyota,SUV: Small,2.5,4,AS8,X,9.2,7.1,8.3,190
+993,Toyota,SUV: Small,2.5,4,AV6,X,5.8,6.3,6,140
+994,Toyota,SUV: Standard,5.7,8,AS6,X,18.4,13.8,16.4,384
+995,Toyota,Minivan,3.5,6,AS8,X,12.4,8.9,10.8,254
+996,Toyota,Minivan,3.5,6,AS8,X,13.4,9.6,11.7,274
+997,Toyota,Pickup truck: Small,2.7,4,AS6,X,12.1,10.1,11.2,263
+998,Toyota,Pickup truck: Small,2.7,4,AS6,X,12.7,10.6,11.7,274
+999,Toyota,Pickup truck: Small,3.5,6,AS6,X,13,10.5,11.9,278
+1000,Toyota,Pickup truck: Small,3.5,6,M6,X,13.8,11.4,12.7,299
+1001,Toyota,Pickup truck: Small,3.5,6,M6,X,13.8,11.7,12.9,300
+1002,Toyota,Pickup truck: Standard,5.7,8,AS6,X,17.7,13.6,15.9,371
+1003,Toyota,Pickup truck: Standard,4.6,8,AS6,X,16.8,13.1,14.9,354
+1004,Toyota,Pickup truck: Standard,5.7,8,AS6,X,18,14.1,16.3,382
+1005,Toyota,Compact,1.5,4,AS6,X,7.3,5.8,6.6,155
+1006,Toyota,Compact,1.5,4,M6,X,7.8,6,6.8,164
+1007,Toyota,Compact,1.5,4,A4,X,7.9,6.8,7.4,173
+1008,Toyota,Compact,1.5,4,M5,X,7.8,6.5,7.2,169
+1009,Volkswagen,Full-size,2,4,AS8,Z,12,8.6,10.4,244
+1010,Volkswagen,SUV: Small,2,4,AS8,X,11.6,9.1,10.5,245
+1011,Volkswagen,SUV: Standard,3.6,6,AS8,X,13.8,10.2,12.2,286
+1012,Volkswagen,Compact,2,4,AS6,X,9,7.1,8.2,191
+1013,Volkswagen,Subcompact,2,4,AS6,X,9,7.1,8.2,191
+1014,Volkswagen,Compact,1.4,4,AS8,X,8.1,6.4,7.4,172
+1015,Volkswagen,Compact,1.4,4,M6,X,8.2,6.3,7.4,172
+1016,Volkswagen,Compact,2,4,AM7,X,9.6,7.5,8.6,202
+1017,Volkswagen,Compact,2,4,M6,X,9.8,7.3,8.7,203
+1018,Volkswagen,Compact,2,4,AM7,Z,10.2,7.9,9.2,213
+1019,Volkswagen,Compact,2,4,M6,Z,11.4,8.2,9.9,232
+1020,Volkswagen,Station wagon: Small,1.8,4,AM6,X,10.7,8,9.4,220
+1021,Volkswagen,Station wagon: Small,1.8,4,M6,X,11.1,7.8,9.6,225
+1022,Volkswagen,Station wagon: Small,1.4,4,AS8,X,8.6,6.5,7.6,178
+1023,Volkswagen,Station wagon: Small,1.4,4,M6,X,8.2,6.3,7.4,172
+1024,Volkswagen,Station wagon: Small,1.8,4,AM6,X,10.8,8.1,9.6,224
+1025,Volkswagen,Station wagon: Small,1.8,4,M6,X,10.8,7.6,9.3,218
+1026,Volkswagen,Compact,1.4,4,AS8,X,7.8,5.9,7,163
+1027,Volkswagen,Compact,1.4,4,M6,X,7.9,5.9,7,163
+1028,Volkswagen,Compact,2,4,AM7,X,9.3,7.2,8.4,196
+1029,Volkswagen,Compact,2,4,M6,X,9.6,7.3,8.5,200
+1030,Volkswagen,Mid-size,2,4,AS6,X,9.3,6.5,8.1,188
+1031,Volkswagen,SUV: Small,2,4,AS8,X,10.7,8,9.5,221
+1032,Volkswagen,SUV: Small,2,4,AS8,X,11.1,8.1,9.8,228
+1033,Volvo,Compact,2,4,AS8,Z,9.9,6.6,8.4,197
+1034,Volvo,Compact,2,4,AS8,Z,11.1,7.3,9.4,218
+1035,Volvo,Mid-size,2,4,AS8,Z,10.6,7.4,9.2,215
+1036,Volvo,Mid-size,2,4,AS8,Z,11.1,7.3,9.4,219
+1037,Volvo,Station wagon: Small,2,4,AS8,Z,9.9,6.6,8.4,197
+1038,Volvo,Station wagon: Small,2,4,AS8,Z,11.1,7.3,9.4,219
+1039,Volvo,Station wagon: Small,2,4,AS8,Z,10.8,7.6,9.3,218
+1040,Volvo,Station wagon: Mid-size,2,4,AS8,Z,11.1,7.3,9.4,219
+1041,Volvo,Station wagon: Mid-size,2,4,AS8,Z,11.6,8.1,10,233
+1042,Volvo,SUV: Small,2,4,AS8,Z,10.3,7.5,9,211
+1043,Volvo,SUV: Small,2,4,AS8,Z,11.3,8.5,10,233
+1044,Volvo,SUV: Small,2,4,AS8,Z,11.8,8.6,10.4,242
+1045,Volvo,SUV: Standard,2,4,AS8,Z,11.3,8.5,10,233
+1046,Volvo,SUV: Standard,2,4,AS8,Z,12.1,8.9,10.7,250

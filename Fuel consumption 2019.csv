@@ -1,0 +1,1047 @@
+ID,Make,Model,Vehicle_Class,Engine_Size,Cylinders,Transmission,Fuel_Type,Fuel_Consumption_City,Fuel_Consumption_Hwy,Fuel_Consumption_Comb,CO2_Emissions
+1,Acura,ILX,Compact,2.40,4,AM8,Z,9.90,7.00,8.60,199.00
+2,Acura,MDX SH-AWD,SUV: Small,3.50,6,AS9,Z,12.20,9.00,10.80,252.00
+3,Acura,MDX SH-AWD A-SPEC,SUV: Small,3.50,6,AS9,Z,12.20,9.50,11.00,258.00
+4,Acura,MDX Hybrid AWD,SUV: Small,3.00,6,AM7,Z,9.10,9.00,9.00,210.00
+5,Acura,NSX,Two-seater,3.50,6,AM9,Z,11.10,10.80,11.00,261.00
+6,Acura,RDX AWD,SUV: Small,2.00,4,AS10,Z,11.00,8.60,9.90,232.00
+7,Acura,RDX AWD A-SPEC,SUV: Small,2.00,4,AS10,Z,11.30,9.10,10.30,242.00
+8,Acura,RLX Hybrid,Mid-size,3.50,6,AM7,Z,8.40,8.20,8.40,196.00
+9,Acura,TLX,Compact,2.40,4,AM8,Z,10.00,7.10,8.70,205.00
+10,Acura,TLX A-SPEC,Compact,2.40,4,AM8,Z,10.20,7.40,8.90,209.00
+11,Acura,TLX SH-AWD,Compact,3.50,6,AS9,Z,11.40,7.70,9.80,228.00
+12,Acura,TLX SH-AWD A-SPEC,Compact,3.50,6,AS9,Z,12.00,8.20,10.30,240.00
+13,Alfa Romeo,4C Coupe,Two-seater,1.80,4,AM6,Z,9.70,6.90,8.40,197.00
+14,Alfa Romeo,4C Spider,Two-seater,1.80,4,AM6,Z,9.70,6.90,8.40,197.00
+15,Alfa Romeo,Giulia,Mid-size,2.00,4,A8,Z,10.00,7.20,8.70,205.00
+16,Alfa Romeo,Giulia AWD,Mid-size,2.00,4,A8,Z,10.50,7.70,9.20,217.00
+17,Alfa Romeo,Giulia Quadrifoglio,Mid-size,2.90,6,A8,Z,13.80,9.60,11.90,280.00
+18,Alfa Romeo,Stelvio,SUV: Small,2.00,4,A8,Z,10.30,8.10,9.30,218.00
+19,Alfa Romeo,Stelvio AWD,SUV: Small,2.00,4,A8,Z,10.80,8.30,9.60,226.00
+20,Alfa Romeo,Stelvio AWD Quadrifoglio,SUV: Small,2.90,6,A8,Z,14.10,10.40,12.40,292.00
+21,Aston Martin,DB11 V8,Minicompact,4.00,8,A8,Z,13.00,9.80,11.50,271.00
+22,Aston Martin,DB11 AMR,Minicompact,5.20,12,A8,Z,15.50,10.60,13.30,312.00
+23,Aston Martin,DBS Superleggera,Minicompact,5.20,12,A8,Z,16.40,10.70,13.80,324.00
+24,Aston Martin,Rapide AMR,Subcompact,6.00,12,A8,Z,16.70,10.90,14.10,332.00
+25,Aston Martin,Vanquish Zagato,Minicompact,6.00,12,A8,Z,17.50,11.40,14.70,346.00
+26,Aston Martin,Vantage V8,Two-seater,4.00,8,A8,Z,12.70,9.40,11.20,264.00
+27,Audi,A3,Subcompact,2.00,4,AM7,X,9.10,6.80,8.10,188.00
+28,Audi,A3 quattro,Subcompact,2.00,4,AM7,X,10.90,7.90,9.60,225.00
+29,Audi,A3 Cabriolet quattro,Subcompact,2.00,4,AM7,X,10.70,7.90,9.50,221.00
+30,Audi,A4,Compact,2.00,4,AM7,Z,8.60,6.90,7.80,182.00
+31,Audi,A4 quattro,Compact,2.00,4,AM7,Z,10.00,7.00,8.70,204.00
+32,Audi,A4 allroad quattro,Station wagon: Small,2.00,4,AM7,Z,10.70,8.00,9.50,221.00
+33,Audi,A5 quattro,Subcompact,2.00,4,AM7,Z,10.00,7.00,8.70,204.00
+34,Audi,A5 Cabriolet quattro,Subcompact,2.00,4,AM7,Z,10.00,7.00,8.70,204.00
+35,Audi,A5 Sportback quattro,Mid-size,2.00,4,AM7,Z,10.00,7.00,8.70,204.00
+36,Audi,A6 quattro,Mid-size,3.00,6,AM7,Z,10.70,8.20,9.60,224.00
+37,Audi,A7 quattro,Mid-size,3.00,6,AM7,Z,10.70,8.20,9.60,224.00
+38,Audi,A8L,Full-size,3.00,6,AS8,Z,12.50,8.60,10.80,202.00
+39,Audi,Q3 quattro,SUV: Small,2.00,4,AS8,X,12.30,8.60,10.60,248.00
+40,Audi,Q5,SUV: Small,2.00,4,AM7,Z,10.90,8.70,9.90,230.00
+41,Audi,Q7,SUV: Standard,2.00,4,AS8,Z,12.20,9.50,11.00,258.00
+42,Audi,Q7,SUV: Standard,3.00,6,AS8,Z,12.60,9.40,11.10,260.00
+43,Audi,Q8,SUV: Standard,3.00,6,AS8,Z,14.00,10.70,12.50,294.00
+44,Audi,RS 3,Subcompact,2.50,5,AM7,Z,12.40,8.40,10.60,247.00
+45,Audi,RS 5 Coupe,Subcompact,2.90,6,AS8,Z,13.30,8.70,11.30,262.00
+46,Audi,RS 5 Sportback,Subcompact,2.90,6,AS8,Z,13.50,9.00,11.50,268.00
+47,Audi,S3,Subcompact,2.00,4,AM7,Z,10.70,8.00,9.50,222.00
+48,Audi,S4,Compact,3.00,6,AS8,Z,11.30,8.00,9.80,230.00
+49,Audi,S5,Subcompact,3.00,6,AS8,Z,11.30,8.00,9.80,230.00
+50,Audi,S5 Cabriolet,Subcompact,3.00,6,AS8,Z,11.40,8.20,9.90,234.00
+51,Audi,S5 Sportback,Mid-size,3.00,6,AS8,Z,11.30,8.00,9.80,230.00
+52,Audi,SQ5,SUV: Small,3.00,6,AS8,Z,12.70,10.00,11.50,270.00
+53,Audi,TT Coupe quattro,Subcompact,2.00,4,AM7,X,10.30,7.70,9.20,213.00
+54,Audi,TT Roadster quattro,Two-seater,2.00,4,AM7,X,10.30,7.70,9.20,213.00
+55,Audi,TT RS Coupe,Subcompact,2.50,5,AM7,Z,12.00,8.30,10.30,241.00
+56,Audi,TTS Coupe,Subcompact,2.00,4,AM7,Z,10.40,8.20,9.40,220.00
+57,Bentley,Bentayga,SUV: Standard,4.00,8,AS8,Z,16.40,10.10,13.60,315.00
+58,Bentley,Mulsanne,Mid-size,6.80,8,AS8,Z,24.50,14.40,20.00,465.00
+59,BMW,230i xDrive Cabriolet,Subcompact,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+60,BMW,230i xDrive Coupe,Subcompact,2.00,4,AS8,Z,9.90,7.10,8.60,202.00
+61,BMW,330i xDrive,Compact,2.00,4,AS8,Z,9.50,6.90,8.30,194.00
+62,BMW,330i xDrive Gran Turismo,Full-size,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+63,BMW,330i xDrive Touring,Station wagon: Small,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+64,BMW,430i xDrive Cabriolet,Subcompact,2.00,4,AS8,Z,10.60,7.30,9.10,213.00
+65,BMW,430i xDrive Coupe,Compact,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+66,BMW,430i xDrive Gran Coupe,Compact,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+67,BMW,440i Coupe,Compact,3.00,6,AS8,Z,11.20,7.30,9.40,227.00
+68,BMW,440i Coupe,Compact,3.00,6,M6,Z,12.80,8.80,11.00,256.00
+69,BMW,440i xDrive Cabriolet,Subcompact,3.00,6,AS8,Z,11.80,7.90,10.00,235.00
+70,BMW,440i xDrive Coupe,Compact,3.00,6,AS8,Z,11.40,7.60,9.70,228.00
+71,BMW,440i xDrive Coupe,Compact,3.00,6,M6,Z,13.00,8.50,11.00,256.00
+72,BMW,440i xDrive Gran Coupe,Compact,3.00,6,AS8,Z,11.40,7.60,9.70,228.00
+73,BMW,530i xDrive,Mid-size,2.00,4,AS8,Z,10.20,7.20,8.80,207.00
+74,BMW,540i xDrive,Mid-size,3.00,6,AS8,Z,11.20,8.10,9.80,231.00
+75,BMW,640i xDrive Gran Coupe,Compact,3.00,6,AS8,Z,12.30,8.40,10.50,248.00
+76,BMW,640i xDrive Gran Turismo,Full-size,3.00,6,AS8,Z,11.90,8.40,10.30,241.00
+77,BMW,650i xDrive Gran Coupe,Compact,4.40,8,AS8,Z,14.00,9.60,12.00,282.00
+78,BMW,750i xDrive,Full-size,4.40,8,AS8,Z,13.30,9.20,11.50,269.00
+79,BMW,750Li xDrive,Full-size,4.40,8,AS8,Z,14.00,9.60,12.00,282.00
+80,BMW,Alpina B6 xDrive Gran Coupe,Compact,4.40,8,AS8,Z,14.00,9.60,12.00,282.00
+81,BMW,Alpina B7 xDrive,Full-size,4.40,8,AS8,Z,14.00,9.60,12.00,282.00
+82,BMW,M2 Competition,Subcompact,3.00,6,AM7,Z,14.30,10.40,12.60,294.00
+83,BMW,M2 Competition,Subcompact,3.00,6,M6,Z,13.40,9.60,11.70,273.00
+84,BMW,M240i Cabriolet,Subcompact,3.00,6,AS8,Z,11.20,7.80,9.70,227.00
+85,BMW,M240i Cabriolet,Subcompact,3.00,6,M6,Z,12.80,8.80,11.00,256.00
+86,BMW,M240i Coupe,Subcompact,3.00,6,AS8,Z,11.20,7.80,9.70,227.00
+87,BMW,M240i Coupe,Subcompact,3.00,6,M6,Z,12.80,8.80,11.00,256.00
+88,BMW,M240i Coupe M Performance,Subcompact,3.00,6,AS8,Z,11.20,7.80,9.70,227.00
+89,BMW,M240i Coupe M Performance,Subcompact,3.00,6,M6,Z,12.80,8.80,11.00,256.00
+90,BMW,M240i xDrive Cabriolet,Subcompact,3.00,6,AS8,Z,11.30,8.00,9.80,229.00
+91,BMW,M240i xDrive Coupe,Subcompact,3.00,6,AS8,Z,11.30,8.00,9.80,229.00
+92,BMW,M240i xDrive Coupe M Performance,Subcompact,3.00,6,AS8,Z,11.30,8.00,9.80,229.00
+93,BMW,M4 Cabriolet,Subcompact,3.00,6,AM7,Z,14.50,10.50,12.70,299.00
+94,BMW,M4 Cabriolet,Subcompact,3.00,6,M6,Z,13.80,9.40,11.90,280.00
+95,BMW,M4 Cabriolet Competition,Subcompact,3.00,6,AM7,Z,14.50,10.50,12.70,299.00
+96,BMW,M4 Cabriolet Competition,Subcompact,3.00,6,M6,Z,13.80,9.40,11.90,280.00
+97,BMW,M4 Coupe,Compact,3.00,6,AM7,Z,14.30,10.40,12.60,294.00
+98,BMW,M4 Coupe,Compact,3.00,6,M6,Z,13.40,9.60,11.70,273.00
+99,BMW,M4 Coupe Competition,Compact,3.00,6,AM7,Z,14.30,10.40,12.60,294.00
+100,BMW,M4 Coupe Competition,Compact,3.00,6,M6,Z,13.40,9.60,11.70,273.00
+101,BMW,M4 CS,Compact,3.00,6,AM7,Z,14.30,10.40,12.60,294.00
+102,BMW,M5,Mid-size,4.40,8,AS8,Z,16.00,11.20,13.90,324.00
+103,BMW,M5 Competition,Mid-size,4.40,8,AS8,Z,16.00,11.20,13.90,324.00
+104,BMW,M550i xDrive,Mid-size,4.40,8,AS8,Z,13.30,9.20,11.50,269.00
+105,BMW,M6 Gran Coupe,Compact,4.40,8,AM7,Z,17.30,11.60,14.70,344.00
+106,BMW,M760Li xDrive,Full-size,6.60,12,AS8,Z,17.70,11.90,15.10,355.00
+107,BMW,M850i xDrive Cabriolet,Subcompact,4.40,8,AS8,Z,13.50,9.20,11.60,270.00
+108,BMW,M850i xDrive Coupe,Subcompact,4.40,8,AS8,Z,13.30,9.20,11.50,269.00
+109,BMW,X1 xDrive28i,SUV: Small,2.00,4,AS8,Z,10.70,7.50,9.30,217.00
+110,BMW,X2 xDrive28i,SUV: Small,2.00,4,AS8,Z,11.00,7.70,9.50,222.00
+111,BMW,X3 xDrive30i,SUV: Small,2.00,4,AS8,Z,10.80,8.00,9.60,223.00
+112,BMW,X3 M40i,SUV: Small,3.00,6,AS8,Z,11.90,8.70,10.40,245.00
+113,BMW,X4 xDrive30i,SUV: Small,2.00,4,AS8,Z,10.80,8.00,9.60,223.00
+114,BMW,X4 M40i,SUV: Small,3.00,6,AS8,Z,11.90,8.70,10.40,245.00
+115,BMW,X5 xDrive40i,SUV: Standard,3.00,6,AS8,Z,11.70,9.10,10.50,245.00
+116,BMW,X5 xDrive50i,SUV: Standard,4.40,8,AS8,Z,15.30,11.10,13.40,314.00
+117,BMW,X6 xDrive35i,SUV: Standard,3.00,6,AS8,Z,13.00,9.90,11.60,272.00
+118,BMW,X6 xDrive50i,SUV: Standard,4.40,8,AS8,Z,14.30,10.60,12.60,294.00
+119,BMW,X6 M,SUV: Standard,4.40,8,AS8,Z,16.60,12.10,14.60,341.00
+120,BMW,X7 xDrive40i,SUV: Standard,3.00,6,AS8,Z,12.00,9.40,10.80,254.00
+121,BMW,X7 xDrive50i,SUV: Standard,4.40,8,AS8,Z,14.30,10.60,12.60,294.00
+122,Bugatti,Chiron,Two-seater,8.00,16,AM7,Z,26.80,16.60,22.20,522.00
+123,Buick,Enclave,SUV: Standard,3.60,6,A9,X,13.00,9.10,11.20,263.00
+124,Buick,Enclave AWD,SUV: Standard,3.60,6,A9,X,13.80,9.50,11.90,278.00
+125,Buick,Encore,SUV: Small,1.40,4,AS6,X,9.40,7.80,8.70,204.00
+126,Buick,Encore (SIDI with Stop/Start),SUV: Small,1.40,4,AS6,X,8.90,7.50,8.30,194.00
+127,Buick,Encore AWD,SUV: Small,1.40,4,AS6,X,9.90,8.10,9.10,214.00
+128,Buick,Encore AWD (SIDI with Stop/Start),SUV: Small,1.40,4,AS6,X,9.40,7.90,8.80,205.00
+129,Buick,Envision AWD,SUV: Small,2.00,4,A9,Z,11.70,9.40,10.70,249.00
+130,Buick,Envision AWD,SUV: Small,2.50,4,A6,X,11.10,8.60,10.00,234.00
+131,Buick,LaCrosse,Mid-size,3.60,6,AS9,X,11.70,7.80,9.90,233.00
+132,Buick,LaCrosse eAssist,Mid-size,2.50,4,AS6,X,9.40,6.80,8.20,192.00
+133,Buick,LaCrosse AWD,Mid-size,3.60,6,AS9,X,11.70,8.20,10.10,238.00
+134,Buick,Regal,Mid-size,2.00,4,AS9,Z,10.60,7.40,9.10,214.00
+135,Buick,Regal AWD,Mid-size,2.00,4,AS8,Z,11.00,8.00,9.60,227.00
+136,Buick,Regal AWD,Mid-size,3.60,6,AS9,X,12.40,8.70,10.70,251.00
+137,Cadillac,CT6 AWD,Full-size,3.00,6,AS10,Z,13.10,9.10,11.30,267.00
+138,Cadillac,CT6 AWD,Full-size,3.60,6,AS10,X,13.00,8.80,11.10,261.00
+139,Cadillac,CT6 AWD,Full-size,4.20,8,AS10,Z,17.30,9.50,13.80,324.00
+140,Cadillac,CTS,Mid-size,2.00,4,AS8,Z,11.00,7.80,9.50,222.00
+141,Cadillac,CTS,Mid-size,3.60,6,AS8,X,12.30,8.20,10.50,246.00
+142,Cadillac,CTS AWD,Mid-size,2.00,4,AS8,Z,11.40,8.10,9.90,232.00
+143,Cadillac,CTS AWD,Mid-size,3.60,6,AS8,X,13.30,9.20,11.50,269.00
+144,Cadillac,CTS Vsport,Mid-size,3.60,6,AS8,Z,15.00,9.90,12.70,298.00
+145,Cadillac,CTS-V,Mid-size,6.20,8,AS8,Z,17.10,11.00,14.30,337.00
+146,Cadillac,Escalade 4WD,SUV: Standard,6.20,8,A10,Z,16.60,10.90,14.00,328.00
+147,Cadillac,XT4,SUV: Small,2.00,4,AS9,Z,9.80,7.80,8.90,209.00
+148,Cadillac,XT4 AWD,SUV: Small,2.00,4,AS9,Z,10.90,8.20,9.70,227.00
+149,Cadillac,XT5,SUV: Small,3.60,6,AS8,X,12.10,8.90,10.60,250.00
+150,Cadillac,XT5 AWD,SUV: Small,3.60,6,AS8,X,12.80,9.30,11.20,263.00
+151,Cadillac,XTS,Full-size,3.60,6,AS6,X,12.90,8.70,11.00,259.00
+152,Cadillac,XTS AWD,Full-size,3.60,6,AS6,X,13.70,9.00,11.60,272.00
+153,Cadillac,XTS Vsport AWD,Full-size,3.60,6,AS6,Z,15.00,10.10,12.80,302.00
+154,Chevrolet,Blazer,SUV: Small,2.50,4,A9,X,10.80,8.80,9.90,232.00
+155,Chevrolet,Blazer,SUV: Small,3.60,6,A9,X,12.00,9.00,10.60,250.00
+156,Chevrolet,Blazer AWD,SUV: Small,3.60,6,A9,X,12.70,9.50,11.30,265.00
+157,Chevrolet,Camaro,Subcompact,2.00,4,AS8,Z,10.80,7.70,9.40,220.00
+158,Chevrolet,Camaro,Subcompact,2.00,4,M6,Z,11.90,7.90,10.10,235.00
+159,Chevrolet,Camaro,Subcompact,3.60,6,AS8,X,12.30,8.20,10.40,246.00
+160,Chevrolet,Camaro,Subcompact,3.60,6,M6,X,14.30,8.80,11.80,277.00
+161,Chevrolet,Camaro SS,Subcompact,6.20,8,AS10,Z,14.50,8.80,12.00,279.00
+162,Chevrolet,Camaro SS,Subcompact,6.20,8,M6,Z,14.90,9.90,12.60,297.00
+163,Chevrolet,Camaro ZL1,Subcompact,6.20,8,AS10,Z,18.30,11.20,15.10,355.00
+164,Chevrolet,Camaro ZL1,Subcompact,6.20,8,M6,Z,17.20,12.00,14.90,349.00
+165,Chevrolet,Colorado,Pickup truck: Small,2.50,4,A6,X,12.10,9.20,10.80,253.00
+166,Chevrolet,Colorado,Pickup truck: Small,2.50,4,M6,X,11.90,9.20,10.70,251.00
+167,Chevrolet,Colorado,Pickup truck: Small,2.80,4,A6,D,11.80,7.90,10.10,270.00
+168,Chevrolet,Colorado,Pickup truck: Small,3.60,6,A8,X,13.40,9.60,11.70,274.00
+169,Chevrolet,Colorado 4WD,Pickup truck: Small,2.50,4,A6,X,12.70,9.80,11.40,267.00
+170,Chevrolet,Colorado 4WD,Pickup truck: Small,2.80,4,A6,D,12.20,8.40,10.50,283.00
+171,Chevrolet,Colorado 4WD,Pickup truck: Small,3.60,6,A8,X,14.00,9.90,12.20,286.00
+172,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,2.80,4,A6,D,13.30,10.60,12.10,326.00
+173,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,3.60,6,A8,X,15.00,13.00,14.10,331.00
+174,Chevrolet,Corvette,Two-seater,6.20,8,AS8,Z,15.60,9.20,12.70,299.00
+175,Chevrolet,Corvette,Two-seater,6.20,8,M7,Z,14.60,9.30,12.20,286.00
+176,Chevrolet,Corvette Z06,Two-seater,6.20,8,AS8,Z,17.20,10.10,14.00,331.00
+177,Chevrolet,Corvette Z06,Two-seater,6.20,8,M7,Z,15.90,10.60,13.50,318.00
+178,Chevrolet,Corvette ZR1,Two-seater,6.20,8,AS8,Z,19.50,12.00,16.10,381.00
+179,Chevrolet,Corvette ZR1,Two-seater,6.20,8,M7,Z,18.20,12.50,15.60,368.00
+180,Chevrolet,Cruze,Compact,1.40,4,AS6,X,8.30,6.20,7.30,172.00
+181,Chevrolet,Cruze Premier,Compact,1.40,4,AS6,X,8.30,6.20,7.30,172.00
+182,Chevrolet,Cruze Diesel,Compact,1.60,4,A9,D,7.60,4.90,6.40,172.00
+183,Chevrolet,Cruze Hatchback,Mid-size,1.40,4,AS6,X,8.30,6.20,7.30,172.00
+184,Chevrolet,Cruze Hatchback Premier,Mid-size,1.40,4,AS6,X,8.50,6.40,7.50,175.00
+185,Chevrolet,Cruze Hatchback Diesel,Mid-size,1.60,4,A9,D,7.80,5.20,6.60,178.00
+186,Chevrolet,Equinox,SUV: Small,1.50,4,A6,X,9.20,7.30,8.30,196.00
+187,Chevrolet,Equinox,SUV: Small,1.60,4,A6,D,8.50,6.00,7.40,199.00
+188,Chevrolet,Equinox AWD,SUV: Small,1.50,4,A6,X,9.30,7.80,8.60,207.00
+189,Chevrolet,Equinox AWD,SUV: Small,1.60,4,A6,D,8.50,6.10,7.40,199.00
+190,Chevrolet,Equinox AWD,SUV: Small,2.00,4,A9,Z,10.90,8.30,9.70,228.00
+191,Chevrolet,Impala,Full-size,2.50,4,AS6,X,10.80,8.00,9.60,225.00
+192,Chevrolet,Impala,Full-size,3.60,6,AS6,X,12.70,8.50,10.80,254.00
+193,Chevrolet,Impala,Full-size,3.60,6,AS6,E,17.20,11.60,14.60,245.00
+194,Chevrolet,Malibu,Mid-size,1.50,4,AV,X,8.20,6.60,7.50,174.00
+195,Chevrolet,Malibu,Mid-size,2.00,4,A9,Z,10.50,7.40,9.10,214.00
+196,Chevrolet,Malibu Hybrid,Mid-size,1.80,4,AV,X,4.80,5.50,5.10,121.00
+197,Chevrolet,Silverado,Pickup truck: Standard,2.70,4,A8,X,11.90,10.30,11.10,261.00
+198,Chevrolet,Silverado,Pickup truck: Standard,4.30,6,A6,X,15.10,11.50,13.50,316.00
+199,Chevrolet,Silverado,Pickup truck: Standard,5.30,8,A6,X,15.90,11.40,13.90,326.00
+200,Chevrolet,Silverado FFV,Pickup truck: Standard,5.30,8,A6,X,15.70,11.90,14.00,329.00
+201,Chevrolet,Silverado FFV,Pickup truck: Standard,5.30,8,A6,E,21.10,15.00,18.40,306.00
+202,Chevrolet,Silverado,Pickup truck: Standard,5.30,8,A8,X,14.10,10.20,12.40,290.00
+203,Chevrolet,Silverado 4WD,Pickup truck: Standard,2.70,4,A8,X,12.50,10.80,11.70,275.00
+204,Chevrolet,Silverado 4WD,Pickup truck: Standard,4.30,6,A6,X,15.80,11.90,14.00,329.00
+205,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,4.30,6,A6,X,16.30,12.90,14.80,347.00
+206,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.30,8,A6,X,15.90,11.70,14.00,329.00
+207,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.30,8,A6,X,16.10,12.50,14.40,339.00
+208,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.30,8,A6,E,22.00,16.10,19.30,322.00
+209,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,5.30,8,A6,X,16.50,13.00,14.90,350.00
+210,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.30,8,A8,X,14.90,10.80,13.10,306.00
+211,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,5.30,8,A8,X,15.30,11.80,13.70,320.00
+212,Chevrolet,Silverado 4WD,Pickup truck: Standard,6.20,8,A10,Z,15.00,12.00,13.70,321.00
+213,Chevrolet,Silverado LD,Pickup truck: Standard,5.30,8,A6,X,15.60,10.90,13.50,317.00
+214,Chevrolet,Silverado LD 4WD,Pickup truck: Standard,5.30,8,A6,X,15.80,11.40,13.80,325.00
+215,Chevrolet,Spark,Subcompact,1.40,4,AV,X,7.90,6.20,7.10,167.00
+216,Chevrolet,Spark,Subcompact,1.40,4,M5,X,8.00,6.20,7.20,170.00
+217,Chevrolet,Suburban,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+218,Chevrolet,Suburban FFV,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+219,Chevrolet,Suburban FFV,SUV: Standard,5.30,8,A6,E,21.20,13.90,17.90,298.00
+220,Chevrolet,Suburban 4WD,SUV: Standard,5.30,8,A6,X,16.80,11.30,14.30,336.00
+221,Chevrolet,Suburban 4WD FFV,SUV: Standard,5.30,8,A6,X,16.80,11.30,14.30,336.00
+222,Chevrolet,Suburban 4WD FFV,SUV: Standard,5.30,8,A6,E,22.20,15.20,19.00,317.00
+223,Chevrolet,Suburban 4WD,SUV: Standard,6.20,8,A10,Z,17.10,11.30,14.50,340.00
+224,Chevrolet,Tahoe,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+225,Chevrolet,Tahoe FFV,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+226,Chevrolet,Tahoe FFV,SUV: Standard,5.30,8,A6,E,21.20,13.90,17.90,298.00
+227,Chevrolet,Tahoe 4WD,SUV: Standard,5.30,8,A6,X,15.80,11.10,13.70,321.00
+228,Chevrolet,Tahoe 4WD FFV,SUV: Standard,5.30,8,A6,X,15.80,11.10,13.70,321.00
+229,Chevrolet,Tahoe 4WD FFV,SUV: Standard,5.30,8,A6,E,21.70,14.30,18.40,305.00
+230,Chevrolet,Tahoe 4WD,SUV: Standard,6.20,8,A10,Z,16.40,10.70,13.80,325.00
+231,Chevrolet,Traverse,SUV: Standard,3.60,6,A9,X,13.00,8.80,11.10,261.00
+232,Chevrolet,Traverse AWD,SUV: Standard,3.60,6,A9,X,13.70,9.50,11.80,277.00
+233,Chevrolet,Trax,SUV: Small,1.40,4,AS6,X,9.10,7.60,8.40,196.00
+234,Chevrolet,Trax,SUV: Small,1.40,4,M6,X,9.40,6.90,8.30,194.00
+235,Chevrolet,Trax 4WD,SUV: Small,1.40,4,AS6,X,9.90,8.10,9.10,214.00
+236,Chrysler,300,Full-size,3.60,6,A8,X,12.40,7.80,10.30,242.00
+237,Chrysler,300 FFV,Full-size,3.60,6,A8,X,12.40,7.80,10.30,242.00
+238,Chrysler,300 FFV,Full-size,3.60,6,A8,E,17.10,10.60,14.20,234.00
+239,Chrysler,300,Full-size,5.70,8,A8,X,14.70,9.40,12.30,289.00
+240,Chrysler,300 AWD,Full-size,3.60,6,A8,X,12.80,8.70,11.00,258.00
+241,Chrysler,300 AWD FFV,Full-size,3.60,6,A8,X,12.80,8.70,11.00,258.00
+242,Chrysler,300 AWD FFV,Full-size,3.60,6,A8,E,17.60,12.00,15.00,248.00
+243,Chrysler,Pacifica,Minivan,3.60,6,A9,X,12.90,8.40,10.90,259.00
+244,Chrysler,Pacifica (Stop-Start),Minivan,3.60,6,A9,X,12.40,8.40,10.60,249.00
+245,Dodge,Challenger,Mid-size,3.60,6,A8,X,12.40,7.80,10.30,242.00
+246,Dodge,Challenger,Mid-size,5.70,8,M6,Z,15.60,10.10,13.10,307.00
+247,Dodge,Challenger,Mid-size,6.40,8,M6,Z,16.70,10.40,13.90,325.00
+248,Dodge,Challenger (MDS),Mid-size,5.70,8,A8,X,14.70,9.40,12.30,289.00
+249,Dodge,Challenger (MDS),Mid-size,6.40,8,A8,Z,15.80,9.60,13.00,304.00
+250,Dodge,Challenger GT AWD,Mid-size,3.60,6,A8,X,12.80,8.70,11.00,258.00
+251,Dodge,Challenger SRT Hellcat,Mid-size,6.20,8,A8,Z,17.60,10.70,14.50,339.00
+252,Dodge,Challenger SRT Hellcat,Mid-size,6.20,8,M6,Z,18.10,11.40,15.10,352.00
+253,Dodge,Challenger SRT Hellcat Redeye,Mid-size,6.20,8,A8,Z,17.60,10.70,14.50,339.00
+254,Dodge,Charger,Full-size,3.60,6,A5,X,13.70,9.00,11.60,271.00
+255,Dodge,Charger FFV,Full-size,3.60,6,A5,X,13.70,9.00,11.60,271.00
+256,Dodge,Charger FFV,Full-size,3.60,6,A5,E,18.90,12.70,16.10,268.00
+257,Dodge,Charger,Full-size,3.60,6,A8,X,12.40,7.80,10.30,242.00
+258,Dodge,Charger FFV,Full-size,3.60,6,A8,X,12.40,7.80,10.30,242.00
+259,Dodge,Charger FFV,Full-size,3.60,6,A8,E,17.10,10.60,14.20,234.00
+260,Dodge,Charger (MDS),Full-size,5.70,8,A5,X,15.60,9.70,12.90,302.00
+261,Dodge,Charger (MDS),Full-size,5.70,8,A8,X,14.70,9.40,12.30,289.00
+262,Dodge,Charger (MDS),Full-size,6.40,8,A8,Z,15.80,9.60,13.00,304.00
+263,Dodge,Charger AWD,Full-size,3.60,6,A8,X,12.80,8.70,11.00,258.00
+264,Dodge,Charger AWD FFV,Full-size,3.60,6,A8,X,12.80,8.70,11.00,258.00
+265,Dodge,Charger AWD FFV,Full-size,3.60,6,A8,E,17.60,12.00,15.00,248.00
+266,Dodge,Charger AWD (MDS),Full-size,5.70,8,A5,X,16.00,10.10,13.30,312.00
+267,Dodge,Charger SRT Hellcat,Full-size,6.20,8,A8,Z,17.60,10.70,14.50,339.00
+268,Dodge,Durango AWD,SUV: Standard,3.60,6,A8,X,12.70,9.60,11.30,265.00
+269,Dodge,Durango AWD,SUV: Standard,5.70,8,A8,X,16.70,10.90,14.10,331.00
+270,Dodge,Durango AWD SRT,SUV: Standard,6.40,8,A8,Z,18.30,12.20,15.60,363.00
+271,Dodge,Grand Caravan FFV,Minivan,3.60,6,A6,X,13.70,9.40,11.80,276.00
+272,Dodge,Grand Caravan FFV,Minivan,3.60,6,A6,E,19.40,13.30,16.70,274.00
+273,Dodge,Journey,SUV: Small,2.40,4,A4,X,12.70,9.20,11.10,261.00
+274,Dodge,Journey FFV,SUV: Small,3.60,6,A6,X,14.20,9.50,12.10,284.00
+275,Dodge,Journey FFV,SUV: Small,3.60,6,A6,E,19.10,13.20,16.40,274.00
+276,Dodge,Journey AWD,SUV: Small,3.60,6,A6,X,14.50,10.00,12.40,292.00
+277,FIAT,124 Spider,Two-seater,1.40,4,A6,X,9.30,6.50,8.00,187.00
+278,FIAT,124 Spider,Two-seater,1.40,4,M6,X,9.00,6.70,7.90,185.00
+279,FIAT,500,Minicompact,1.40,4,A6,X,9.70,7.40,8.70,203.00
+280,FIAT,500,Minicompact,1.40,4,M5,X,8.50,7.10,7.90,186.00
+281,FIAT,500L,Station wagon: Small,1.40,4,A6,X,10.70,7.90,9.40,221.00
+282,FIAT,500X AWD,SUV: Small,1.30,4,A9,X,10.00,7.90,9.10,213.00
+283,Ford,EcoSport,SUV: Small,1.00,3,AS6,X,8.60,8.10,8.40,196.00
+284,Ford,EcoSport AWD,SUV: Small,2.00,4,AS6,X,10.20,8.00,9.30,218.00
+285,Ford,Edge,SUV: Small,2.00,4,AS8,X,10.90,8.00,9.60,224.00
+286,Ford,Edge AWD,SUV: Small,2.00,4,AS8,X,11.40,8.30,10.00,233.00
+287,Ford,Edge AWD,SUV: Small,2.70,6,AS8,X,12.60,9.20,11.00,259.00
+288,Ford,Escape,SUV: Small,1.50,4,AS6,X,10.20,7.80,9.10,214.00
+289,Ford,Escape FFV,SUV: Small,2.50,4,AS6,X,11.00,8.00,9.60,226.00
+290,Ford,Escape FFV,SUV: Small,2.50,4,AS6,E,15.00,10.80,13.10,218.00
+291,Ford,Escape AWD,SUV: Small,1.50,4,AS6,X,11.20,8.40,9.90,232.00
+292,Ford,Escape AWD,SUV: Small,2.00,4,AS6,X,11.50,8.70,10.20,239.00
+293,Ford,Expedition 4X4,SUV: Standard,3.50,6,AS10,X,14.10,10.60,12.50,293.00
+294,Ford,Expedition MAX 4X4,SUV: Standard,3.50,6,AS10,X,14.70,11.20,13.10,307.00
+295,Ford,Explorer AWD,SUV: Standard,2.30,4,AS6,X,13.10,9.20,11.40,267.00
+296,Ford,Explorer AWD,SUV: Standard,3.50,6,AS6,X,15.20,10.90,13.20,311.00
+297,Ford,Explorer FFV AWD,SUV: Standard,3.50,6,AS6,X,14.50,10.60,12.70,299.00
+298,Ford,Explorer FFV AWD,SUV: Standard,3.50,6,AS6,E,19.80,14.30,17.30,288.00
+299,Ford,F-150,Pickup truck: Standard,2.70,6,AS10,X,12.00,9.00,10.60,249.00
+300,Ford,F-150 (LT Tire Pkg),Pickup truck: Standard,2.70,6,AS10,X,12.40,9.40,11.10,260.00
+301,Ford,F-150 (Payload Pkg),Pickup truck: Standard,2.70,6,AS10,X,12.40,9.40,11.10,260.00
+302,Ford,F-150,Pickup truck: Standard,3.00,6,AS10,D,10.80,8.00,9.50,256.00
+303,Ford,F-150 (LT Tire Pkg),Pickup truck: Standard,3.00,6,AS10,D,10.80,8.40,9.70,260.00
+304,Ford,F-150 FFV,Pickup truck: Standard,3.30,6,AS6,X,12.20,9.30,10.90,256.00
+305,Ford,F-150 FFV,Pickup truck: Standard,3.30,6,AS6,E,16.70,12.60,14.90,247.00
+306,Ford,F-150 FFV (LT Tire Pkg),Pickup truck: Standard,3.30,6,AS6,X,12.40,9.80,11.20,263.00
+307,Ford,F-150 FFV (LT Tire Pkg),Pickup truck: Standard,3.30,6,AS6,E,16.70,12.60,14.90,247.00
+308,Ford,F-150,Pickup truck: Standard,3.50,6,AS10,X,13.50,10.10,12.00,281.00
+309,Ford,F-150 (LT Tire Pkg),Pickup truck: Standard,3.50,6,AS10,X,13.80,10.70,12.40,291.00
+310,Ford,F-150 (Payload Pkg),Pickup truck: Standard,3.50,6,AS10,X,13.90,11.20,12.70,298.00
+311,Ford,F-150 FFV,Pickup truck: Standard,5.00,8,AS10,X,13.90,10.20,12.20,287.00
+312,Ford,F-150 FFV,Pickup truck: Standard,5.00,8,AS10,E,20.30,14.00,17.40,290.00
+313,Ford,F-150 FFV (LT Tire Pkg),Pickup truck: Standard,5.00,8,AS10,X,14.70,11.20,13.10,308.00
+314,Ford,F-150 FFV (LT Tire Pkg),Pickup truck: Standard,5.00,8,AS10,E,20.30,14.00,17.50,290.00
+315,Ford,F-150 FFV (Payload Pkg),Pickup truck: Standard,5.00,8,AS10,X,15.60,11.80,13.90,326.00
+316,Ford,F-150 FFV (Payload Pkg),Pickup truck: Standard,5.00,8,AS10,E,20.40,14.00,17.50,291.00
+317,Ford,F-150 4X4,Pickup truck: Standard,2.70,6,AS10,X,12.70,9.80,11.40,268.00
+318,Ford,F-150 4X4 (LT Tire Pkg),Pickup truck: Standard,2.70,6,AS10,X,13.10,10.20,11.80,277.00
+319,Ford,F-150 4X4 (Payload Pkg),Pickup truck: Standard,2.70,6,AS10,X,13.10,10.20,11.80,277.00
+320,Ford,F-150 4X4,Pickup truck: Standard,3.00,6,AS10,D,11.80,9.30,10.70,287.00
+321,Ford,F-150 4X4 (LT Tire Pkg),Pickup truck: Standard,3.00,6,AS10,D,11.80,9.30,10.70,287.00
+322,Ford,F-150 4X4 XL/XLT,Pickup truck: Standard,3.00,6,AS10,D,11.20,8.30,9.90,266.00
+323,Ford,F-150 FFV 4X4,Pickup truck: Standard,3.30,6,AS6,X,12.80,10.20,11.60,273.00
+324,Ford,F-150 FFV 4X4,Pickup truck: Standard,3.30,6,AS6,E,17.50,13.80,15.80,263.00
+325,Ford,F-150 FFV 4X4 (LT Tire Pkg),Pickup truck: Standard,3.30,6,AS6,X,13.80,10.70,12.40,291.00
+326,Ford,F-150 FFV 4X4 (LT Tire Pkg),Pickup truck: Standard,3.30,6,AS6,E,17.50,13.70,15.80,263.00
+327,Ford,F-150 4X4,Pickup truck: Standard,3.50,6,AS10,X,14.30,10.50,12.50,295.00
+328,Ford,F-150 4X4 (LT Tire Pkg),Pickup truck: Standard,3.50,6,AS10,X,14.70,10.70,12.90,303.00
+329,Ford,F-150 4X4 (Payload Pkg),Pickup truck: Standard,3.50,6,AS10,X,14.70,11.20,13.10,308.00
+330,Ford,F-150 4X4 Limited,Pickup truck: Standard,3.50,6,AS10,X,13.80,11.20,12.60,296.00
+331,Ford,F-150 FFV 4X4,Pickup truck: Standard,5.00,8,AS10,X,15.10,11.00,13.30,312.00
+332,Ford,F-150 FFV 4X4,Pickup truck: Standard,5.00,8,AS10,E,20.00,15.60,18.00,300.00
+333,Ford,F-150 FFV 4X4 (LT Tire Pkg),Pickup truck: Standard,5.00,8,AS10,X,15.70,11.80,13.90,326.00
+334,Ford,F-150 FFV 4X4 (LT Tire Pkg),Pickup truck: Standard,5.00,8,AS10,E,20.00,15.60,18.00,300.00
+335,Ford,F-150 FFV 4X4 (Payload Pkg),Pickup truck: Standard,5.00,8,AS10,X,16.80,12.40,14.80,347.00
+336,Ford,F-150 FFV 4X4 (Payload Pkg),Pickup truck: Standard,5.00,8,AS10,E,21.30,17.20,19.50,323.00
+337,Ford,F-150 Raptor 4X4,Pickup truck: Standard,3.50,6,AS10,X,15.30,13.10,14.30,336.00
+338,Ford,Flex,SUV: Standard,3.50,6,AS6,X,14.70,10.20,12.70,298.00
+339,Ford,Flex AWD,SUV: Standard,3.50,6,AS6,X,14.70,10.70,12.90,303.00
+340,Ford,Flex AWD GTDI,SUV: Standard,3.50,6,AS6,X,15.70,11.20,13.70,322.00
+341,Ford,Fiesta,Subcompact,1.60,4,AM6,X,8.60,6.40,7.60,178.00
+342,Ford,Fiesta,Subcompact,1.60,4,M5,X,8.80,6.80,7.90,184.00
+343,Ford,Fiesta ST,Subcompact,1.60,4,M6,X,9.20,7.40,8.40,196.00
+344,Ford,Fusion,Mid-size,1.50,4,AS6,X,10.00,7.00,8.70,204.00
+345,Ford,Fusion Hybrid,Mid-size,2.00,4,AV,X,5.50,5.60,5.60,131.00
+346,Ford,GT,Two-seater,3.50,6,AM7,Z,20.40,13.10,17.10,402.00
+347,Ford,Mustang,Subcompact,2.30,4,AS10,X,11.20,7.30,9.40,221.00
+348,Ford,Mustang (Performance Pkg),Subcompact,2.30,4,AS10,X,11.80,8.40,10.30,242.00
+349,Ford,Mustang,Subcompact,2.30,4,M6,X,11.20,7.90,9.70,227.00
+350,Ford,Mustang (Performance Pkg),Subcompact,2.30,4,M6,X,11.80,8.70,10.40,244.00
+351,Ford,Mustang,Subcompact,5.00,8,AS10,X,15.00,9.10,12.30,289.00
+352,Ford,Mustang,Subcompact,5.00,8,M6,X,16.10,9.90,13.30,311.00
+353,Ford,Mustang Bullitt,Subcompact,5.00,8,M6,X,16.10,9.90,13.30,311.00
+354,Ford,Mustang Convertible,Subcompact,2.30,4,AS10,X,11.90,8.40,10.40,243.00
+355,Ford,Mustang Convertible,Subcompact,2.30,4,M6,X,11.80,8.40,10.30,241.00
+356,Ford,Mustang Convertible,Subcompact,5.00,8,AS10,X,15.40,9.70,12.90,302.00
+357,Ford,Ranger 4WD,Pickup truck: Standard,2.30,4,AS10,X,11.80,9.80,10.90,256.00
+358,Ford,Shelby GT350 Mustang,Subcompact,5.20,8,M6,Z,17.20,11.30,14.60,341.00
+359,Ford,T-150 Wagon,Van: Passenger,3.50,6,AS6,X,16.20,12.80,14.70,346.00
+360,Ford,T-150 Wagon,Van: Passenger,3.70,6,AS6,X,16.90,13.10,15.20,355.00
+361,Ford,Taurus FFV,Full-size,3.50,6,AS6,X,13.50,9.00,11.50,270.00
+362,Ford,Taurus FFV,Full-size,3.50,6,AS6,E,17.80,12.10,15.20,254.00
+363,Ford,Taurus AWD,Full-size,3.50,6,AS6,X,14.60,10.00,12.50,294.00
+364,Ford,Taurus FFV AWD,Full-size,3.50,6,AS6,X,14.00,9.90,12.40,291.00
+365,Ford,Taurus FFV AWD,Full-size,3.50,6,AS6,E,18.50,13.00,16.00,267.00
+366,Ford,Transit Connect Van,Special purpose vehicle,2.00,4,AS8,X,9.80,8.80,9.30,219.00
+367,Ford,Transit Connect Van FFV,Special purpose vehicle,2.00,4,AS8,X,9.80,8.80,9.30,219.00
+368,Ford,Transit Connect Van FFV,Special purpose vehicle,2.00,4,AS8,E,13.30,11.80,12.60,209.00
+369,Ford,Transit Connect Van,Special purpose vehicle,2.50,4,AS6,X,12.00,8.80,10.60,247.00
+370,Ford,Transit Connect Wagon LWB,Special purpose vehicle,2.00,4,AS8,X,9.90,8.20,9.20,214.00
+371,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.00,4,AS8,X,9.90,8.20,9.20,214.00
+372,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2.00,4,AS8,E,13.70,11.10,12.50,208.00
+373,Ford,Transit Connect Wagon LWB,Special purpose vehicle,2.50,4,AS6,X,12.10,9.00,10.70,251.00
+374,Genesis,G70,Compact,2.00,4,M6,Z,12.80,8.50,10.90,255.00
+375,Genesis,G70 AWD,Compact,2.00,4,AS8,Z,11.50,8.70,10.30,241.00
+376,Genesis,G70 AWD,Compact,3.30,6,AS8,Z,13.30,9.50,11.60,274.00
+377,Genesis,G80 AWD,Full-size,3.30,6,AS8,Z,13.80,9.70,11.90,282.00
+378,Genesis,G80 AWD,Full-size,3.80,6,AS8,X,13.40,9.60,11.70,276.00
+379,Genesis,G80 AWD,Full-size,5.00,8,AS8,Z,15.60,10.40,13.20,312.00
+380,Genesis,G90 AWD,Full-size,3.30,6,AS8,Z,13.70,9.70,11.90,279.00
+381,Genesis,G90 AWD,Full-size,5.00,8,AS8,Z,15.20,10.20,13.00,306.00
+382,GMC,Acadia,SUV: Standard,2.50,4,A6,X,11.10,9.20,10.20,237.00
+383,GMC,Acadia,SUV: Standard,3.60,6,A6,X,13.10,9.40,11.40,268.00
+384,GMC,Acadia AWD,SUV: Standard,2.50,4,A6,X,11.30,9.40,10.50,248.00
+385,GMC,Acadia AWD,SUV: Standard,3.60,6,A6,X,13.50,9.50,11.70,275.00
+386,GMC,Canyon,Pickup truck: Small,2.50,4,A6,X,12.10,9.20,10.80,253.00
+387,GMC,Canyon,Pickup truck: Small,2.50,4,M6,X,11.90,9.20,10.70,251.00
+388,GMC,Canyon,Pickup truck: Small,2.80,4,A6,D,11.80,7.90,10.10,270.00
+389,GMC,Canyon,Pickup truck: Small,3.60,6,A8,X,13.40,9.60,11.70,274.00
+390,GMC,Canyon 4WD,Pickup truck: Small,2.50,4,A6,X,12.70,9.80,11.40,267.00
+391,GMC,Canyon 4WD,Pickup truck: Small,2.80,4,A6,D,12.20,8.40,10.50,283.00
+392,GMC,Canyon 4WD,Pickup truck: Small,3.60,6,A8,X,14.00,9.90,12.20,286.00
+393,GMC,Sierra,Pickup truck: Standard,2.70,4,A8,X,11.90,10.30,11.10,261.00
+394,GMC,Sierra,Pickup truck: Standard,4.30,6,A6,X,15.10,11.50,13.50,317.00
+395,GMC,Sierra,Pickup truck: Standard,5.30,8,A6,X,15.90,11.40,13.90,326.00
+396,GMC,Sierra FFV,Pickup truck: Standard,5.30,8,A6,X,15.70,11.90,14.00,329.00
+397,GMC,Sierra FFV,Pickup truck: Standard,5.30,8,A6,E,21.10,15.00,18.40,306.00
+398,GMC,Sierra,Pickup truck: Standard,5.30,8,A8,X,14.30,10.40,12.50,294.00
+399,GMC,Sierra 4WD,Pickup truck: Standard,2.70,4,A8,X,12.60,10.90,11.80,277.00
+400,GMC,Sierra 4WD,Pickup truck: Standard,4.30,6,A6,X,15.80,11.90,14.00,329.00
+401,GMC,Sierra 4WD,Pickup truck: Standard,5.30,8,A6,X,15.90,11.70,14.00,330.00
+402,GMC,Sierra 4WD FFV,Pickup truck: Standard,5.30,8,A6,X,16.00,12.50,14.40,339.00
+403,GMC,Sierra 4WD FFV,Pickup truck: Standard,5.30,8,A6,E,22.00,16.10,19.40,323.00
+404,GMC,Sierra 4WD,Pickup truck: Standard,5.30,8,A8,X,15.30,11.20,13.50,316.00
+405,GMC,Sierra 4WD AT4,Pickup truck: Standard,5.30,8,A8,X,15.30,11.80,13.70,320.00
+406,GMC,Sierra 4WD,Pickup truck: Standard,6.20,8,A10,Z,15.50,11.90,13.90,326.00
+407,GMC,Sierra 4WD AT4,Pickup truck: Standard,6.20,8,A10,Z,15.70,12.40,14.20,332.00
+408,GMC,Sierra LTD,Pickup truck: Standard,5.30,8,A6,X,15.60,10.90,13.50,317.00
+409,GMC,Sierra LTD 4WD,Pickup truck: Standard,5.30,8,A6,X,15.80,11.40,13.80,325.00
+410,GMC,Terrain,SUV: Small,1.50,4,A9,X,9.20,7.90,8.60,201.00
+411,GMC,Terrain,SUV: Small,1.60,4,A6,D,8.50,6.00,7.40,199.00
+412,GMC,Terrain AWD,SUV: Small,1.50,4,A9,X,9.60,8.30,9.00,210.00
+413,GMC,Terrain AWD,SUV: Small,1.60,4,A6,D,8.50,6.10,7.40,199.00
+414,GMC,Terrain AWD,SUV: Small,2.00,4,A9,Z,11.20,9.00,10.20,239.00
+415,GMC,Yukon,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+416,GMC,Yukon FFV,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+417,GMC,Yukon FFV,SUV: Standard,5.30,8,A6,E,21.20,13.90,17.90,298.00
+418,GMC,Yukon 4WD,SUV: Standard,5.30,8,A6,X,15.80,11.10,13.70,321.00
+419,GMC,Yukon 4WD FFV,SUV: Standard,5.30,8,A6,X,15.80,11.10,13.70,321.00
+420,GMC,Yukon 4WD FFV,SUV: Standard,5.30,8,A6,E,21.70,14.30,18.40,305.00
+421,GMC,Yukon 4WD,SUV: Standard,6.20,8,A10,Z,16.40,10.70,13.80,325.00
+422,GMC,Yukon XL,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+423,GMC,Yukon XL FFV,SUV: Standard,5.30,8,A6,X,15.70,10.50,13.40,314.00
+424,GMC,Yukon XL FFV,SUV: Standard,5.30,8,A6,E,21.20,13.90,17.90,298.00
+425,GMC,Yukon XL 4WD,SUV: Standard,5.30,8,A6,X,16.80,11.30,14.30,336.00
+426,GMC,Yukon XL 4WD FFV,SUV: Standard,5.30,8,A6,X,16.80,11.30,14.30,336.00
+427,GMC,Yukon XL 4WD FFV,SUV: Standard,5.30,8,A6,E,22.20,15.20,19.00,317.00
+428,GMC,Yukon XL 4WD,SUV: Standard,6.20,8,A10,Z,17.10,11.30,14.50,340.00
+429,Honda,Accord,Full-size,1.50,4,AV,X,7.90,6.30,7.20,168.00
+430,Honda,Accord,Full-size,1.50,4,AV7,X,8.20,6.80,7.60,177.00
+431,Honda,Accord,Full-size,1.50,4,M6,X,8.90,6.70,7.90,185.00
+432,Honda,Accord,Full-size,2.00,4,M6,X,10.70,7.30,9.20,214.00
+433,Honda,Accord Sport/Touring,Mid-size,2.00,4,AS10,X,10.40,7.40,9.10,211.00
+434,Honda,Accord Hybrid,Full-size,2.00,4,AV,X,5.00,5.00,5.00,117.00
+435,Honda,Civic Coupe,Compact,1.50,4,AV7,X,7.80,6.40,7.20,167.00
+436,Honda,Civic Coupe,Compact,2.00,4,AV,X,7.80,6.10,7.10,164.00
+437,Honda,Civic Coupe,Compact,2.00,4,AV7,X,8.30,6.60,7.50,176.00
+438,Honda,Civic Coupe,Compact,2.00,4,M6,X,9.30,6.70,8.10,189.00
+439,Honda,Civic Coupe Si,Compact,1.50,4,M6,Z,8.40,6.20,7.40,173.00
+440,Honda,Civic Hatchback,Full-size,1.50,4,AV,X,7.70,6.00,6.90,162.00
+441,Honda,Civic Hatchback,Full-size,1.50,4,AV7,X,7.90,6.60,7.30,170.00
+442,Honda,Civic Hatchback,Full-size,1.50,4,M6,X,8.00,6.20,7.20,167.00
+443,Honda,Civic Hatchback Sport,Full-size,1.50,4,AV7,Z,7.90,6.60,7.30,170.00
+444,Honda,Civic Hatchback Sport,Full-size,1.50,4,M6,Z,8.00,6.20,7.20,167.00
+445,Honda,Civic Sedan,Mid-size,1.50,4,AV7,X,7.80,6.20,7.10,165.00
+446,Honda,Civic Sedan,Mid-size,2.00,4,AV,X,7.90,6.10,7.10,167.00
+447,Honda,Civic Sedan,Mid-size,2.00,4,M6,X,9.30,6.50,8.00,186.00
+448,Honda,Civic Sedan Si,Mid-size,1.50,4,M6,Z,8.40,6.20,7.40,173.00
+449,Honda,Civic Type R,Full-size,2.00,4,M6,Z,10.60,8.30,9.60,224.00
+450,Honda,CR-V,SUV: Small,1.50,4,AV,X,8.40,7.00,7.80,181.00
+451,Honda,CR-V AWD,SUV: Small,1.50,4,AV,X,8.70,7.20,8.00,188.00
+452,Honda,Fit,Station wagon: Small,1.50,4,AV,X,7.00,5.90,6.50,151.00
+453,Honda,Fit,Station wagon: Small,1.50,4,AV7,X,7.60,6.50,7.00,166.00
+454,Honda,Fit,Station wagon: Small,1.50,4,M6,X,8.10,6.60,7.40,174.00
+455,Honda,HR-V,Station wagon: Small,1.80,4,AV,X,8.40,7.00,7.80,181.00
+456,Honda,HR-V AWD,Station wagon: Small,1.80,4,AV,X,8.80,7.50,8.20,193.00
+457,Honda,HR-V AWD,Station wagon: Small,1.80,4,AV7,X,9.10,7.70,8.50,199.00
+458,Honda,Insight EX,Mid-size,1.50,4,AV,X,4.60,5.30,4.90,114.00
+459,Honda,Insight Touring,Mid-size,1.50,4,AV,X,4.60,5.30,4.90,114.00
+460,Honda,Odyssey,Minivan,3.50,6,AS9,X,12.60,8.40,10.70,252.00
+461,Honda,Odyssey Touring,Minivan,3.50,6,AS10,X,12.20,8.50,10.60,247.00
+462,Honda,Passport AWD,SUV: Small,3.50,6,A9,X,12.50,9.80,11.30,265.00
+463,Honda,Pilot,SUV: Small,3.50,6,A6,X,12.40,8.70,10.70,250.00
+464,Honda,Pilot AWD,SUV: Small,3.50,6,A6,X,13.00,9.30,11.30,266.00
+465,Honda,Pilot AWD,SUV: Small,3.50,6,AS9,X,12.40,9.30,11.00,257.00
+466,Honda,Ridgeline AWD,Pickup truck: Standard,3.50,6,A6,X,12.80,9.50,11.30,263.00
+467,Hyundai,Accent,Compact,1.60,4,AS6,X,8.20,6.20,7.30,172.00
+468,Hyundai,Accent,Compact,1.60,4,M6,X,8.20,6.30,7.30,173.00
+469,Hyundai,Elantra,Mid-size,1.60,4,AM7,X,8.90,7.00,8.10,189.00
+470,Hyundai,Elantra,Mid-size,1.60,4,M6,X,10.70,7.80,9.40,221.00
+471,Hyundai,Elantra,Mid-size,2.00,4,AS6,X,8.30,6.40,7.40,174.00
+472,Hyundai,Elantra,Mid-size,2.00,4,M6,X,9.20,6.50,8.00,188.00
+473,Hyundai,Elantra GT,Full-size,1.60,4,AM7,X,9.70,7.40,8.60,205.00
+474,Hyundai,Elantra GT,Full-size,1.60,4,M6,X,10.30,7.90,9.20,218.00
+475,Hyundai,Elantra GT,Full-size,2.00,4,AS6,X,9.40,7.10,8.40,200.00
+476,Hyundai,Elantra GT,Full-size,2.00,4,M6,X,9.80,7.40,8.70,207.00
+477,Hyundai,IONIQ,Full-size,1.60,4,AM6,X,4.30,4.40,4.30,104.00
+478,Hyundai,IONIQ Blue,Full-size,1.60,4,AM6,X,4.20,4.00,4.10,96.00
+479,Hyundai,Kona,SUV: Small,2.00,4,AS6,X,8.60,7.00,7.90,186.00
+480,Hyundai,Kona AWD,SUV: Small,1.60,4,AM7,X,9.00,8.00,8.60,201.00
+481,Hyundai,Kona AWD,SUV: Small,2.00,4,AS6,X,9.20,7.80,8.60,202.00
+482,Hyundai,Santa Fe,SUV: Small,2.40,4,AS8,X,10.80,8.00,9.60,225.00
+483,Hyundai,Santa Fe AWD,SUV: Small,2.00,4,AS8,X,12.30,9.80,11.20,262.00
+484,Hyundai,Santa Fe AWD,SUV: Small,2.40,4,AS8,X,11.20,8.70,10.10,237.00
+485,Hyundai,Santa Fe XL,SUV: Small,3.30,6,AS6,X,13.20,9.40,11.50,268.00
+486,Hyundai,Santa Fe XL AWD,SUV: Small,3.30,6,AS6,X,13.40,9.70,11.70,276.00
+487,Hyundai,Santa Fe XL Ultimate AWD,SUV: Small,3.30,6,AS6,X,14.10,10.80,12.60,297.00
+488,Hyundai,Sonata,Full-size,2.00,4,AS8,X,10.40,7.40,9.10,212.00
+489,Hyundai,Sonata,Full-size,2.40,4,AS6,X,9.30,7.10,8.30,198.00
+490,Hyundai,Sonata SE,Full-size,2.40,4,AS6,X,9.20,6.80,8.10,190.00
+491,Hyundai,Sonata Hybrid,Mid-size,2.00,4,AM6,X,6.00,5.30,5.70,135.00
+492,Hyundai,Sonata Hybrid SE,Mid-size,2.00,4,AM6,X,5.90,5.10,5.60,132.00
+493,Hyundai,Tucson,SUV: Small,2.00,4,AS6,X,10.00,7.90,9.10,216.00
+494,Hyundai,Tucson AWD,SUV: Small,2.00,4,AS6,X,10.80,9.20,10.10,239.00
+495,Hyundai,Tucson AWD,SUV: Small,2.40,4,AS6,X,11.00,9.10,10.10,240.00
+496,Hyundai,Veloster,Compact,2.00,4,AS6,X,9.10,7.10,8.20,193.00
+497,Hyundai,Veloster,Compact,2.00,4,M6,X,9.40,7.10,8.40,198.00
+498,Hyundai,Veloster N,Compact,2.00,4,M6,X,10.60,8.30,9.50,226.00
+499,Hyundai,Veloster Turbo,Compact,1.60,4,AM7,X,8.50,6.90,7.80,184.00
+500,Hyundai,Veloster Turbo,Compact,1.60,4,M6,X,9.40,7.00,8.30,197.00
+501,Infiniti,Q50 AWD,Mid-size,2.00,4,AS7,Z,10.70,8.60,9.70,229.00
+502,Infiniti,Q50 AWD,Mid-size,3.00,6,AS7,Z,12.40,8.70,10.80,253.00
+503,Infiniti,Q50 AWD Red Sport,Mid-size,3.00,6,AS7,Z,12.50,9.30,11.10,261.00
+504,Infiniti,Q60 AWD,Subcompact,2.00,4,AS7,Z,11.20,8.50,10.00,233.00
+505,Infiniti,Q60 AWD,Subcompact,3.00,6,AS7,Z,12.30,8.70,10.70,251.00
+506,Infiniti,Q60 AWD Red Sport,Subcompact,3.00,6,AS7,Z,12.50,9.20,11.00,259.00
+507,Infiniti,Q70 AWD,Mid-size,3.70,6,AS7,Z,13.20,9.80,11.70,275.00
+508,Infiniti,Q70 AWD,Mid-size,5.60,8,AS7,Z,14.90,10.20,12.80,301.00
+509,Infiniti,QX50 AWD,SUV: Small,2.00,4,AV8,Z,10.00,7.80,9.00,211.00
+510,Infiniti,QX60 AWD,SUV: Small,3.50,6,AV7,Z,12.50,9.00,10.90,257.00
+511,Infiniti,QX80 4WD,SUV: Standard,5.60,8,AS7,Z,17.40,12.20,15.10,354.00
+512,Jaguar,E-PACE P250,SUV: Small,2.00,4,AS9,Z,11.00,8.40,9.80,231.00
+513,Jaguar,F-PACE 20d,SUV: Small,2.00,4,AS8,D,8.90,7.20,8.10,218.00
+514,Jaguar,F-PACE 25t,SUV: Small,2.00,4,AS8,Z,10.70,8.80,9.90,227.00
+515,Jaguar,F-PACE 35t,SUV: Small,3.00,6,AS8,Z,13.30,10.00,11.80,277.00
+516,Jaguar,F-TYPE Convertible,Two-seater,2.00,4,AS8,Z,10.20,7.80,9.20,215.00
+517,Jaguar,F-TYPE Convertible,Two-seater,3.00,6,AS8,Z,11.90,8.50,10.40,242.00
+518,Jaguar,F-TYPE Convertible,Two-seater,3.00,6,M6,Z,14.90,9.80,12.60,296.00
+519,Jaguar,F-TYPE Convertible R-Dynamic,Two-seater,3.00,6,AS8,Z,12.40,8.80,10.80,253.00
+520,Jaguar,F-TYPE Convertible R-Dynamic,Two-seater,3.00,6,M6,Z,15.30,10.00,12.90,302.00
+521,Jaguar,F-TYPE Convertible R-Dynamic AWD,Two-seater,3.00,6,AS8,Z,13.00,9.20,11.30,265.00
+522,Jaguar,F-TYPE Coupe,Two-seater,2.00,4,AS8,Z,10.20,7.80,9.20,215.00
+523,Jaguar,F-TYPE Coupe,Two-seater,3.00,6,AS8,Z,11.90,8.50,10.40,242.00
+524,Jaguar,F-TYPE Coupe,Two-seater,3.00,6,M6,Z,14.90,9.80,12.60,296.00
+525,Jaguar,F-TYPE Coupe R-Dynamic,Two-seater,3.00,6,AS8,Z,12.40,8.80,10.80,253.00
+526,Jaguar,F-TYPE Coupe R-Dynamic,Two-seater,3.00,6,M6,Z,15.30,10.00,12.90,302.00
+527,Jaguar,F-TYPE Coupe R-Dynamic AWD,Two-seater,3.00,6,AS8,Z,13.00,9.20,11.30,265.00
+528,Jaguar,F-TYPE R AWD Convertible,Two-seater,5.00,8,AS8,Z,15.60,10.40,13.30,311.00
+529,Jaguar,F-TYPE R AWD Coupe,Two-seater,5.00,8,AS8,Z,15.60,10.40,13.30,311.00
+530,Jaguar,XE 20d AWD,Compact,2.00,4,AS8,D,7.80,5.80,6.90,186.00
+531,Jaguar,XE 25t AWD,Compact,2.00,4,AS8,Z,9.80,6.90,8.50,200.00
+532,Jaguar,XE 35t AWD,Compact,3.00,6,AS8,Z,11.80,8.20,10.20,238.00
+533,Jaguar,XF 20d AWD,Mid-size,2.00,4,AS8,D,7.80,5.80,6.90,186.00
+534,Jaguar,XF 25t AWD,Mid-size,2.00,4,AS8,Z,10.10,7.20,8.80,207.00
+535,Jaguar,XF 35t AWD,Mid-size,3.00,6,AS8,Z,12.00,8.40,10.40,243.00
+536,Jaguar,XJ R-Sport AWD,Full-size,3.00,6,AS8,Z,14.00,9.00,11.80,276.00
+537,Jaguar,XJL Portfolio AWD,Full-size,3.00,6,AS8,Z,14.00,9.40,11.90,280.00
+538,Jaguar,XJR LWB,Full-size,5.00,8,AS8,Z,15.80,10.30,13.30,313.00
+539,Jeep,Cherokee,SUV: Small,2.00,4,A9,X,10.40,7.60,9.10,214.00
+540,Jeep,Cherokee,SUV: Small,2.40,4,A9,X,10.80,7.60,9.30,219.00
+541,Jeep,Cherokee,SUV: Small,3.20,6,A9,X,11.90,8.20,10.20,240.00
+542,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2.00,4,A9,X,11.20,8.00,9.80,229.00
+543,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2.40,4,A9,X,11.20,8.00,9.80,230.00
+544,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,3.20,6,A9,X,12.20,8.60,10.60,249.00
+545,Jeep,Cherokee 4X4 Active Drive II,SUV: Small,2.00,4,A9,X,11.50,8.60,10.20,240.00
+546,Jeep,Cherokee 4X4 Active Drive II,SUV: Small,3.20,6,A9,X,12.80,9.00,11.10,259.00
+547,Jeep,Cherokee 4X4 Active Drive Lock,SUV: Small,2.00,4,A9,X,11.80,9.20,10.60,249.00
+548,Jeep,Cherokee 4X4 Active Drive Lock,SUV: Small,3.20,6,A9,X,12.90,9.90,11.60,269.00
+549,Jeep,Compass,SUV: Small,2.40,4,A6,X,10.60,7.60,9.30,218.00
+550,Jeep,Compass,SUV: Small,2.40,4,M6,X,10.40,7.30,9.00,211.00
+551,Jeep,Compass 4X4,SUV: Small,2.40,4,A9,X,10.80,7.80,9.50,222.00
+552,Jeep,Compass 4X4,SUV: Small,2.40,4,M6,X,10.80,7.60,9.40,221.00
+553,Jeep,Grand Cherokee 4X4,SUV: Standard,3.60,6,A8,X,12.70,9.60,11.30,265.00
+554,Jeep,Grand Cherokee 4X4,SUV: Standard,5.70,8,A8,X,16.70,10.90,14.10,331.00
+555,Jeep,Grand Cherokee 4X4 EcoDiesel,SUV: Standard,3.00,6,A8,D,11.20,8.50,10.00,268.00
+556,Jeep,Grand Cherokee 4X4 SRT,SUV: Standard,6.40,8,A8,Z,18.30,12.60,15.70,368.00
+557,Jeep,Grand Cherokee 4X4 Trackhawk,SUV: Standard,6.20,8,A8,Z,20.90,13.80,17.70,413.00
+558,Jeep,Renegade,SUV: Small,1.30,4,A9,X,9.80,7.40,8.70,204.00
+559,Jeep,Renegade,SUV: Small,2.40,4,A9,X,10.80,7.80,9.50,222.00
+560,Jeep,Renegade 4X4,SUV: Small,1.30,4,A9,X,10.10,8.10,9.20,216.00
+561,Jeep,Renegade 4X4,SUV: Small,2.40,4,A9,X,11.20,8.20,9.80,230.00
+562,Jeep,Renegade 4X4 Trailhawk,SUV: Small,1.30,4,A9,X,10.80,8.70,9.90,230.00
+563,Jeep,Wrangler JL 4X4,SUV: Small,2.00,4,A8,X,10.50,9.40,10.00,233.00
+564,Jeep,Wrangler JL 4X4,SUV: Small,3.60,6,A8,X,12.80,10.40,11.80,274.00
+565,Jeep,Wrangler JL 4X4,SUV: Small,3.60,6,M6,X,13.70,9.60,11.80,277.00
+566,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,2.00,4,A8,X,10.90,10.00,10.50,245.00
+567,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.60,6,A8,X,12.90,10.20,11.70,275.00
+568,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.60,6,M6,X,13.80,10.10,12.20,285.00
+569,Kia,Cadenza,Full-size,3.30,6,AS8,X,11.60,8.50,10.20,238.00
+570,Kia,Forte,Mid-size,2.00,4,AV,X,7.70,5.90,6.90,164.00
+571,Kia,Forte,Mid-size,2.00,4,M6,X,8.60,6.40,7.60,180.00
+572,Kia,Niro,Station wagon: Small,1.60,4,AM6,X,4.60,5.10,4.80,114.00
+573,Kia,Niro FE,Station wagon: Small,1.60,4,AM6,X,4.50,4.80,4.70,110.00
+574,Kia,Niro Touring,Station wagon: Small,1.60,4,AM6,X,5.10,5.80,5.40,129.00
+575,Kia,Optima,Full-size,2.00,4,AS6,X,11.20,7.90,9.70,230.00
+576,Kia,Optima,Full-size,2.40,4,AS6,X,9.50,7.10,8.40,199.00
+577,Kia,Optima Hybrid,Mid-size,2.00,4,AM6,X,6.10,5.20,5.70,133.00
+578,Kia,Rio,Compact,1.60,4,AS6,X,8.50,6.40,7.50,177.00
+579,Kia,Rio,Compact,1.60,4,M6,X,8.30,6.40,7.50,175.00
+580,Kia,Sedona,Minivan,3.30,6,AS8,X,12.70,10.00,11.50,272.00
+581,Kia,Sorento,SUV: Small,2.40,4,AS6,X,10.70,8.20,9.60,225.00
+582,Kia,Sorento AWD,SUV: Small,2.40,4,AS6,X,11.20,9.00,10.20,242.00
+583,Kia,Sorento AWD,SUV: Small,3.30,6,AS8,X,12.50,9.70,11.20,265.00
+584,Kia,Soul,Station wagon: Small,1.60,4,AM7,X,9.10,7.70,8.50,199.00
+585,Kia,Soul,Station wagon: Small,1.60,4,AS6,X,9.00,7.60,8.40,198.00
+586,Kia,Soul,Station wagon: Small,2.00,4,AS6,X,9.50,7.80,8.70,206.00
+587,Kia,Sportage,SUV: Small,2.40,4,AS6,X,10.30,7.80,9.20,218.00
+588,Kia,Sportage AWD,SUV: Small,2.00,4,AS6,X,11.90,10.20,11.10,263.00
+589,Kia,Sportage AWD,SUV: Small,2.40,4,AS6,X,11.30,9.50,10.50,247.00
+590,Kia,Stinger AWD,Mid-size,2.00,4,AS8,Z,11.10,8.10,9.70,229.00
+591,Kia,Stinger AWD,Mid-size,3.30,6,AS8,Z,13.60,9.60,11.80,279.00
+592,Lamborghini,Aventador Coupe,Two-seater,6.50,12,AM7,Z,26.30,15.60,21.50,487.00
+593,Lamborghini,Aventador Roadster,Two-seater,6.50,12,AM7,Z,26.60,15.80,21.70,493.00
+594,Lamborghini,Huracan Coupe,Two-seater,5.20,10,AM7,Z,18.10,13.20,15.90,366.00
+595,Lamborghini,Huracan Coupe AWD,Two-seater,5.20,10,AM7,Z,17.90,13.00,15.70,370.00
+596,Lamborghini,Huracan Spyder,Two-seater,5.20,10,AM7,Z,18.10,13.20,15.90,366.00
+597,Lamborghini,Huracan Spyder AWD,Two-seater,5.20,10,AM7,Z,17.90,13.00,15.70,370.00
+598,Lamborghini,Huracan Performante Coupe,Two-seater,5.20,10,AM7,Z,17.90,13.00,15.70,370.00
+599,Lamborghini,Huracan Performante Spyder,Two-seater,5.20,10,AM7,Z,17.90,13.00,15.70,370.00
+600,Lamborghini,Urus,SUV: Standard,4.00,8,AS8,Z,19.20,14.10,16.90,384.00
+601,Land Rover,Discovery,SUV: Standard,3.00,6,AS8,Z,14.80,11.40,13.30,311.00
+602,Land Rover,Discovery TD6 Diesel,SUV: Standard,3.00,6,AS8,D,11.30,9.20,10.40,279.00
+603,Land Rover,Discovery Sport,SUV: Small,2.00,4,AS9,Z,11.40,9.30,10.50,246.00
+604,Land Rover,Range Rover 3.0,SUV: Standard,3.00,6,AS8,Z,14.10,10.30,12.40,291.00
+605,Land Rover,Range Rover TD6 Diesel,SUV: Standard,3.00,6,AS8,D,10.70,8.30,9.60,256.00
+606,Land Rover,Range Rover 5.0 Supercharged,SUV: Standard,5.00,8,AS8,Z,14.40,11.30,13.00,305.00
+607,Land Rover,Range Rover SVAutobiography LWB,SUV: Standard,5.00,8,AS8,Z,17.90,12.70,15.50,365.00
+608,Land Rover,Range Rover Sport 3.0,SUV: Standard,3.00,6,AS8,Z,14.10,10.30,12.40,291.00
+609,Land Rover,Range Rover Sport TD6 Diesel,SUV: Standard,3.00,6,AS8,D,10.70,8.30,9.60,256.00
+610,Land Rover,Range Rover Sport Supercharged,SUV: Standard,5.00,8,AS8,Z,14.10,10.70,12.60,294.00
+611,Land Rover,Range Rover Evoque,SUV: Small,2.00,4,AS9,Z,10.90,8.00,9.60,225.00
+612,Land Rover,Range Rover Evoque Convertible,SUV: Small,2.00,4,AS9,Z,11.20,8.20,9.80,231.00
+613,Land Rover,Range Rover Velar D180,SUV: Small,2.00,4,AS8,D,9.20,7.80,8.50,229.00
+614,Land Rover,Range Rover Velar P300,SUV: Small,2.00,4,AS8,Z,11.70,9.20,10.60,248.00
+615,Land Rover,Range Rover Velar P380,SUV: Small,3.00,6,AS8,Z,13.00,10.00,11.60,273.00
+616,Lexus,ES 300h,Mid-size,2.50,4,AV6,X,5.50,5.20,5.30,124.00
+617,Lexus,ES 350,Mid-size,3.50,6,AS8,X,10.60,7.20,9.10,211.00
+618,Lexus,ES 350 F SPORT,Mid-size,3.50,6,AS8,X,10.90,7.50,9.40,219.00
+619,Lexus,GS 350 AWD,Mid-size,3.50,6,AS6,Z,12.30,9.10,10.90,254.00
+620,Lexus,GS F,Compact,5.00,8,AS8,Z,14.90,9.70,12.50,293.00
+621,Lexus,GX 460,SUV: Standard,4.60,8,AS6,Z,16.00,12.90,14.60,341.00
+622,Lexus,IS 300,Compact,2.00,4,AS8,Z,11.00,7.60,9.50,220.00
+623,Lexus,IS 300 AWD,Compact,3.50,6,AS6,Z,12.30,9.10,10.90,254.00
+624,Lexus,IS 350 AWD,Compact,3.50,6,AS6,Z,12.30,9.10,10.90,254.00
+625,Lexus,LC 500,Subcompact,5.00,8,AS10,Z,15.10,9.50,12.60,294.00
+626,Lexus,LC 500h,Subcompact,3.50,6,AV10,Z,9.00,7.10,8.10,189.00
+627,Lexus,LS 500 AWD,Mid-size,3.40,6,AS10,Z,13.10,8.70,11.10,261.00
+628,Lexus,LS 500h AWD,Mid-size,3.50,6,AV10,Z,10.30,7.70,9.10,214.00
+629,Lexus,LX 570,SUV: Standard,5.70,8,AS8,Z,18.20,12.80,15.80,371.00
+630,Lexus,NX 300 AWD,SUV: Small,2.00,4,AS6,Z,10.70,8.50,9.70,226.00
+631,Lexus,NX 300 AWD F SPORT,SUV: Small,2.00,4,AS6,Z,10.80,8.90,9.90,232.00
+632,Lexus,NX 300h AWD,SUV: Small,2.50,4,AV6,X,7.20,7.90,7.50,176.00
+633,Lexus,RC 300 AWD,Subcompact,3.50,6,AS6,Z,13.10,9.80,11.20,262.00
+634,Lexus,RC 350 AWD,Subcompact,3.50,6,AS6,Z,13.10,9.80,11.20,262.00
+635,Lexus,RC F,Subcompact,5.00,8,AS8,Z,15.20,9.50,12.60,289.00
+636,Lexus,RX 350 AWD,SUV: Small,3.50,6,AS8,X,12.20,9.00,10.80,252.00
+637,Lexus,RX 350 L AWD,SUV: Small,3.50,6,AS8,X,13.10,9.40,11.10,268.00
+638,Lexus,RX 450h AWD,SUV: Standard,3.50,6,AV6,Z,7.50,8.40,7.90,185.00
+639,Lexus,RX 450h L AWD,SUV: Standard,3.50,6,AV6,Z,8.10,8.40,8.10,190.00
+640,Lexus,UX 200,Mid-size,2.00,4,AS10,X,8.00,6.30,7.20,168.00
+641,Lexus,UX 250h,Compact,2.00,4,AV6,X,5.50,5.70,5.60,130.00
+642,Lexus,UX 250h AWD,Compact,2.00,4,AV6,X,5.70,6.20,6.00,140.00
+643,Lincoln,Continental AWD,Full-size,2.70,6,AS6,X,14.00,9.40,12.00,281.00
+644,Lincoln,Continental AWD,Full-size,3.00,6,AS6,X,14.50,9.80,12.30,289.00
+645,Lincoln,Continental AWD,Full-size,3.70,6,AS6,X,14.30,9.70,12.20,287.00
+646,Lincoln,MKC AWD,SUV: Small,2.00,4,AS6,X,12.30,9.30,11.00,257.00
+647,Lincoln,MKC AWD (Start/Stop),SUV: Small,2.00,4,AS6,X,12.20,9.30,10.90,256.00
+648,Lincoln,MKC AWD,SUV: Small,2.30,4,AS6,X,13.10,9.50,11.50,270.00
+649,Lincoln,MKT AWD,SUV: Standard,3.50,6,AS6,X,15.70,11.20,13.70,322.00
+650,Lincoln,MKT Livery AWD,Special purpose vehicle,3.70,6,A6,X,14.70,10.30,12.70,297.00
+651,Lincoln,MKZ AWD,Mid-size,2.00,4,AS6,X,12.10,8.40,10.40,245.00
+652,Lincoln,MKZ AWD,Mid-size,3.00,6,AS6,X,14.00,9.20,11.80,278.00
+653,Lincoln,MKZ Hybrid,Mid-size,2.00,4,AV,X,5.70,6.20,5.90,139.00
+654,Lincoln,Nautilus,SUV: Small,2.70,6,AS8,X,12.60,9.20,11.00,259.00
+655,Lincoln,Navigator 4X4,SUV: Standard,3.50,6,AS10,X,15.00,11.40,13.40,314.00
+656,Maserati,Ghibli,Mid-size,3.00,6,AS8,Z,14.10,9.80,12.20,286.00
+657,Maserati,Ghibli S,Mid-size,3.00,6,AS8,Z,14.70,9.90,12.60,295.00
+658,Maserati,Ghibli SQ4,Mid-size,3.00,6,AS8,Z,14.70,9.90,12.60,295.00
+659,Maserati,GranTurismo Convertible,Subcompact,4.70,8,AS6,Z,17.80,11.60,15.00,354.00
+660,Maserati,Levante,SUV: Standard,3.00,6,AS8,Z,15.90,11.10,13.70,324.00
+661,Maserati,Levante S,SUV: Standard,3.00,6,AS8,Z,16.10,11.40,14.00,330.00
+662,Maserati,Levante GTS,SUV: Standard,3.80,8,AS8,Z,17.90,12.90,15.30,360.00
+663,Maserati,Levante Trofeo,SUV: Standard,3.80,8,AS8,Z,17.90,12.90,15.30,360.00
+664,Maserati,Quattroporte S,Full-size,3.00,6,AS8,Z,15.10,10.30,12.80,299.00
+665,Maserati,Quattroporte SQ4,Full-size,3.00,6,AS8,Z,15.00,10.30,12.80,301.00
+666,Maserati,Quattroporte GTS,Full-size,3.80,8,AS8,Z,16.00,10.80,13.70,321.00
+667,Mazda,CX-3,Compact,2.00,4,AS6,X,8.30,6.90,7.70,179.00
+668,Mazda,CX-3,Compact,2.00,4,M6,X,8.80,7.00,8.00,186.00
+669,Mazda,CX-3 4WD,Compact,2.00,4,AS6,X,8.60,7.40,8.10,189.00
+670,Mazda,CX-5,SUV: Small,2.00,4,M6,X,9.70,7.70,8.80,206.00
+671,Mazda,CX-5,SUV: Small,2.50,4,AS6,X,9.70,7.80,8.80,206.00
+672,Mazda,CX-5 (Cylinder Deactivation),SUV: Small,2.50,4,AS6,X,9.30,7.60,8.50,201.00
+673,Mazda,CX-5 4WD,SUV: Small,2.50,4,AS6,X,10.20,8.20,9.30,217.00
+674,Mazda,CX-5 4WD (Cylinder Deactivation),SUV: Small,2.50,4,AS6,X,9.80,7.90,9.00,208.00
+675,Mazda,CX-5 Turbo 4WD,SUV: Small,2.50,4,AS6,X,10.80,8.70,9.80,230.00
+676,Mazda,CX-5 Diesel 4WD,SUV: Small,2.20,4,AS6,D,8.90,7.90,8.40,227.00
+677,Mazda,CX-9,SUV: Small,2.50,4,AS6,X,10.60,8.40,9.60,225.00
+678,Mazda,CX-9 4WD,SUV: Small,2.50,4,AS6,X,11.60,9.10,10.50,244.00
+679,Mazda,Mazda3 4-Door,Compact,2.00,4,AS6,X,8.40,6.60,7.60,178.00
+680,Mazda,Mazda3 4-Door (SIL),Compact,2.00,4,M6,X,8.70,6.40,7.70,180.00
+681,Mazda,Mazda3 4-Door,Compact,2.50,4,AS6,X,8.80,6.40,7.70,181.00
+682,Mazda,Mazda3 4-Door (Cylinder Deactivation),Compact,2.50,4,AS6,X,8.80,6.60,7.80,183.00
+683,Mazda,Mazda3 4-Door 4WD,Compact,2.50,4,AS6,X,9.20,7.00,8.20,192.00
+684,Mazda,Mazda3 5-Door,Mid-size,2.00,4,AS6,X,8.60,6.70,7.70,181.00
+685,Mazda,Mazda3 5-Door (SIL),Mid-size,2.00,4,M6,X,8.70,6.60,7.80,181.00
+686,Mazda,Mazda3 5-Door,Mid-size,2.50,4,AS6,X,9.00,6.80,8.00,187.00
+687,Mazda,Mazda3 5-Door,Mid-size,2.50,4,M6,X,9.20,6.60,8.10,189.00
+688,Mazda,Mazda3 5-Door 4WD,Mid-size,2.50,4,AS6,X,9.80,7.40,8.70,204.00
+689,Mazda,Mazda6,Mid-size,2.50,4,AS6,X,9.10,6.70,8.00,187.00
+690,Mazda,Mazda6 Turbo,Mid-size,2.50,4,AS6,X,10.00,7.50,8.90,208.00
+691,Mazda,MX-5,Two-seater,2.00,4,AS6,Z,9.00,6.60,7.90,186.00
+692,Mazda,MX-5 (SIL),Two-seater,2.00,4,M6,Z,9.00,7.00,8.10,189.00
+693,Mercedes-Benz,A 220,Subcompact,2.00,4,AM7,Z,9.70,6.80,8.40,195.00
+694,Mercedes-Benz,A 220 4MATIC,Subcompact,2.00,4,AM7,Z,9.60,7.10,8.50,199.00
+695,Mercedes-Benz,A 250,Station wagon: Small,2.00,4,AM7,Z,9.40,6.80,8.30,192.00
+696,Mercedes-Benz,A 250 4MATIC,Station wagon: Small,2.00,4,AM7,Z,9.90,7.00,8.60,201.00
+697,Mercedes-Benz,AMG C 43 4MATIC,Compact,3.00,6,A9,Z,12.40,8.70,10.70,253.00
+698,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3.00,6,A9,Z,12.70,9.20,11.20,263.00
+699,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3.00,6,A9,Z,12.90,8.80,11.10,255.00
+700,Mercedes-Benz,AMG C 43 4MATIC Wagon,Station wagon: Small,3.00,6,A9,Z,12.40,8.90,10.80,255.00
+701,Mercedes-Benz,AMG C 63,Compact,4.00,8,A9,Z,13.20,8.70,11.20,263.00
+702,Mercedes-Benz,AMG C 63 S,Compact,4.00,8,A9,Z,13.20,8.70,11.20,263.00
+703,Mercedes-Benz,AMG C 63 S Cabriolet,Subcompact,4.00,8,A9,Z,13.90,9.70,12.00,282.00
+704,Mercedes-Benz,AMG C 63 S Coupe,Subcompact,4.00,8,A9,Z,13.90,9.20,11.80,277.00
+705,Mercedes-Benz,AMG CLA 45 4MATIC,Minicompact,2.00,4,AM7,Z,10.30,7.90,9.20,217.00
+706,Mercedes-Benz,AMG CLS 53 4MATIC+,Compact,3.00,6,A9,Z,12.40,8.70,10.70,235.00
+707,Mercedes-Benz,AMG E 53 4MATIC+,Mid-size,3.00,6,A9,Z,11.20,8.30,9.90,232.00
+708,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3.00,6,A9,Z,12.50,9.00,10.90,245.00
+709,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3.00,6,A9,Z,12.30,8.50,10.60,237.00
+710,Mercedes-Benz,AMG E 53 4MATIC+ Wagon,Station wagon: Mid-size,3.00,6,A9,Z,11.50,8.60,10.20,239.00
+711,Mercedes-Benz,AMG E 63 S 4MATIC+,Mid-size,4.00,8,A9,Z,16.00,10.50,13.50,318.00
+712,Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,Station wagon: Mid-size,4.00,8,A9,Z,14.60,10.40,12.70,299.00
+713,Mercedes-Benz,AMG G 63,SUV: Standard,4.00,8,A9,Z,18.10,15.60,17.00,396.00
+714,Mercedes-Benz,AMG GLA 45 4MATIC,Station wagon: Mid-size,2.00,4,AM7,Z,10.70,8.30,9.60,225.00
+715,Mercedes-Benz,AMG GLC 43 4MATIC,SUV: Small,3.00,6,A9,Z,12.50,9.60,11.20,262.00
+716,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,3.00,6,A9,Z,12.60,9.70,11.30,265.00
+717,Mercedes-Benz,AMG GLC 63 S 4MATIC+,SUV: Small,4.00,8,A9,Z,15.00,10.90,13.20,309.00
+718,Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,SUV: Small,4.00,8,A9,Z,15.00,10.90,13.20,309.00
+719,Mercedes-Benz,AMG GLE 43 4MATIC,SUV: Standard,3.00,6,A9,Z,14.00,10.60,12.40,292.00
+720,Mercedes-Benz,AMG GLE 43 4MATIC Coupe,SUV: Standard,3.00,6,A9,Z,14.10,10.90,12.60,297.00
+721,Mercedes-Benz,AMG GLE 63 S 4MATIC,SUV: Standard,4.70,8,A7,Z,17.70,13.40,15.80,370.00
+722,Mercedes-Benz,AMG GLE 63 S 4MATIC Coupe,SUV: Standard,4.70,8,A7,Z,17.20,12.80,15.20,357.00
+723,Mercedes-Benz,AMG GLS 63 4MATIC,SUV: Standard,4.70,8,A7,Z,17.80,13.20,15.70,370.00
+724,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3.00,6,A9,Z,12.40,9.80,11.20,264.00
+725,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,4.00,8,A9,Z,15.50,11.50,13.70,323.00
+726,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,4.00,8,A9,Z,15.60,11.50,13.70,324.00
+727,Mercedes-Benz,AMG GT C Coupe,Two-seater,4.00,8,AM7,Z,15.30,11.40,13.50,315.00
+728,Mercedes-Benz,AMG GT C Roadster,Two-seater,4.00,8,AM7,Z,15.20,11.40,13.50,315.00
+729,Mercedes-Benz,AMG GT R Coupe,Two-seater,4.00,8,AM7,Z,15.90,11.80,14.00,327.00
+730,Mercedes-Benz,AMG S 63 4MATIC+,Full-size,4.00,8,A9,Z,14.10,8.90,11.80,275.00
+731,Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,Subcompact,4.00,8,A9,Z,15.80,9.80,13.10,306.00
+732,Mercedes-Benz,AMG S 63 4MATIC+ Coupe,Compact,4.00,8,A9,Z,14.00,8.70,11.60,271.00
+733,Mercedes-Benz,AMG S 65,Full-size,6.00,12,A7,Z,18.60,10.90,15.10,356.00
+734,Mercedes-Benz,AMG S 65 Cabriolet,Subcompact,6.00,12,A9,Z,17.10,11.00,14.30,337.00
+735,Mercedes-Benz,AMG S 65 Coupe,Compact,6.00,12,A9,Z,17.60,11.00,14.60,343.00
+736,Mercedes-Benz,AMG SL 63,Two-seater,5.50,8,A7,Z,15.30,10.20,13.00,303.00
+737,Mercedes-Benz,AMG SLC 43,Two-seater,3.00,6,A9,Z,11.80,8.20,10.20,238.00
+738,Mercedes-Benz,B 250,Station wagon: Small,2.00,4,AM7,Z,9.80,6.80,8.40,196.00
+739,Mercedes-Benz,B 250 4MATIC,Station wagon: Small,2.00,4,AM7,Z,10.30,7.80,9.10,215.00
+740,Mercedes-Benz,C 300 4MATIC,Compact,2.00,4,A9,Z,11.00,7.30,9.40,219.00
+741,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2.00,4,A9,Z,11.30,8.10,9.90,231.00
+742,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2.00,4,A9,Z,10.90,7.70,9.50,221.00
+743,Mercedes-Benz,C 300 4MATIC Wagon,Station wagon: Small,2.00,4,A9,Z,10.90,7.70,9.50,221.00
+744,Mercedes-Benz,CLA 250,Minicompact,2.00,4,AM7,Z,9.60,6.60,8.20,193.00
+745,Mercedes-Benz,CLA 250 4MATIC,Minicompact,2.00,4,AM7,Z,9.90,7.30,8.70,204.00
+746,Mercedes-Benz,CLS 450 4MATIC,Compact,3.00,6,A9,Z,11.30,7.90,9.80,213.00
+747,Mercedes-Benz,E 300 4MATIC,Mid-size,2.00,4,A9,Z,11.00,8.10,9.70,228.00
+748,Mercedes-Benz,E 450 4MATIC,Mid-size,3.00,6,A9,Z,11.80,8.50,10.30,244.00
+749,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3.00,6,A9,Z,12.70,10.10,11.60,271.00
+750,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3.00,6,A9,Z,12.50,9.10,11.00,257.00
+751,Mercedes-Benz,E 450 4MATIC Wagon,Station wagon: Mid-size,3.00,6,A9,Z,12.30,8.90,10.80,254.00
+752,Mercedes-Benz,G 550,SUV: Standard,4.00,8,A9,Z,18.00,14.10,16.30,378.00
+753,Mercedes-Benz,GLA 250 4MATIC,SUV: Small,2.00,4,AM7,Z,10.10,7.60,9.00,209.00
+754,Mercedes-Benz,GLC 300 4MATIC,SUV: Small,2.00,4,A9,Z,11.00,8.70,10.00,234.00
+755,Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,2.00,4,A9,Z,10.80,9.00,10.00,234.00
+756,Mercedes-Benz,GLE 400 4MATIC,SUV: Standard,3.00,6,A9,Z,13.50,10.30,12.10,282.00
+757,Mercedes-Benz,GLS 450 4MATIC,SUV: Standard,3.00,6,A9,Z,14.90,11.20,13.20,312.00
+758,Mercedes-Benz,GLS 550 4MATIC,SUV: Standard,4.70,8,A9,Z,17.20,12.60,15.10,355.00
+759,Mercedes-Benz,Maybach S 560 4MATIC,Full-size,4.00,8,A9,Z,14.40,9.50,12.20,286.00
+760,Mercedes-Benz,Maybach S 650,Full-size,6.00,12,A7,Z,18.40,11.10,15.10,355.00
+761,Mercedes-Benz,Metris Cargo,Special purpose vehicle,2.00,4,A7,Z,11.50,9.80,10.70,251.00
+762,Mercedes-Benz,Metris Cargo LWB,Special purpose vehicle,2.00,4,A7,Z,11.30,9.60,10.50,248.00
+763,Mercedes-Benz,Metris Passenger,Special purpose vehicle,2.00,4,A7,Z,12.30,10.30,11.40,268.00
+764,Mercedes-Benz,S 450 4MATIC SWB,Mid-size,3.00,6,A9,Z,12.80,8.50,10.80,253.00
+765,Mercedes-Benz,S 560 Cabriolet,Subcompact,4.00,8,A9,Z,13.80,9.20,11.70,275.00
+766,Mercedes-Benz,S 560 4MATIC,Full-size,4.00,8,A9,Z,13.50,8.60,11.30,265.00
+767,Mercedes-Benz,S 560 4MATIC SWB,Mid-size,4.00,8,A9,Z,13.50,8.60,11.30,265.00
+768,Mercedes-Benz,SL 450,Two-seater,3.00,6,A9,Z,11.80,8.50,10.30,241.00
+769,Mercedes-Benz,SL 550,Two-seater,4.70,8,A9,Z,13.50,9.30,11.60,270.00
+770,Mercedes-Benz,SLC 300,Two-seater,2.00,4,A9,Z,10.00,7.30,8.80,205.00
+771,MINI,Cooper 3 Door,Subcompact,1.50,3,AS6,Z,8.80,6.80,7.90,184.00
+772,MINI,Cooper 3 Door,Subcompact,1.50,3,M6,Z,8.50,6.20,7.50,175.00
+773,MINI,Cooper 5 Door,Subcompact,1.50,3,AS6,Z,8.80,6.80,7.90,184.00
+774,MINI,Cooper 5 Door,Subcompact,1.50,3,M6,Z,8.40,6.30,7.50,175.00
+775,MINI,Cooper Clubman ALL4,Mid-size,1.50,3,AS8,Z,10.20,7.60,9.00,212.00
+776,MINI,Cooper Clubman ALL4,Mid-size,1.50,3,M6,Z,10.50,7.40,9.10,214.00
+777,MINI,Cooper Convertible,Minicompact,1.50,3,AS6,Z,8.80,6.80,7.90,184.00
+778,MINI,Cooper Convertible,Minicompact,1.50,3,M6,Z,8.40,6.30,7.50,175.00
+779,MINI,Cooper Countryman ALL4,Station wagon: Small,1.50,3,AS8,Z,10.30,7.90,9.20,215.00
+780,MINI,Cooper Countryman ALL4,Station wagon: Small,1.50,3,M6,Z,10.50,7.40,9.10,214.00
+781,MINI,Cooper S 3 Door,Subcompact,2.00,4,AS6,Z,9.30,7.30,8.40,197.00
+782,MINI,Cooper S 3 Door,Subcompact,2.00,4,M6,Z,10.20,7.40,9.00,210.00
+783,MINI,Cooper S 5 Door,Subcompact,2.00,4,AS6,Z,9.30,7.30,8.40,197.00
+784,MINI,Cooper S 5 Door,Subcompact,2.00,4,M6,Z,10.20,7.40,9.00,210.00
+785,MINI,Cooper S Clubman ALL4,Mid-size,2.00,4,AS8,Z,10.40,7.60,9.20,214.00
+786,MINI,Cooper S Clubman ALL4,Mid-size,2.00,4,M6,Z,11.40,7.70,9.70,227.00
+787,MINI,Cooper S Convertible,Minicompact,2.00,4,AS6,Z,9.40,7.20,8.40,197.00
+788,MINI,Cooper S Convertible,Minicompact,2.00,4,M6,Z,10.20,7.40,9.00,210.00
+789,MINI,Cooper S Countryman ALL4,Mid-size,2.00,4,AS8,Z,10.50,7.60,9.20,215.00
+790,MINI,Cooper S Countryman ALL4,Mid-size,2.00,4,M6,Z,11.30,7.80,9.70,228.00
+791,MINI,John Cooper Works 3 Door,Subcompact,2.00,4,AS6,Z,9.30,7.30,8.40,197.00
+792,MINI,John Cooper Works 3 Door,Subcompact,2.00,4,M6,Z,10.20,7.40,9.00,210.00
+793,MINI,John Cooper Works Clubman ALL4,Mid-size,2.00,4,AS8,Z,10.40,7.60,9.20,214.00
+794,MINI,John Cooper Works Clubman ALL4,Mid-size,2.00,4,M6,Z,11.40,7.70,9.70,227.00
+795,MINI,John Cooper Works Convertible,Minicompact,2.00,4,AS6,Z,9.40,7.20,8.40,197.00
+796,MINI,John Cooper Works Convertible,Minicompact,2.00,4,M6,Z,10.80,7.70,9.40,220.00
+797,MINI,John Cooper Works Countryman ALL4,Mid-size,2.00,4,AS8,Z,10.60,7.80,9.30,220.00
+798,MINI,John Cooper Works Countryman ALL4,Mid-size,2.00,4,M6,Z,11.30,7.80,9.70,228.00
+799,Mitsubishi,Eclipse Cross 4WD,SUV: Small,1.50,4,AV8,X,9.60,8.90,9.30,216.00
+800,Mitsubishi,Mirage,Compact,1.20,3,AV,X,6.60,5.60,6.20,143.00
+801,Mitsubishi,Mirage,Compact,1.20,3,M5,X,7.10,5.80,6.50,151.00
+802,Mitsubishi,Mirage G4,Compact,1.20,3,AV,X,6.90,5.70,6.40,148.00
+803,Mitsubishi,Mirage G4,Compact,1.20,3,M5,X,7.20,5.90,6.60,153.00
+804,Mitsubishi,Outlander 4WD,SUV: Small,2.40,4,AV6,X,9.90,8.10,9.10,212.00
+805,Mitsubishi,Outlander 4WD,SUV: Small,3.00,6,AS6,Z,12.00,8.80,10.60,246.00
+806,Mitsubishi,RVR,SUV: Small,2.00,4,AV6,X,9.70,7.80,8.80,206.00
+807,Mitsubishi,RVR 4WD,SUV: Small,2.00,4,AV6,X,10.10,8.20,9.20,213.00
+808,Mitsubishi,RVR 4WD,SUV: Small,2.40,4,AV6,X,10.30,8.30,9.40,218.00
+809,Nissan,370Z,Two-seater,3.70,6,AS7,Z,12.60,9.30,11.10,261.00
+810,Nissan,370Z,Two-seater,3.70,6,M6,Z,13.30,9.30,11.50,270.00
+811,Nissan,370Z Roadster,Two-seater,3.70,6,AS7,Z,13.00,9.70,11.50,271.00
+812,Nissan,370Z Roadster,Two-seater,3.70,6,M6,Z,13.60,9.70,11.80,279.00
+813,Nissan,Altima,Mid-size,2.50,4,AV,X,8.60,6.10,7.40,174.00
+814,Nissan,Altima SR/Platinum,Mid-size,2.00,4,AV,X,9.10,6.90,8.10,190.00
+815,Nissan,Altima SR/Platinum,Mid-size,2.50,4,AV,X,8.50,6.30,7.50,177.00
+816,Nissan,Altima AWD,Mid-size,2.50,4,AV,X,9.10,6.50,7.90,186.00
+817,Nissan,Altima AWD SR/Platinum,Mid-size,2.50,4,AV,X,9.30,6.70,8.10,190.00
+818,Nissan,Armada 4WD,SUV: Standard,5.60,8,AS7,X,17.70,12.90,15.50,364.00
+819,Nissan,Frontier,Pickup truck: Small,2.50,4,A5,X,13.70,10.70,12.30,290.00
+820,Nissan,Frontier,Pickup truck: Small,4.00,6,A5,X,14.70,10.30,12.70,299.00
+821,Nissan,Frontier 4WD,Pickup truck: Small,4.00,6,A5,X,15.80,11.50,13.90,326.00
+822,Nissan,Frontier 4WD,Pickup truck: Small,4.00,6,M6,X,15.10,11.50,13.50,317.00
+823,Nissan,GT-R,Subcompact,3.80,6,AM6,Z,14.20,10.70,12.60,295.00
+824,Nissan,Kicks,Mid-size,1.60,4,AV,X,7.70,6.60,7.20,169.00
+825,Nissan,Maxima,Mid-size,3.50,6,AV7,Z,11.60,7.90,9.90,233.00
+826,Nissan,Micra,Compact,1.60,4,A4,X,9.00,6.80,8.00,188.00
+827,Nissan,Micra,Compact,1.60,4,M5,X,8.70,6.80,7.90,186.00
+828,Nissan,Murano,Station wagon: Mid-size,3.50,6,AV7,X,11.70,8.30,10.20,240.00
+829,Nissan,Murano AWD,Station wagon: Mid-size,3.50,6,AV7,X,11.70,8.50,10.30,242.00
+830,Nissan,NV200 Cargo Van,Special purpose vehicle,2.00,4,AV,X,9.80,8.80,9.30,218.00
+831,Nissan,Pathfinder,SUV: Small,3.50,6,AV,X,11.60,8.50,10.20,240.00
+832,Nissan,Pathfinder 4WD,SUV: Small,3.50,6,AV,X,12.10,8.90,10.70,250.00
+833,Nissan,Pathfinder 4WD Platinum,SUV: Small,3.50,6,AV,X,12.40,9.20,11.00,259.00
+834,Nissan,Qashqai,Station wagon: Small,2.00,4,AV7,X,8.60,7.20,8.00,188.00
+835,Nissan,Qashqai,Station wagon: Small,2.00,4,M6,X,10.10,8.10,9.20,217.00
+836,Nissan,Qashqai AWD,Station wagon: Small,2.00,4,AV7,X,9.10,7.60,8.40,198.00
+837,Nissan,Rogue,SUV: Small,2.50,4,AV,X,9.10,7.10,8.20,192.00
+838,Nissan,Rogue AWD,SUV: Small,2.50,4,AV,X,9.60,7.50,8.70,204.00
+839,Nissan,Sentra,Mid-size,1.80,4,AV,X,8.10,6.30,7.30,172.00
+840,Nissan,Sentra,Mid-size,1.80,4,M6,X,8.80,6.60,7.80,183.00
+841,Nissan,Sentra (Turbo),Mid-size,1.60,4,AV7,Z,8.90,7.30,8.20,193.00
+842,Nissan,Sentra (Turbo),Mid-size,1.60,4,M6,Z,9.10,7.30,8.30,195.00
+843,Nissan,Sentra Nismo,Mid-size,1.60,4,AV7,Z,9.40,7.80,8.70,205.00
+844,Nissan,Sentra Nismo,Mid-size,1.60,4,M6,Z,9.50,7.60,8.70,204.00
+845,Nissan,Titan,Pickup truck: Standard,5.60,8,AS7,X,15.00,11.20,13.30,312.00
+846,Nissan,Titan 4WD,Pickup truck: Standard,5.60,8,AS7,X,15.20,11.10,13.40,315.00
+847,Nissan,Titan 4WD Pro-4X,Pickup truck: Standard,5.60,8,AS7,X,15.90,11.90,14.10,331.00
+848,Nissan,Versa,Mid-size,1.60,4,AV,X,7.60,6.20,7.00,164.00
+849,Nissan,Versa,Mid-size,1.60,4,M5,X,8.60,6.60,7.70,180.00
+850,Porsche,911 Carrera,Minicompact,3.00,6,AM7,Z,10.60,8.00,9.40,221.00
+851,Porsche,911 Carrera,Minicompact,3.00,6,M7,Z,11.80,8.10,10.10,237.00
+852,Porsche,911 Carrera Cabriolet,Minicompact,3.00,6,AM7,Z,10.80,8.30,9.70,227.00
+853,Porsche,911 Carrera Cabriolet,Minicompact,3.00,6,M7,Z,12.00,8.20,10.30,241.00
+854,Porsche,911 Carrera GTS,Minicompact,3.00,6,AM7,Z,11.50,9.10,10.40,243.00
+855,Porsche,911 Carrera GTS,Minicompact,3.00,6,M7,Z,13.00,8.90,11.20,260.00
+856,Porsche,911 Carrera GTS Cabriolet,Minicompact,3.00,6,AM7,Z,11.80,9.20,10.70,249.00
+857,Porsche,911 Carrera GTS Cabriolet,Minicompact,3.00,6,M7,Z,12.70,9.00,11.00,258.00
+858,Porsche,911 Carrera S,Minicompact,3.00,6,AM7,Z,10.80,8.30,9.70,226.00
+859,Porsche,911 Carrera S,Minicompact,3.00,6,M7,Z,12.10,8.30,10.30,242.00
+860,Porsche,911 Carrera S Cabriolet,Minicompact,3.00,6,AM7,Z,10.80,8.40,9.70,228.00
+861,Porsche,911 Carrera S Cabriolet,Minicompact,3.00,6,M7,Z,12.10,8.30,10.40,243.00
+862,Porsche,911 Carrera T,Minicompact,3.00,6,AM7,Z,11.90,9.10,10.60,248.00
+863,Porsche,911 Carrera T,Minicompact,3.00,6,M7,Z,14.60,9.40,12.30,286.00
+864,Porsche,911 Carrera 4,Minicompact,3.00,6,AM7,Z,10.70,8.30,9.60,225.00
+865,Porsche,911 Carrera 4,Minicompact,3.00,6,M7,Z,12.10,8.30,10.40,242.00
+866,Porsche,911 Carrera 4 Cabriolet,Minicompact,3.00,6,AM7,Z,11.00,8.40,9.80,230.00
+867,Porsche,911 Carrera 4 Cabriolet,Minicompact,3.00,6,M7,Z,12.20,8.50,10.50,246.00
+868,Porsche,911 Carrera 4 GTS,Minicompact,3.00,6,AM7,Z,11.80,9.20,10.60,248.00
+869,Porsche,911 Carrera 4 GTS,Minicompact,3.00,6,M7,Z,12.80,8.90,11.00,257.00
+870,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact,3.00,6,AM7,Z,11.90,9.30,10.70,250.00
+871,Porsche,911 Carrera 4 GTS Cabriolet,Minicompact,3.00,6,M7,Z,12.90,9.10,11.20,260.00
+872,Porsche,911 Carrera 4S,Minicompact,3.00,6,AM7,Z,11.10,8.50,9.90,232.00
+873,Porsche,911 Carrera 4S,Minicompact,3.00,6,M7,Z,12.10,8.40,10.40,243.00
+874,Porsche,911 Carrera 4S Cabriolet,Minicompact,3.00,6,AM7,Z,11.00,8.50,9.90,231.00
+875,Porsche,911 Carrera 4S Cabriolet,Minicompact,3.00,6,M7,Z,12.20,8.50,10.50,246.00
+876,Porsche,911 GT2 RS,Two-seater,3.80,6,AM7,Z,15.30,11.20,13.50,315.00
+877,Porsche,911 GT3,Two-seater,4.00,6,AM7,Z,15.80,11.70,13.90,324.00
+878,Porsche,911 GT3,Two-seater,4.00,6,M6,Z,18.00,11.50,15.10,352.00
+879,Porsche,911 GT3 RS,Two-seater,4.00,6,AM7,Z,16.10,12.20,14.40,335.00
+880,Porsche,911 GT3 Touring,Two-seater,4.00,6,M6,Z,16.40,11.20,14.10,334.00
+881,Porsche,911 Speedster,Two-seater,4.00,6,M6,Z,17.40,12.40,15.10,350.00
+882,Porsche,911 Targa 4,Minicompact,3.00,6,AM7,Z,10.90,8.40,9.80,228.00
+883,Porsche,911 Targa 4,Minicompact,3.00,6,M7,Z,12.20,8.50,10.50,246.00
+884,Porsche,911 Targa 4 GTS,Minicompact,3.00,6,AM7,Z,12.10,9.20,10.80,251.00
+885,Porsche,911 Targa 4 GTS,Minicompact,3.00,6,M7,Z,13.20,9.20,11.40,266.00
+886,Porsche,911 Targa 4S,Minicompact,3.00,6,AM7,Z,11.10,8.60,10.00,233.00
+887,Porsche,911 Targa 4S,Minicompact,3.00,6,M7,Z,12.20,8.50,10.50,246.00
+888,Porsche,911 Turbo,Minicompact,3.80,6,AM7,Z,12.60,9.90,11.40,266.00
+889,Porsche,911 Turbo Cabriolet,Minicompact,3.80,6,AM7,Z,12.70,9.90,11.40,267.00
+890,Porsche,911 Turbo S,Minicompact,3.80,6,AM7,Z,12.60,9.90,11.40,266.00
+891,Porsche,911 Turbo S Cabriolet,Minicompact,3.80,6,AM7,Z,12.70,9.90,11.40,267.00
+892,Porsche,911 Turbo S Exclusive Cabriolet,Minicompact,3.80,6,AM7,Z,14.30,10.90,12.70,297.00
+893,Porsche,Boxster,Two-seater,2.00,4,AM7,Z,10.50,8.00,9.40,219.00
+894,Porsche,Boxster,Two-seater,2.00,4,M6,Z,11.00,8.30,9.80,229.00
+895,Porsche,Boxster GTS,Two-seater,2.50,4,AM7,Z,11.80,9.20,10.60,249.00
+896,Porsche,Boxster GTS,Two-seater,2.50,4,M6,Z,12.30,9.40,11.00,257.00
+897,Porsche,Boxster S,Two-seater,2.50,4,AM7,Z,11.10,8.40,9.90,231.00
+898,Porsche,Boxster S,Two-seater,2.50,4,M6,Z,12.10,9.00,10.70,249.00
+899,Porsche,Cayenne,SUV: Standard,3.00,6,AS8,Z,12.50,10.00,11.40,265.00
+900,Porsche,Cayenne S,SUV: Standard,2.90,6,AS8,Z,12.90,10.40,11.80,275.00
+901,Porsche,Cayenne Turbo,SUV: Standard,4.00,8,AS8,Z,15.60,12.40,14.10,329.00
+902,Porsche,Cayman,Two-seater,2.00,4,AM7,Z,10.50,8.00,9.40,219.00
+903,Porsche,Cayman,Two-seater,2.00,4,M6,Z,11.00,8.30,9.80,229.00
+904,Porsche,Cayman GTS,Two-seater,2.50,4,AM7,Z,11.80,9.20,10.60,249.00
+905,Porsche,Cayman GTS,Two-seater,2.50,4,M6,Z,12.30,9.40,11.00,257.00
+906,Porsche,Cayman S,Two-seater,2.50,4,AM7,Z,11.10,8.40,9.90,231.00
+907,Porsche,Cayman S,Two-seater,2.50,4,M6,Z,12.10,9.00,10.70,249.00
+908,Porsche,Macan,SUV: Small,2.00,4,AM7,Z,12.20,10.20,11.30,264.00
+909,Porsche,Macan S,SUV: Small,3.00,6,AM7,Z,12.90,10.20,11.70,272.00
+910,Porsche,Panamera,Full-size,3.00,6,AM8,Z,12.40,8.70,10.70,250.00
+911,Porsche,Panamera 4,Full-size,3.00,6,AM8,Z,12.40,9.00,10.90,253.00
+912,Porsche,Panamera 4 Executive,Full-size,3.00,6,AM8,Z,12.40,9.00,10.90,253.00
+913,Porsche,Panamera 4 ST,Full-size,3.00,6,AM8,Z,12.20,8.90,10.70,250.00
+914,Porsche,Panamera 4S,Full-size,2.90,6,AM8,Z,13.10,8.90,11.20,261.00
+915,Porsche,Panamera 4S Executive,Full-size,2.90,6,AM8,Z,13.10,8.90,11.20,261.00
+916,Porsche,Panamera 4S ST,Full-size,2.90,6,AM8,Z,13.10,9.80,11.60,273.00
+917,Porsche,Panamera GTS,Full-size,4.00,8,AM8,Z,14.50,10.20,12.60,295.00
+918,Porsche,Panamera GTS ST,Full-size,4.00,8,AM8,Z,15.70,10.50,13.40,313.00
+919,Porsche,Panamera Turbo,Full-size,4.00,8,AM8,Z,12.80,9.20,11.20,261.00
+920,Porsche,Panamera Turbo Executive,Full-size,4.00,8,AM8,Z,12.80,9.20,11.20,261.00
+921,Porsche,Panamera Turbo ST,Full-size,4.00,8,AM8,Z,13.40,10.10,11.90,279.00
+922,Ram,1500 eTorque,Pickup truck: Standard,3.60,6,A8,X,11.90,9.40,10.80,253.00
+923,Ram,1500 HFE eTorque,Pickup truck: Standard,3.60,6,A8,X,11.60,9.00,10.40,246.00
+924,Ram,1500,Pickup truck: Standard,5.70,8,A8,X,16.20,10.50,13.60,320.00
+925,Ram,1500 eTorque,Pickup truck: Standard,5.70,8,A8,X,14.10,10.30,12.40,290.00
+926,Ram,1500 4X4 eTorque,Pickup truck: Standard,3.60,6,A8,X,12.20,9.70,11.10,260.00
+927,Ram,1500 4X4,Pickup truck: Standard,5.70,8,A8,X,16.10,11.00,13.80,325.00
+928,Ram,1500 4X4 eTorque,Pickup truck: Standard,5.70,8,A8,X,14.30,11.10,12.90,302.00
+929,Ram,1500 Classic EcoDiesel,Pickup truck: Standard,3.00,6,A8,D,11.80,8.60,10.40,278.00
+930,Ram,1500 Classic FFV,Pickup truck: Standard,3.60,6,A8,X,13.90,9.60,11.90,280.00
+931,Ram,1500 Classic FFV,Pickup truck: Standard,3.60,6,A8,E,19.70,13.80,17.00,283.00
+932,Ram,1500 Classic,Pickup truck: Standard,5.70,8,A6,X,17.00,12.00,14.80,346.00
+933,Ram,1500 Classic,Pickup truck: Standard,5.70,8,A8,X,15.70,11.00,13.60,319.00
+934,Ram,1500 Classic 4X4 EcoDiesel,Pickup truck: Standard,3.00,6,A8,D,12.30,8.80,10.80,289.00
+935,Ram,1500 Classic 4X4 FFV,Pickup truck: Standard,3.60,6,A8,X,14.50,10.20,12.60,294.00
+936,Ram,1500 Classic 4X4 FFV,Pickup truck: Standard,3.60,6,A8,E,20.70,14.70,18.00,300.00
+937,Ram,1500 Classic 4X4,Pickup truck: Standard,5.70,8,A6,X,18.70,13.30,16.30,382.00
+938,Ram,1500 Classic 4X4,Pickup truck: Standard,5.70,8,A8,X,16.10,11.50,14.00,328.00
+939,Ram,ProMaster City,Special purpose vehicle,2.40,4,A9,X,11.20,8.30,9.90,232.00
+940,Rolls-Royce,Cullinan,Station wagon: Mid-size,6.70,12,AS8,Z,20.00,11.80,16.30,382.00
+941,Rolls-Royce,Dawn,Compact,6.60,12,AS8,Z,20.30,13.00,17.00,397.00
+942,Rolls-Royce,Ghost,Full-size,6.60,12,AS8,Z,20.30,13.00,17.00,397.00
+943,Rolls-Royce,Ghost EWB,Full-size,6.60,12,AS8,Z,20.30,13.00,17.00,397.00
+944,Rolls-Royce,Phantom,Full-size,6.70,12,AS8,Z,20.00,11.80,16.30,382.00
+945,Rolls-Royce,Phantom EWB,Full-size,6.70,12,AS8,Z,20.00,11.80,16.30,382.00
+946,Rolls-Royce,Wraith,Mid-size,6.60,12,AS8,Z,19.60,12.90,16.60,388.00
+947,Subaru,Ascent AWD,SUV: Standard,2.40,4,AV8,X,11.60,9.00,10.40,244.00
+948,Subaru,BRZ,Minicompact,2.00,4,AS6,Z,9.70,7.20,8.60,200.00
+949,Subaru,BRZ,Minicompact,2.00,4,M6,Z,11.20,8.30,9.90,231.00
+950,Subaru,Crosstrek AWD,SUV: Small,2.00,4,AV7,X,8.80,7.20,8.10,188.00
+951,Subaru,Crosstrek AWD,SUV: Small,2.00,4,M6,X,10.50,8.10,9.40,220.00
+952,Subaru,Forester AWD,SUV: Small,2.50,4,AV7,X,9.00,7.20,8.20,192.00
+953,Subaru,Impreza 4-Door AWD,Mid-size,2.00,4,AV7,X,8.30,6.40,7.50,174.00
+954,Subaru,Impreza 4-Door AWD,Mid-size,2.00,4,M5,X,10.10,7.50,8.90,209.00
+955,Subaru,Impreza 5-Door AWD,Station wagon: Small,2.00,4,AV7,X,8.40,6.60,7.60,177.00
+956,Subaru,Impreza 5-Door AWD,Station wagon: Small,2.00,4,M5,X,10.10,7.70,9.00,211.00
+957,Subaru,Legacy AWD,Mid-size,2.50,4,AV7,X,9.30,7.00,8.20,193.00
+958,Subaru,Legacy AWD,Mid-size,3.60,6,AV6,X,11.90,8.30,10.30,241.00
+959,Subaru,Outback AWD,SUV: Small,2.50,4,AV7,X,9.40,7.30,8.50,198.00
+960,Subaru,Outback AWD,SUV: Small,3.60,6,AV6,X,12.00,8.70,10.50,247.00
+961,Subaru,WRX AWD,Compact,2.00,4,AV8,Z,12.60,9.60,11.20,256.00
+962,Subaru,WRX AWD,Compact,2.00,4,M6,Z,11.30,8.50,10.00,235.00
+963,Subaru,WRX STI AWD,Compact,2.50,4,M6,Z,14.30,10.70,12.70,296.00
+964,Toyota,4Runner 4WD,SUV: Standard,4.00,6,AS5,X,14.30,11.90,13.20,308.00
+965,Toyota,4Runner 4WD (Part-Time 4WD),SUV: Standard,4.00,6,AS5,X,14.30,11.90,13.20,308.00
+966,Toyota,86,Minicompact,2.00,4,AS6,Z,9.90,7.30,8.70,204.00
+967,Toyota,86,Minicompact,2.00,4,M6,Z,11.30,8.30,9.90,232.00
+968,Toyota,Avalon,Mid-size,3.50,6,AS8,X,10.90,7.60,9.40,220.00
+969,Toyota,Camry,Mid-size,2.50,4,AS8,X,8.10,5.70,6.90,164.00
+970,Toyota,Camry LE/SE,Mid-size,2.50,4,AS8,X,8.40,6.10,7.40,173.00
+971,Toyota,Camry XLE/XSE,Mid-size,2.50,4,AS8,X,8.50,6.20,7.50,175.00
+972,Toyota,Camry,Mid-size,3.50,6,AS8,X,10.50,7.10,9.00,210.00
+973,Toyota,Camry XSE,Mid-size,3.50,6,AS8,X,10.70,7.40,9.20,215.00
+974,Toyota,Camry Hybrid LE,Mid-size,2.50,4,AV6,X,4.90,4.80,4.90,113.00
+975,Toyota,Camry Hybrid XLE/SE,Mid-size,2.50,4,AV6,X,5.30,5.00,5.10,121.00
+976,Toyota,C-HR,Compact,2.00,4,AS7,X,8.70,7.50,8.20,189.00
+977,Toyota,Corolla,Mid-size,1.80,4,AV,X,8.30,6.50,7.50,174.00
+978,Toyota,Corolla,Mid-size,1.80,4,AV7,X,8.30,6.70,7.60,178.00
+979,Toyota,Corolla,Mid-size,1.80,4,M6,X,8.50,6.60,7.60,178.00
+980,Toyota,Corolla LE Eco,Mid-size,1.80,4,AV,X,7.80,5.90,6.90,163.00
+981,Toyota,Corolla Hatchback,Compact,2.00,4,AV10,X,7.50,5.80,6.70,157.00
+982,Toyota,Corolla Hatchback,Compact,2.00,4,M6,X,8.40,6.30,7.50,174.00
+983,Toyota,Highlander,SUV: Small,3.50,6,AS8,X,11.80,8.70,10.30,243.00
+984,Toyota,Highlander AWD,SUV: Standard,3.50,6,AS8,X,12.10,9.00,10.60,250.00
+985,Toyota,Highlander AWD (Start/Stop System),SUV: Standard,3.50,6,AS8,X,12.00,8.90,10.60,248.00
+986,Toyota,Highlander AWD LE,SUV: Standard,3.50,6,AS8,X,11.70,8.80,10.40,242.00
+987,Toyota,Highlander Hybrid AWD,SUV: Standard,3.50,6,AV6,X,8.10,8.50,8.30,193.00
+988,Toyota,Prius,Mid-size,1.80,4,AV,X,4.40,4.60,4.40,105.00
+989,Toyota,Prius AWD,Mid-size,1.80,4,AV,X,4.50,4.90,4.70,109.00
+990,Toyota,Prius c,Compact,1.50,4,AV,X,4.90,5.50,5.10,120.00
+991,Toyota,RAV4,SUV: Small,2.50,4,AS8,X,8.80,6.70,7.80,183.00
+992,Toyota,RAV4 AWD,SUV: Small,2.50,4,AS8,X,9.20,7.10,8.30,190.00
+993,Toyota,RAV4 Hybrid AWD,SUV: Small,2.50,4,AV6,X,5.80,6.30,6.00,140.00
+994,Toyota,Sequoia 4WD,SUV: Standard,5.70,8,AS6,X,18.40,13.80,16.40,384.00
+995,Toyota,Sienna,Minivan,3.50,6,AS8,X,12.40,8.90,10.80,254.00
+996,Toyota,Sienna AWD,Minivan,3.50,6,AS8,X,13.40,9.60,11.70,274.00
+997,Toyota,Tacoma,Pickup truck: Small,2.70,4,AS6,X,12.10,10.10,11.20,263.00
+998,Toyota,Tacoma 4WD,Pickup truck: Small,2.70,4,AS6,X,12.70,10.60,11.70,274.00
+999,Toyota,Tacoma 4WD,Pickup truck: Small,3.50,6,AS6,X,13.00,10.50,11.90,278.00
+1000,Toyota,Tacoma 4WD,Pickup truck: Small,3.50,6,M6,X,13.80,11.40,12.70,299.00
+1001,Toyota,Tacoma 4WD D-Cab Off-Road,Pickup truck: Small,3.50,6,M6,X,13.80,11.70,12.90,300.00
+1002,Toyota,Tundra,Pickup truck: Standard,5.70,8,AS6,X,17.70,13.60,15.90,371.00
+1003,Toyota,Tundra 4WD,Pickup truck: Standard,4.60,8,AS6,X,16.80,13.10,14.90,354.00
+1004,Toyota,Tundra 4WD,Pickup truck: Standard,5.70,8,AS6,X,18.00,14.10,16.30,382.00
+1005,Toyota,Yaris,Compact,1.50,4,AS6,X,7.30,5.80,6.60,155.00
+1006,Toyota,Yaris (SIL),Compact,1.50,4,M6,X,7.80,6.00,6.80,164.00
+1007,Toyota,Yaris Hatchback,Compact,1.50,4,A4,X,7.90,6.80,7.40,173.00
+1008,Toyota,Yaris Hatchback,Compact,1.50,4,M5,X,7.80,6.50,7.20,169.00
+1009,Volkswagen,Arteon 4MOTION,Full-size,2.00,4,AS8,Z,12.00,8.60,10.40,244.00
+1010,Volkswagen,Atlas,SUV: Small,2.00,4,AS8,X,11.60,9.10,10.50,245.00
+1011,Volkswagen,Atlas 4MOTION,SUV: Standard,3.60,6,AS8,X,13.80,10.20,12.20,286.00
+1012,Volkswagen,Beetle,Compact,2.00,4,AS6,X,9.00,7.10,8.20,191.00
+1013,Volkswagen,Beetle Convertible,Subcompact,2.00,4,AS6,X,9.00,7.10,8.20,191.00
+1014,Volkswagen,Golf,Compact,1.40,4,AS8,X,8.10,6.40,7.40,172.00
+1015,Volkswagen,Golf,Compact,1.40,4,M6,X,8.20,6.30,7.40,172.00
+1016,Volkswagen,Golf GTI,Compact,2.00,4,AM7,X,9.60,7.50,8.60,202.00
+1017,Volkswagen,Golf GTI,Compact,2.00,4,M6,X,9.80,7.30,8.70,203.00
+1018,Volkswagen,Golf R,Compact,2.00,4,AM7,Z,10.20,7.90,9.20,213.00
+1019,Volkswagen,Golf R,Compact,2.00,4,M6,Z,11.40,8.20,9.90,232.00
+1020,Volkswagen,Golf Alltrack,Station wagon: Small,1.80,4,AM6,X,10.70,8.00,9.40,220.00
+1021,Volkswagen,Golf Alltrack,Station wagon: Small,1.80,4,M6,X,11.10,7.80,9.60,225.00
+1022,Volkswagen,Golf SportWagen,Station wagon: Small,1.40,4,AS8,X,8.60,6.50,7.60,178.00
+1023,Volkswagen,Golf SportWagen,Station wagon: Small,1.40,4,M6,X,8.20,6.30,7.40,172.00
+1024,Volkswagen,Golf SportWagen 4MOTION,Station wagon: Small,1.80,4,AM6,X,10.80,8.10,9.60,224.00
+1025,Volkswagen,Golf SportWagen 4MOTION,Station wagon: Small,1.80,4,M6,X,10.80,7.60,9.30,218.00
+1026,Volkswagen,Jetta,Compact,1.40,4,AS8,X,7.80,5.90,7.00,163.00
+1027,Volkswagen,Jetta,Compact,1.40,4,M6,X,7.90,5.90,7.00,163.00
+1028,Volkswagen,Jetta GLI,Compact,2.00,4,AM7,X,9.30,7.20,8.40,196.00
+1029,Volkswagen,Jetta GLI,Compact,2.00,4,M6,X,9.60,7.30,8.50,200.00
+1030,Volkswagen,Passat,Mid-size,2.00,4,AS6,X,9.30,6.50,8.10,188.00
+1031,Volkswagen,Tiguan,SUV: Small,2.00,4,AS8,X,10.70,8.00,9.50,221.00
+1032,Volkswagen,Tiguan 4MOTION,SUV: Small,2.00,4,AS8,X,11.10,8.10,9.80,228.00
+1033,Volvo,S60 T5,Compact,2.00,4,AS8,Z,9.90,6.60,8.40,197.00
+1034,Volvo,S60 T6 AWD,Compact,2.00,4,AS8,Z,11.10,7.30,9.40,218.00
+1035,Volvo,S90 T5 AWD,Mid-size,2.00,4,AS8,Z,10.60,7.40,9.20,215.00
+1036,Volvo,S90 T6 AWD,Mid-size,2.00,4,AS8,Z,11.10,7.30,9.40,219.00
+1037,Volvo,V60 T5,Station wagon: Small,2.00,4,AS8,Z,9.90,6.60,8.40,197.00
+1038,Volvo,V60 T6 AWD,Station wagon: Small,2.00,4,AS8,Z,11.10,7.30,9.40,219.00
+1039,Volvo,V60 CC T5 AWD,Station wagon: Small,2.00,4,AS8,Z,10.80,7.60,9.30,218.00
+1040,Volvo,V90 T6 AWD,Station wagon: Mid-size,2.00,4,AS8,Z,11.10,7.30,9.40,219.00
+1041,Volvo,V90 CC T6 AWD,Station wagon: Mid-size,2.00,4,AS8,Z,11.60,8.10,10.00,233.00
+1042,Volvo,XC40 T5 AWD,SUV: Small,2.00,4,AS8,Z,10.30,7.50,9.00,211.00
+1043,Volvo,XC60 T5 AWD,SUV: Small,2.00,4,AS8,Z,11.30,8.50,10.00,233.00
+1044,Volvo,XC60 T6 AWD,SUV: Small,2.00,4,AS8,Z,11.80,8.60,10.40,242.00
+1045,Volvo,XC90 T5 AWD,SUV: Standard,2.00,4,AS8,Z,11.30,8.50,10.00,233.00
+1046,Volvo,XC90 T6 AWD,SUV: Standard,2.00,4,AS8,Z,12.10,8.90,10.70,250.00
